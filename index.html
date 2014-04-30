@@ -16,6 +16,14 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 <style>
+/* LIST #2 */
+#list2 { width:320px; }
+#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:24px; color:#000000;  }
+#list2 ol li { }
+#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:13px; color:#000; border-left: 1px solid #999; }
+#list2 ol li p em { display:block; }
+</style>    
+<style>
 .memberbox{margin-top:15px; margin-bottom:10px;}
 .memberbox h2{color:#aaa; font-size:150%; margin-bottom:0}
 .carousel-caption .pix-thumb{position:relative; min-width:45px; margin-right:5px; border-radius:6px; width:45px; height:45px; background-image: url(./images/captain.png); background-size: 100% 100%;}
@@ -198,24 +206,8 @@
         <p class="lead">
           <ul class="lead">
             <li>
-              TBD</li>
-            <!-- <li>
-              (LIVE) Hampton Roads Local Wiki
-              (<a href="http://hrvawiki.org/">wiki</a>)
-            <li>
-              (LIVE) IArtNorfolk: Local Fine Art
-              (<a href="http://iartnorfolk.com/">demo</a>)
-              (<a href="https://github.com/c4hrva/iArtNorfolk">code</a>)</li>
-            <li>
-              (pre-beta) Heat Maps of VB Traffic
-              (<a href="http://dev.bowdenweb.com/od/heatmap-js/demo/maps_heatmap_layer/gmaps-vb-adt-2012.html">demo</a>)
-              (<a href="https://github.com/jalbertbowden/vb-adt-heatmaps">code</a>)</li>
-            <li>
-              <a href="http://c4hrva.uservoice.com/">List of Future Ideas!</a>
-              Submit your Own Ideas, or Pick One To Help With</li>
-            <li>
-              <a href="http://data.codeforhamptonroads.org">List of public and open datasets in Hampton Roads</a>.
-              Use to create usefull and fun things. (<a href="http://hropendatalist.meteor.com/">old link list</a>)</li> -->
+              TBD - Suggest or vote on a topic <a href="http://rubyforgood.uservoice.com/">
+                      Here</a>.</li>
           </ul>
         </p>
       </div>
@@ -264,42 +256,49 @@
         <h2 class="featurette-heading">Tentative Schedule </span></h2>  
         <div class="span4">
           <h2>Day 1</h2>
-          <ul style="list-style: none;">
-            <li>Breakfast - Teams 1&2</li>
-            <li>Hacking</li>
-            <li>Lunch - Teams 3&4</li>
-            <li>Hacking</li>
-            <li>Hacking</li>
-            <li>Dinner - Teams 5&6</li>
-            <li>Boardgames/Socializing/Whatever</li>
-          </ul>
-        </div><!-- /.span4 -->
+          <div id="list2">
+           <ol>
+              <li><p><em>Breakfast</em> Prepared by teams 1&2</p></li>
+              <li><p><em>Hacking!</em> Getting start on our apps</p></li>
+              <li><p><em>Lunch</em> Prepared by teams 3&4</p></li>
+              <li><p><em>Hacking</em> Making some progress now</p></li>
+              <li><p><em>Hacking</em> Things starting to make sense</p></li>
+              <li><p><em>Dinner</em> Prepared by teams 5&6</p></li>              
+              <li><p><em>FUN!</em> Boardgames, Socializing, Whatever</p></li>   
+           </ol>
+        </div>
+      </div>
 
         <div class="span4">
           <h2>Day 2</h2>
-          <ul style="list-style: none;">
-            <li>Breakfast - Teams 7&8</li>
-            <li>Rspec Workshop</li>
-            <li>Lunch - Teams 9&10</li>
-            <li>Angularjs Workshop</li>
-            <li>Building APIs Workshop</li>            
-            <li>Dinner - Teams 11&12</li>
-            <li>Boardgames/Socializing/Whatever</li>
-          </ul>
-        </div><!-- /.span4 -->
+          <div id="list2">
+           <ol>
+              <li><p><em>Breakfast</em> Prepared by teams 7&8</p></li>
+              <li><p><em>Workshop</em> Using Rspec effectively, session to be led by a member of the Rspec core team</p></li>
+              <li><p><em>Lunch</em> Prepared by teams 9&10</p></li>
+              <li><p><em>Workshop</em> Beyond the basics of AngularJS</p></li>
+              <li><p><em>Workshop</em> Building APIs, session to be led by a contributor to the jsonapi project</p></li>
+              <li><p><em>Dinner</em> Prepared by teams 11&12</p></li>              
+              <li><p><em>FUN!</em> Boardgames, Socializing, Whatever</p></li>   
+           </ol>
+        </div>
+      </div>
+      <!-- /.span4 -->
 
         <div class="span4">
           <h2>Day 3</h2>
-          <ul style="list-style: none;">
-            <li>Breakfast - Teams 13&14</li>
-            <li>Hacking</li>
-            <li>Lunch - Teams 15&16</li>
-            <li>Hacking</li>
-            <li>Hacking</li>
-            <li>Dinner - Teams 17&18</li>
-            <li>Boardgames/Socializing/Whatever</li>
-          </ul>
-        </div><!-- /.span4 -->
+          <div id="list2">
+           <ol>
+              <li><p><em>Breakfast</em> Prepared by teams 13&14</p></li>
+              <li><p><em>Hacking</em> Putting in place some of the things we learned yesterday</p></li>
+              <li><p><em>Lunch</em> Prepared by teams 15&16</p></li>
+              <li><p><em>Hacking</em> Final touches</p></li>
+              <li><p><em>Showoff</em> Showing off what we've built and having a retrospective of the event</p></li>
+              <li><p><em>Dinner</em> Prepared by teams 17&18</p></li>              
+              <li><p><em>FUN!</em> Boardgames, Socializing, Whatever</p></li>   
+           </ol>
+        </div>
+      </div>
 
         <h3>Note: The teams listed for the meals are the ones responsible for cooking and cleanup after those meals.</h3>
       </div><!-- /.row -->
@@ -310,7 +309,7 @@
       <div class="featurette">
         <img name="contact" id="contact" class="featurette-image pull-right" src="">
         <h2 class="featurette-heading">Want Even More Info? <span class="muted">Contact Us.</span></h2>
-        <p class="lead">Our organizers are (<a href="mailto:sean@arlingtonruby.org">sean@arlingtonruby.org</a> or <a href="https://twitter.com/seanmarcia">@seanmarcia</a>) and Chris Sexton (<a href="mailto:chris@arlingtonruby.org">chris@arlingtonruby.org</a> or <a href="https://twitter.com/crsexton">@crsexton</a>) and we want to hear from you!</p>
+        <p class="lead">Our organizer is (<a href="mailto:sean@arlingtonruby.org">sean@arlingtonruby.org</a> or <a href="https://twitter.com/seanmarcia">@seanmarcia</a>) and I want to hear from you!</p>
       </div>  
 
       <hr class="featurette-divider">
