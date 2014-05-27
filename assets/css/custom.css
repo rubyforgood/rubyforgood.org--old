@@ -1,3 +1,11 @@
 .hero-big-em {
   color: rgba(0,0,0,0.1);
 }
+
+#schedule .panel .panel-title h4 {
+font-size: 27px;
+display: block;
+padding: 10px 0px 5px 0px;
+margin: 0px;
+color: #57c2be;
+}
