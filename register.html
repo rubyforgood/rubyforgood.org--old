@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Home</title>
+    <meta name="description" content="PSD to HTML5+CSS3 conversion.">
+    <meta name="keywords" content="PSD, HTML5, CSS3">
+    <meta name="author" content="Erwin Kaddy">
+
+    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.jpg">
+
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,700' rel='stylesheet' type='text/css'>
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/font-lineicons.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/style.css" id="mainstyle" type="text/css" media="all" />
+	<link rel="stylesheet" href="assets/css/toastr.min.css" type="text/css" media="all" />
+
+    
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="index" class="register-page">
+
+    <header id="mobileheader" class="navigation-bar-header light visible-xs"></header>
+    <!-- Hero Section -->
+    <section id="hero" class="light">
+      <div class="container">
+        <div class="home-bg">
+          <div class="hero-content text-center ">
+           <div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2>Sign up for <span class="highlight">event</span> now!</h2>
+						<div class="sub-title">and get your tickets emailed to you within 24 hours.</div>
+						<br/>
+						<br/>
+					</div>
+					<div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+						<form class="form form-register" method="post" action="process-form.php" novalidate="novalidate">
+							<div class="form-group">
+								<label for="ticket" class="col-sm-3 col-xs-12 control-label">Ticket type</label>
+								<div class="col-sm-9 col-xs-12">
+									<select class="form-control required" name="ticket" id="ticket" placeholder="Select your ticket type">
+										<option value="1 day - 100$">1 day - 100$</option>
+										<option value="2 days - 200$">2 days - 200$</option>
+										<option value="3 days - 150$" selected>3 days - 150$ <span class="highlight">(best value)</span></option>
+									</select>
+								</div>
+							</div>							
+							<div class="form-group">
+								<label for="fullname" class="col-sm-3 col-xs-12 control-label">Full name</label>
+								<div class="col-sm-9 col-xs-12">
+									<input type="text" class="form-control required" name="fullname" id="fullname" placeholder="Name Surname">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="company" class="col-sm-3 col-xs-12 control-label">Company</label>
+								<div class="col-sm-9 col-xs-12">
+									<input type="text" class="form-control" name="company" id="company" placeholder="Your Company">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="email" class="col-sm-3 col-xs-12 control-label">Email</label>
+								<div class="col-sm-9 col-xs-12">
+									<input type="email" class="form-control required email" name="email" id="email" placeholder="Email">
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-offset-2 col-sm-10">
+									<div class="checkbox">
+										<label>
+											<input type="checkbox" name="newsletter" value="1"> Submit to the monthly newsletter
+										</label>
+									</div>
+								</div>
+							</div>
+							<button type="submit" class="btn btn-primary btn-sm btn-block">Get started</button>
+						</form>
+						
+						<p class="agree-text center">By clicking you agree to our Terms of Service, Privacy Policy.<br>
+						Ventcamp v1.1© All rights reserved.</p>
+					</div>
+				</div>
+			</div>
+          </div>          
+        </div>
+      </div>
+    </section> 
+    <!-- End Hero Section -->
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="assets/js/jquery-1.11.0.min.js?ver=1"></script>
+    <![endif]-->  
+    <!--[if (gte IE 9) | (!IE)]><!-->  
+        <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js?ver=1"></script>
+    <!--<![endif]-->  
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script> 
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.nav.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
+    <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
+    <script type="text/javascript" src="assets/js/waypoints-sticky.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="assets/mailchimp/js/mailing-list.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.validate.js"></script>
+	<script type="text/javascript" src="assets/js/toastr.min.js"></script>
+    <script type="text/javascript" src="assets/js/form-validation.js"></script>
+    <script type="text/javascript" src="assets/js/scripts.js"></script>
+</body>
+</html>
