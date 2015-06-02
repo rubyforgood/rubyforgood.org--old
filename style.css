@@ -165,7 +165,7 @@
       line-height: 1;
       letter-spacing: -1px;
     }
-  
+
     #roster {
     }
 
@@ -178,7 +178,7 @@
       z-index: -1;
       opacity: .85;
       filter: alpha(opacity=85);
-      padding: 1em; 
+      padding: 1em;
       border: 8px solid #A7A9AC;
       border-radius: 16px;
     }
@@ -187,7 +187,7 @@
       list-style-type: none !important;
       margin: 0;
 
-      
+
     }
 
     #inner-roster ul li {
@@ -196,7 +196,7 @@
       font-size: 24px;
       color: black;
     }
-    
+
     /* RESPONSIVE CSS
     -------------------------------------------------- */
 
@@ -253,7 +253,7 @@
       .carousel .container {
 
       }
-      
+
       .carousel-caption {
         margin-bottom: 20px;
       }
