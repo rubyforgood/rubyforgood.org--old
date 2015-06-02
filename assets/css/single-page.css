@@ -1,0 +1,34 @@
+@media (min-width: 979px) {
+  body {
+    padding-top: 50px;
+  }
+  .container {
+    width: 800px;
+  }
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 20px;
+  }
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-inner {
+  background-color: #5ABFBC; /* background color will be black for all browsers */
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+  color: white;
+}
+
+.navbar .brand {
+  color: white;
+}
+.navbar .nav>li>a {
+  color: white;
+  text-shadow: none;
+}
