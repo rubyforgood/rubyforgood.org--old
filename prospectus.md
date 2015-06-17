@@ -57,3 +57,7 @@ By the very nature of our conference, our attendees are some of the most passion
 - Can suggest 1 topic to be worked on at the event.
 - Hugs on demand for life from the conference organizers
 - Two tickets to attend the conference
+
+**Note: The title of the Cotton sponsorship slot and positioning on this page is no way a reference to the importance we place on it. The name *Cotton* is meant to highlight the amazing and importance of this sponsorship level, much like the proud and majestic history of cotton itself. This amazing textile has a documented history of nearly 8000 years and its importance has been emphasized by notible historical figures like Alexander the Great, Herodotus, and King George V.**
+
+** The website placement is to again emphasize the importance of this sponsor. We want the last thing our visitors to see is this sponsorship level so it sticks in their head.**
