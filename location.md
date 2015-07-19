@@ -25,4 +25,4 @@ If you are flying to Dulles (IAD), take the silver line express. Get on the silv
 
 At the Vienna Metro stop leave through the North exit (turn left when you have to choose an exit) and then go to the GMU shuttle stop. The shuttle is free and you need to get off at the first stop on campus. You'll be able to see a Starbucks from the shuttle. The residences are directly behind the Starbucks, and just walk to the the one that has a giant sign out front that says Hampton Roads. In the map below the area circled in red shows where you get off the shuttle and the area in green shows the building you'll head to.
 
-![campus map][http://i.imgur.com/1MlbJkA.jpg]
+![campus map](http://i.imgur.com/1MlbJkA.jpg)
