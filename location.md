@@ -13,13 +13,13 @@ Fairfax, VA 22030
 
 ###Bus:
 
-If you are coming to DC via greyhound/megabus/etc it is likely that they will drop you off at Union Station. From Union Station you'll want to get on the Metro (there is a metro station at Union Station), ride the metro to the Metro Center stop, transfer to the Orange Line and then take the Orange Line to the Vienna Metro stop.
+If you are coming to DC via greyhound/megabus/etc it is likely that they will drop you off at Union Station. From Union Station you'll want to get on the Metro (there is a metro station at Union Station), ride the metro to the Metro Center stop, transfer to the Orange Line and then take the Orange Line to the Vienna Metro stop. Then follow the bus and plane directions below.
 
 ###Plane:
 
 If you are flying to National (DCA), take the Metro blue line to Rosslyn, transfer to the Orange line and ride it to the Vienna Metro stop.
 
-If you are flying to Dulles (IAD), take the silver line express. Get on the silver line, transfer to the Orange line at West Falls Church and then ride the orange line to the Vienna metro stop.
+If you are flying to Dulles (IAD), take the silver line express. Get on the silver line, transfer to the Orange line at West Falls Church and then ride the orange line to the Vienna metro stop. Then follow the bus and plane directions below.
 
 ###Bus and Plane:
 
