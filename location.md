@@ -11,6 +11,8 @@ If you are driving, the address is:
 4400 University Dr.
 Fairfax, VA 22030
 
+Parking is available on the Rappahannock parking deck (across from the dorms, #42 on the map below). You may park in the general area on levels 1 and 2. *Notes: Do not the pre-pay section, and there is no free parking on Thursday.*
+
 ###Bus:
 
 If you are coming to DC via greyhound/megabus/etc it is likely that they will drop you off at Union Station. From Union Station you'll want to get on the Metro (there is a metro station at Union Station), ride the metro to the Metro Center stop, transfer to the Orange Line and then take the Orange Line to the Vienna Metro stop. Then follow the bus and plane directions below.
