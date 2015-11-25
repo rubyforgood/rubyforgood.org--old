@@ -8,7 +8,7 @@ We're very proud to again be organizing the Ruby for Good conference. This confe
 
 ###Why Sponsor?
 
-By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Last year the conference met our attendance limit of 72 attendees, this year with our new location and access to a cafeteria we're be increasing the number of attendees to 85.
+By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Last year the conference met our attendance limit of 72 attendees, this year with our new location and access to a cafeteria we're be increasing the number of attendees to somewhere in the 85-100 range.
 
 ##Ruby Sponsor - Contact Us! (1 available)
 
