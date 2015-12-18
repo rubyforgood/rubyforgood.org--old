@@ -52,7 +52,7 @@ Our tentative schedule for 2016 looks like this:
 
 We're putting together a projects page of all the past projects and wonderful non-profits we've helped but they've included places like [Pathway Homes](http://www.pathwayhomes.org/) which helps adults with mental illness find housing, [Fairfax Humane Society](http://www.hsfc.org/), [Snapfresh](http://snapfresh.org/) which helps WIC (women, infants, children) users find locations they can use their vouchers to purchase healthy food, [Purple Door Coffee](http://www.purpledoorcoffee.com/) that help homeless teens and young adults leave that life behind as well as many others.
 
-###Here is what actual attendees wrote about the event:
+###Here is what actual attendees have written about the event:
 
 ###2014
 
