@@ -8,7 +8,7 @@ The organizers of Ruby for Good work year round contacting and working with non-
 
 During registration we ask registrants if they are interested in leading a team during the event.
 
-We'll have the team leads picked out approximately 1-2 months before the event from starts and we will let them know about the project as well as put them in contact with the non-profits that we are going to be working with. From there the team lead will speak to the non-profit, get program requirements and do some initial setup. This setup includes things like making a github repo, filing some issues and also making some technology suggestions. One of team leads, [Brandon](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/), had an excellent write up of his experience.
+We'll have the team leads picked out approximately 1-2 months before the event from starts and we will let them know about the project as well as put them in contact with the non-profits that we are going to be working with. From there the team lead will speak to the non-profit, get program requirements and do some initial setup. This setup includes things like making a github repo, filing some issues and also making some technology suggestions. One of team leads in a prior year, [Brandon](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/), had an excellent write up of his experience.
 
 On the first day of Ruby for Good, the team leads will make a "pitch" to the attendees about their project and any specific skill sets they'd love on their team. This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! The attendees self select into projects that are meaningful to them and the fun begins!
 
