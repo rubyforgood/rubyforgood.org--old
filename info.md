@@ -48,7 +48,7 @@ Our tentative schedule for 2016 looks like this:
 * noon-1pm Lunch
 * 1pm-3pm Demos! (If your project isn't finished, demo what you can!)
 
-### Note: We'll be having a guided tour of all the great animals and the amazing research being done led by [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) that will happen during one of these days that we will update the schedule to reflect when we have more information.
+**Note: We'll be having a guided tour of all the great animals and the amazing research being done led by [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) that will happen during one of these days that we will update the schedule to reflect when we have more information.**
 
 We're putting together a projects page of all the past projects and wonderful non-profits we've helped but they've included places like [Pathway Homes](http://www.pathwayhomes.org/) which helps adults with mental illness find housing, [Fairfax Humane Society](http://www.hsfc.org/), [Snapfresh](http://snapfresh.org/) which helps WIC (women, infants, children) users find locations they can use their vouchers to purchase healthy food, [Purple Door Coffee](http://www.purpledoorcoffee.com/) that help homeless teens and young adults leave that life behind as well as many others.
 
