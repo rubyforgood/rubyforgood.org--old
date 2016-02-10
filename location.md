@@ -4,27 +4,43 @@ layout: default
 
 ##Getting here:
 
-###Car:
+If you have a GPS, the address is:
 
-If you are driving, the address is:
+1500 Remount Road
+Front Royal, VA
+22063
 
-4400 University Dr.
-Fairfax, VA 22030
+###Driving Directions
 
-Parking is available on the Rappahannock parking deck (across from the dorms, #42 on the map below). You may park in the general area on levels 1 and 2. *Notes: Do not the pre-pay section, and there is no free parking on Thursday.*
+###From Washington D.C. to Front Royal (approx. 60 miles west)
 
-###Bus:
+* Take I-495 (Washington Beltway) or other approach to I-66 West.
+* Follow I-66 West for approximately 62 miles.
+* Take Exit 13 toward Virginia 79/VA-55/Linden/Front Royal.
+* Turn left onto VA-79, S/Apple Mountain Rd.
+* Turn right onto VA-55 W/John Marshall Hwy.
+* Turn left onto US-522 S/Remount Rd (Shell Gas Station & KFC)
+* Go 1.9 miles and enter Gate #2.
+* Drive to the top of the hill—the Smithsonian Tower with yellow and blue sun
+will be on your right.
+* Make a right after the Smithsonian tower—parking is on the right.
+* If you arrive after hours, dial #90 at the phone at Gate #2 for access.
 
-If you are coming to DC via greyhound/megabus/etc it is likely that they will drop you off at Union Station. From Union Station you'll want to get on the Metro (there is a metro station at Union Station), ride the metro to the Metro Center stop, transfer to the Orange Line and then take the Orange Line to the Vienna Metro stop. Then follow the bus and plane directions below.
+###From Dulles Airport:
 
-###Plane:
-
-If you are flying to National (DCA), take the Metro blue line to Rosslyn, transfer to the Orange line and ride it to the Vienna Metro stop.
-
-If you are flying to Dulles (IAD), take the silver line express. Get on the silver line, transfer to the Orange line at West Falls Church and then ride the orange line to the Vienna metro stop. Then follow the bus and plane directions below.
-
-###Bus and Plane:
-
-At the Vienna Metro stop leave through the North exit (turn left when you have to choose an exit) and then go to the GMU shuttle stop. The shuttle is free and you need to get off at the first stop on campus. You'll be able to see a Starbucks from the shuttle. The residences are directly behind the Starbucks, and just walk to the the one that has a giant sign out front that says Hampton Roads. In the map below the area circled in red shows where you get off the shuttle and the area in green shows the building you'll head to.
-
-![campus map](http://i.imgur.com/1MlbJkA.jpg)
+* Head east on Saarinen Circle to Dulles Access Road. (.8 miles)
+* Take exit 9A toward Washington/Virginia 28/Virginia 267/ U.S. 50/
+U.S.7/Sterling/Centreville/Interstate 495.
+* Keep left at the fork to continue toward Virginia 28 S/Sully Rd.
+* Keep right at the fork to continue toward Virginia 28S/Sully Rd.
+* Merge onto Virginia 28S/Sully Rd.
+* Take the Interstate 66W ramp to Front Royal.
+* Take exit 13 toward Virginia 79/VA-55/Linden/Front Royal.
+* Turn left onto VA-79, S/Apple Mountain Rd.
+* Turn right onto VA-55 W/John Marshall Hwy.
+* Turn left onto US-522 S/Remount Rd (BP Gas Station & KFC)
+* Go 1.9 miles and enter Gate #2.
+* Drive to the top of the hill—the Smithsonian Tower with yellow and
+blue sun will be on your right.
+* Make a right after the Smithsonian tower—parking is on the right.
+* If you arrive after hours, dial #90 at the phone at Gate #2 for access
