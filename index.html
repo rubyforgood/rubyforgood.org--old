@@ -34,6 +34,10 @@
 <body id="index">
 
 <!-- Preloader -->
+<div id="mask">
+  <div id="loader"><img src="assets/img/preloader.gif" alt="preloader" /></div>
+</div>
+<header id="mobileheader" class="navigation-bar-header light visible-xs"></header>
 <!-- Hero Section -->
 <section id="hero" class="light color">
   <div class="overlay color"></div>
@@ -44,7 +48,7 @@
           <li><a href="https://twitter.com/rubyforgood"><span class="fa fa-twitter"></span></a>
           <li><a href="http://github.com/rubyforgood"><span class="fa fa-github"></span></a>
           <li><a href="http://www.meetup.com/Arlington-Ruby/"><span class="fa fa-smile-o"></span></a>
-          <li><a href="https://t.co/kUtI3lnpW1"><span class="fa fa-slack"></span></a>
+           <li><a href="https://t.co/kUtI3lnpW1"><span class="fa fa-slack"></span></a>
         </ul>
       </nav>
       <div class="hero-content text-center ">
@@ -56,12 +60,9 @@
           Dedicated to making the world <strong>gooder</strong>
         </div>
         <!-- <a href="http://rubyforgood.busyconf.com/bookings/new" class="btn btn-lg btn-3d"><i class="fa fa-play-circle fa-2x"></i> <span>Sign Up</span></a> -->
-        <i class="fa fa-heart-o fa-5x"></i>
-        <br />
-        <p>
-          We'll post registration and more details here as they become avaliable.
-        </p>
 
+        <!-- I tried to put balloon hearts here, but couldnt get the outline to appear white, so settled for a font-awesome heart... :( -->
+        <img src="assets/img/red-panda.png" style="width:100px" />
 
       </div>
     </div>
@@ -79,14 +80,1045 @@
         <span class="icon-bar"></span>
       </button>
       <ul class="navigation-bar navigation-bar-left">
+        <li><a href="#about">About</a></li>
+        <!--<li><a href="#stat">Number Facts</a></li>-->
+        <li><a href="#elements">Details</a></li>
+        <li><a href="#speakers">Organizers</a></li>
+        <!--<li><a href="#schedule">Schedule</a></li>-->
+        <!--<li><a href="#price">Prices</a></li>-->
+        <!--<li><a href="#elements">Shortcodes</a></li>-->
+        <li><a href="#sponsors">Sponsors</a></li>
+        <li><a href="#map">Location</a></li>
         <li><a href="coc.html">Code of Conduct</a></li>
-        <li class="featured"><i class="fa fa-heart-o fa-2x"></i></li>
-        <li><a href="info.html">More info</a></li>
-        <li><a href="prospectus.html">Prospectus</a></li>
+        <li class="featured"><a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a Project</a></li>
+        </li>
       </ul>
     </nav>
   </div>
 </header>
+<!-- End Header -->
+<!-- About Section -->
+<section id="about" class="section dark">
+  <div class="container">
+    <div class="icon-wrap"><span class="icon icon-active icon-party-09"></span></div>
+    <h3>Taking <a href="http://en.wikipedia.org/wiki/MINASWAN">MINASWAN</a> to heart</h3>
+    <div class="sub-title">Don't stop at being nice, let's proactively do something good for our world, our community, ourselves.</div>
+    <br />
+    <br />
+    <section class="nav-tabs-simple">
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs nav-justified">
+        <li class="active"><a href="#aboutUs" data-toggle="tab"><i class="icon icon-documents-bookmarks-12"></i> About</a></li>
+        <li><a href="#aboutDetails" data-toggle="tab"><i class="icon icon-chat-messages-01"></i> Projects</a></li>
+        <li><a href="#jquery" data-toggle="tab"><i class="icon icon-education-science-11"></i> Team Leads</a></li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content">
+
+        <div class="tab-pane fade in active" id="aboutUs">
+          <article class="row">
+            <div class="col-md-5 col-sm-5 animated hiding" data-animation="fadeInLeft" data-delay="500">
+              <img class="img-responsive" src="https://lh3.googleusercontent.com/-GtG20VzhK24/U9wn08eg4RI/AAAAAAAAE6k/mb31ZjGJVU8/w929-h697-no/IMG_20140801_195003.jpg" alt="ruby-for-good-2014" />
+            </div>
+            <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInRight" data-delay="500">
+              <h6>About Ruby for Good</h6>
+              <p>
+              Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a weekend to build projects to help our communities. The conference will take place at <a href="http://smconservation.gmu.edu/"> Smithsonian Mason Conservation Institute</a> with the participants staying in the dorms and brainstorming, hacking, and cooking together in communal areas. We'll be working on projects that help our communities. We do this in our free time just for the fun of giving back! If you have any questions please drop us a <a href="mailto:info@rubyforgood.org">note</a>.
+              </p>
+            </div>
+        </article></div>
+
+
+        <div class="tab-pane fade" id="aboutDetails">
+          <article class="row">
+            <div class="col-md-5 col-sm-5 animated hiding" data-animation="fadeInLeft" data-delay="500">
+              <img class="img-responsive" src="assets/img/about-placeholder-starbucks.jpg" alt="starbuck" />
+            </div>
+            <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInRight" data-delay="500">
+              <h6>Down to Business</h6>
+
+
+
+              <p>
+                We are extremely excited to announce that our first confirmed
+                project for next year is for researchers working with red
+                pandas. That's right, RED FRICKIN’ PANDAS. Here is a <a href="http://i.imgur.com/Pu5EwSa.gif">primer on
+                  their cuteness</a>. But red pandas won’t be all… we need YOU to
+                help us find other great projects!
+              </p>
+              <p>
+
+                Last year we had a lot of great feedback about finding amazing,
+                locally-based organizations to help. We are again relying on
+                you and your networks to make suggestions! We will gather
+                projects until late March and have final selections by the time
+                registration opens in April. People who bring projects will get
+                first crack at leading a team. Speaking of leading teams…
+              </p>
+
+                <a class="btn btn-sm btn-primary" href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform">Suggest a Project</a>
+              </p>
+
+            </div>
+          </article>
+        </div>
+
+        <div class="tab-pane fade" id="jquery">
+          <article class="row">
+            <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInLeft" data-delay="500">
+              <h6>Team Leads</h6>
+              <p>
+              Have you always thought to yourself "Self, I rock—and the world
+              will know. And the world will learn. And the world will wonder
+              how you make the tables turn.”  Well, wait no longer. We will
+              have lots of great projects and we need great people to lead
+              them! Leading a team entails connecting with stakeholders,
+              initial architecting, planning out project milestones, and
+              keeping your team moving forward.  Indicate your willingness when
+              you register and we’ll be in touch!
+              </p>
+              <p>
+
+              On a related note, we couldn’t successfully organize Ruby for
+              Good without amazing volunteer team leads. Once again a huge
+              thanks for all the hard work put in by last year’s leads: Jim
+              Gay, Betsy Haibel, Adam Walker, Brandon Rice, Aaron Kromer, Jason
+              Wieringa, Ali Ibrahim, Noah Patterson, and Robert Winter.
+              </p>
+            </div>
+            <div class="col-md-5 col-sm-5 animated hiding" data-animation="fadeInRight" data-delay="500">
+              <img class="img-responsive" src="https://lh3.googleusercontent.com/-OFLetVVNdGs/U90zTgkiwDI/AAAAAAAAE9c/siJVI2YKwro/w929-h697-no/IMG_20140802_145029.jpg" alt="placeholder" />
+            </div>
+          </article>
+        </div>
+
+
+
+      </div>
+    </section>
+  </div>
+</section>
+<!-- End About Section -->
+<!-- Stat Section -->
+<section id="stat" class="section light">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="counter animated hiding" data-animation="fadeInDown" data-delay="0">
+          <div class="stat"><span class="value" data-from="0" data-to="76">76</span></div>
+          <div class="stat-info">attendees</div>
+          <hr />
+          <p class="small">of your closest friends</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="counter animated hiding" data-animation="fadeInDown" data-delay="500">
+          <div class="stat"><span class="value" data-from="0" data-to="57">57</span></div>
+          <div class="stat-info">hours</div>
+          <hr />
+          <p class="small">short hours to build something meaningful</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="counter animated hiding" data-animation="fadeInDown" data-delay="1000">
+          <div class="stat"><span class="value" data-from="0" data-to="15">15</span>+</div>
+          <div class="stat-info">teams</div>
+          <hr />
+          <p class="small">project teams making something amazing</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="counter animated hiding" data-animation="fadeInDown" data-delay="1500">
+          <div class="stat"><span class="value" data-from="0" data-to="12">12</span></div>
+          <div class="stat-info">red pandas</div>
+          <hr />
+          <p class="small">that need extra love and snuggles</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Stat Section -->
+<!-- Details Section -->
+<section id="elements" class="section dark">
+  <div class="container">
+    <section class="vc-example">
+      <article class="article-big">
+        <h5>What you <span class="highlight">need</span> to know</h5>
+        <p class="big">
+          You just need to bring yourself, your laptop, and whatever you plan
+          on wearing. You will get your own dorm room complete with linens,
+          pillow, blanket and towels so you don't have to worry about hauling
+          that stuff with you. We'll also be supplying food, drinks, and fun
+          atmosphere. If you have a particular board game or card game that you
+          would like to bring please do so... we can only guarantee that we'll
+          have the equipment needed to play <a
+          href="http://www.artemis.eochu.com/">Artemis</a>.
+        </p>
+      </article>
+    </section>
+
+    <section class="vc-example">
+
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <article>
+          <div class="h7">
+            What does it cost?
+          </div>
+          <p>
+          We hope to keep tickets to $150 all-inclusive; but that depends on
+          our awesome <a href="#sponsors">sponsors</a> offsetting the cost of
+          registration. Registration includes room, board, linens, pillows,
+          towels, swag, and all food (<a
+          href="mailto:info@rubyforgood.org">contact us</a> with any dietary
+          restrictions).
+          </p>
+
+        </article>
+      </div>
+
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <article>
+          <div class="h7">
+            Anything else?
+          </div>
+          <p>
+          The conference runs from June 16st through June 19th, it is pretty
+          important that everyone be there at the kickoff on the morning of the
+          16th. If there are extenuating circumstances we can certinally try to
+          work with you, but this is the time where teams are picked and
+          projects are started&emdash;and critical to having a successful (and
+          engaguing) weekend.
+          </p>
+        </article>
+      </div>
+
+    </section>
+  </div>
+</section>
+<!-- Speakers Section -->
+<section id="speakers" class="section light">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="icon-wrap"><span class="icon icon-active icon-badges-votes-13"></span></div>
+    <h3>Our Organizers</h3>
+    <div class="sub-title">The folks you can blame for Ruby for Good</div>
+    <br />
+    <br />
+    <section class="row">
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="0">
+          <div class="img-wrapper">
+            <img src="https://pbs.twimg.com/profile_images/1473781337/sean.jpg" class="img-speaker img-responsive img-circle" alt="speaker-3" />
+          </div>
+          <div class="name">Sean Marcia</div>
+          <div class="sub">Organizer</div>
+          <p class="small">
+          Came up with Ruby for Good, and it would not be possible with out his hard work.
+          </p>
+          <div class="social-link">
+            <a href="https://twitter.com/seanmarcia"><span class="fa fa-twitter"></span></a>
+            <a href="https://github.com/SeanMarcia"><span class="fa fa-github"></span></a>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="500">
+          <div class="img-wrapper">
+            <img src="https://pbs.twimg.com/profile_images/447179082321494016/jhw5FGpW.jpeg" class="img-speaker img-responsive img-circle" alt="speaker-3" />
+          </div>
+          <div class="name">Christopher Sexton</div>
+          <div class="sub">Disorgnizer</div>
+          <p class="small">Loves building cool things, the community, helping folks learn&mdash;and silly projects with kids.</p>
+          <div class="social-link">
+            <a href="https://twitter.com/crsexton"><span class="fa fa-twitter"></span></a>
+            <a href="https://github.com/csexton"><span class="fa fa-github"></span></a>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix visible-xs"></div>
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="1000">
+          <div class="img-wrapper">
+            <img src="http://i.imgur.com/vRW5OPL.png" class="img-speaker img-responsive img-circle" alt="speaker-3" />
+          </div>
+          <div class="name">Teresa Finn</div>
+          <div class="sub">Cat Herder</div>
+          <p class="small">Loves community, helping others and making a difference in the world.</p>
+          <div class="social-link">
+            <a href="https://twitter.com/teresa_finn"><span class="fa fa-twitter"></span></a>
+            <a href="https://github.com/teresafinn"><span class="fa fa-github"></span></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-3 col-xs-6">
+        <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="1500">
+          <div class="img-wrapper">
+            <img src="assets/img/gallery/kalimar_thumbnail.jpg" class="img-speaker img-responsive img-circle" alt="speaker-4" />
+          </div>
+          <div class="name">Kalimar Maia</div>
+          <div class="sub">Schlepper</div>
+          <p class="small">Loves bringing people together through technology and food&mash;and making music with others.</p>
+          <div class="social-link">
+            <a href="https://twitter.com/kalimar"><span class="fa fa-twitter"></span></a>
+            <a href="https://github.com/kalimar"><span class="fa fa-github"></span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--
+    <div class="btn-wrapper">
+      <a href="#" class="btn btn-sm btn-default">See all speakers</a>
+    </div>
+    -->
+  </div>
+</section>
+<!-- End Speakers Section -->
+<!-- Schedule Section -->
+<!--
+<section id="schedule" class="section dark">
+  <div class="container">
+    <div class="icon-wrap"><span class="icon icon-active icon-text-hierarchy-07"></span></div>
+    <h3>Full schedule</h3>
+    <div class="sub-title">Shortest way to explore what will happen at Ruby for Good</div>
+    <br />
+    <br />
+    <section class="nav-tabs-default hidden-xs">
+      <ul class="nav nav-tabs">
+        <li><a href="#PreConf" data-toggle="tab">
+          <div class="title">PreConf</div>
+          <div class="subtitle">7/30/2014</div>
+        </a></li>
+        <li class="active"><a href="#DayOne" data-toggle="tab">
+          <div class="title">Day 1</div>
+          <div class="subtitle">7/31/2014</div>
+        </a></li>
+        <li><a href="#DayTwo" data-toggle="tab">
+          <div class="title">Day 2</div>
+          <div class="subtitle">8/01/2014</div>
+        </a></li>
+        <li><a href="#DayThree" data-toggle="tab">
+          <div class="title">Day 3</div>
+          <div class="subtitle">8/02/2014</div>
+        </a></li>
+        <li><a href="#After" data-toggle="tab">
+          <div class="title">AfterConf</div>
+          <div class="subtitle">8/03/2014</div>
+        </a></li>
+      </ul>
+
+      <div class="tab-content">
+        <div class="tab-pane fade" id="PreConf">
+          <article>
+            <div class="panel-title">
+              <p class="big">
+              Nothing has been scheduled yet but depending on how many people are coming early we will definitely do something fun. Some thoughts that are currently floating around are a <a href="http://www.trolleytours.com/washington-dc/night-tours.asp">night time tour of the monuments</a>, a visit to <a href="http://airandspace.si.edu/visit/udvar-hazy-center/"> udvar hazy </a> or maybe something else. If there is something you'd like to see or do in the Nations Capital we are definitely open to suggestions! Send us an <a href="mailto:info@rubyforgood.org">email</a>.</p>
+            </div>
+          </article>
+        </div>
+        <div class="tab-pane fade in active" id="DayOne">
+
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#DayOne-1" data-toggle="tab">Planetary Hall</a></li>
+          </ul>
+
+          <div class="tab-content">
+            <div class="tab-pane fade in active" id="DayOne-1">
+              <div class="panel-group timeline-schedule" id="panelTimelineOne">
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 8:00 AM</div>
+                      <h4>
+                        Check In
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>Check in and start meeting your fellow Gooders</p>
+                  </div>
+                </div>
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 9:00 AM</div>
+                      <h4>
+                        Breakfast
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 1 and 2
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 10:00 AM</div>
+                      <h4>
+                        Hacking
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Getting started
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 1:00 PM</div>
+                      <h4>
+                        Lunch
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 3 and 4
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 3:00 PM</div>
+                      <h4>
+                        Hacking
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Stay on target
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 7:00 PM</div>
+                      <h4>
+                        Dinner
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 5 and 6
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 9:00 PM</div>
+                      <h4>
+                        Fun
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Boardgames, Socializing, Whatever
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="clearfix"></div>
+
+        </div>
+        <div class="tab-pane fade" id="DayTwo">
+
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#DayTwo-1" data-toggle="tab">Planetary Hall</a></li>
+          </ul>
+
+          <div class="tab-content">
+            <div class="tab-pane fade in active" id="DayTwo-1">
+              <div class="panel-group timeline-schedule" id="panelTimelineOne">
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 9:00 AM</div>
+                      <h4>
+                        Breakfast
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 7 and 8
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 10:00 AM</div>
+                      <h4>
+                        Workshop?
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Check back here for a link to download materials and github repo.
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 12:30 PM</div>
+                      <h4>
+                        Lunch
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 9 and 10
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 2:00 PM</div>
+                      <h4>
+                        Workshop?
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Check back here for a link to download materials and github repo.
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 4:00 PM</div>
+                      <h4>
+                        Workshop?
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Check back here for a link to download materials and github repo.
+                    </p>
+                  </div>
+                </div>
+
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 6:00 PM</div>
+                      <h4>
+                        Dinner
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Prepared by teams 11 and 12
+                    </p>
+                  </div>
+                </div>
+
+                <div class="panel panel-default">
+                  <div class="speaker-wrapper">
+                    <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                  </div>
+                  <div class="panel-heading">
+                    <div class="panel-title">
+                      <div class="time"><i class="fa fa-clock-o"></i> 7:30 PM</div>
+                      <h4>
+                        Fun
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="panel-body">
+                    <p>
+                    Boardgames, Socializing, Whatever
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="clearfix"></div>
+
+          </div>
+
+        </div>
+        <div class="tab-pane fade" id="DayThree">
+
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#DayThree-1" data-toggle="tab">Planetary Hall</a></li>
+          </ul>
+
+          <div class="tab-content">
+            <div class="tab-pane fade in active" id="DayThree-1">
+              <div class="panel-group timeline-schedule" id="panelTimelineOne">
+
+                <div class="tab-content">
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 9:00 AM</div>
+                        <h4>
+                          Breakfast
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Prepared by teams 13 and 14
+                      </p>
+                    </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 10:00 AM</div>
+                        <h4>
+                          Hacking
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Putting the finishing touches on our apps.
+                      </p>
+                    </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 12:30 PM</div>
+                        <h4>
+                          Lunch
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Prepared by teams 15 and 16
+                      </p>
+                    </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 2:00 PM</div>
+                        <h4>
+                          Presentations
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Let's show off what we've built and get feedback from each other. If we've made significant progress
+                      we'll try and remote in the organizations that we're doing the work for
+                      </p>
+                    </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 6:00 PM</div>
+                        <h4>
+                          Dinner
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Prepared by teams 17 and 18
+                      </p>
+                    </div>
+                  </div>
+
+                  <div class="panel panel-default">
+                    <div class="speaker-wrapper">
+                      <img src="assets/img/speaker/speaker-1.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                    </div>
+                    <div class="panel-heading">
+                      <div class="panel-title">
+                        <div class="time"><i class="fa fa-clock-o"></i> 7:30 PM</div>
+                        <h4>
+                          Fun and Goodbyes
+                        </h4>
+                      </div>
+                    </div>
+                    <div class="panel-body">
+                      <p>
+                      Like all great things, Ruby for Good will come to an end. We'll say goodbye to our new friends
+                      and leave happy and better for the amazing experience we will all have just shared.
+                      </p>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+              <div class="clearfix"></div>
+
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="After">
+          <article>
+            <div class="panel-title">
+            <p class="big">We're going to enjoy the company of good friends who we won't see again for a while as our numbers slowly dwindle to outbound flights.</p>
+            <p class="big">Feel free to hang out for a while.</p>
+          </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  </div>
+</section>
+-->
+<!-- End Schedule Section -->
+<!-- Price Section -->
+<!--
+<section id="price" class="section dark">
+  <div class="container">
+    <div class="icon-wrap"><span class="icon icon-active icon-shopping-02"></span></div>
+    <h3>Pricetable</h3>
+    <div class="sub-title">Shortest way to explore what will happen on Ruby for Good</div>
+    <br/>
+    <br/>
+    <div class="pricing-cols pricing-3-cols">
+      <div class="pricing-col animated hiding" data-animation="fadeInLeft" data-delay="0">
+        <div class="pricing-col-header">
+          <h3 class="pricing-col-header-title">1 day</h3>
+          <h4 class="pricing-col-header-amount">
+            <span class="pricing-col-amount">$100</span></h4>
+        </div>
+        <div class="pricing-col-content">
+          <ul>
+            <li>Lorem ipsum is simply</li>
+            <li>Dummy text of the printing</li>
+            <li>Typesetting industry</li>
+          </ul>
+          <a class="pricing-col-button" href="register.html">Buy Now</a>
+        </div>
+      </div>
+      <div class="pricing-col pricing-col-featured">
+        <div class="pricing-ribbon">-20%</div>
+        <div class="pricing-col-header">
+          <h3 class="pricing-col-header-title">3 days</h3>
+          <h4 class="pricing-col-header-amount"><span class="pricing-col-amount">$150</span></h4>
+        </div>
+        <div class="pricing-col-content">
+          <ul>
+            <li>Lorem ipsum is simply</li>
+            <li>Dummy text of the printing</li>
+            <li>Typesetting industry</li>
+          </ul>
+          <a class="pricing-col-button" href="register.html">Buy Now</a>
+        </div>
+      </div>
+      <div class="pricing-col animated hiding" data-animation="fadeInRight" data-delay="0">
+        <div class="pricing-col-header">
+          <h3 class="pricing-col-header-title">2 days</h3>
+          <h4 class="pricing-col-header-amount"><span class="pricing-col-amount">$200</span></h4>
+        </div>
+        <div class="pricing-col-content">
+          <ul>
+            <li>Lorem ipsum is simply</li>
+            <li>Dummy text of the printing</li>
+            <li>Typesetting industry</li>
+          </ul>
+          <a class="pricing-col-button" href="register.html">Buy Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+<!-- End Price Section -->
+<!-- Newsletter Section -->
+<!--
+<section id="newsletter" class="section light">
+  <div class="overlay"></div>
+  <div class="container">
+    <article class="article-big animated hiding" data-animation="fadeInDown" data-delay="0">
+      <h5>Newsletter <span class="highlight">Signup</span></h5>
+      <p>No Spam - only <span class="highlight">latest news</span>, price and activity updates!</p>
+      <form id="subscribe" class="form" action="<?=$_SERVER['PHP_SELF']; ?>" method="post">
+        <div class="form-group form-inline">
+          <input type="email" class="form-control required" id="NewsletterEmail" name="NewsletterEmail" placeholder="your@email.com" />
+          <input type="submit" class="btn btn-xs btn-default" value="Submit" />
+          <span id="response">
+            <? require_once('assets/mailchimp/inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
+          </span>
+        </div>
+
+      </form>
+    </article>
+  </div>
+</section>
+-->
+<!-- End Newsletter Section -->
+<!-- Elements Section -->
+<!--
+<section id="elements" class="section dark">
+  <div class="container">
+        <section class="vc-example text-center">
+          <h1>H1 <span class="highlight">Highlighted</span> text</h1>
+          <h2>H2 <span class="highlight">Highlighted</span> text</h2>
+          <h3>H3 <span class="highlight">Highlighted</span> text</h3>
+          <h4>H4 <span class="highlight">Highlighted</span> text</h4>
+          <h5>H5 <span class="highlight">Highlighted</span> text</h5>
+          <h6>H6 <span class="highlight">Highlighted</span> text</h6>
+          <div class="h7">H7 <span class="highlight">Highlighted</span> text</div>
+          <div class="h8">H8 <span class="highlight">Highlighted</span> text</div>
+        </section>
+    <section class="vc-example">
+      <article class="article-big">
+        <h5>Big <span class="highlight">Paragraph</span></h5>
+        <p class="big">Lorem Ipsum is simply dummy text of the <strong>printing and typesetting</strong> industry. Lorem Ipsum has been the industry's standard dummy text <a href="#">ever since</a> the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </article>
+    </section>
+
+    <section class="vc-example">
+      <article>
+        <div class="h7"><span class="highlight">Regular</span> Paragraph</div>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+      </article>
+    </section>
+
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <section class="vc-example icon-example">
+          <div class="h7"><span class="highlight">600+</span> Lines Icons included</div>
+          <ul class="list-inline">
+            <li><i class="icon icon-office-04 icon-active"></i></li>
+            <li><i class="icon icon-office-11 icon-active"></i></li>
+            <li><i class="icon icon-office-10 icon-active"></i></li>
+            <li><i class="icon icon-office-09 icon-active"></i></li>
+            <li><i class="icon icon-office-08 icon-active"></i></li>
+            <li><i class="icon icon-office-07 icon-active"></i></li>
+            <li><i class="icon icon-office-06 icon-active"></i></li>
+            <li><i class="icon icon-office-05 icon-active"></i></li>
+            <li><i class="icon icon-office-04 icon-active"></i></li>
+            <li><i class="icon icon-office-11 icon-active"></i></li>
+          </ul>
+        </section>
+      </div>
+    </div>
+
+    <section class="vc-example">
+      <div class="h7"><span class="highlight">Gallery</span></div>
+      <div class="row">
+        <div class="col-md-3 col-sm-3 col-xs-6">
+          <a href="assets/img/gallery/thumb-1.jpg" class="thumb-wrapper fancybox" data-fancybox-group="gallery">
+            <div class="overlay">Image Title</div>
+            <img src="assets/img/gallery/thumb-1.jpg" class="img-responsive" alt="thumb-1" />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6">
+          <a href="assets/img/gallery/thumb-2.jpg" class="thumb-wrapper fancybox" data-fancybox-group="gallery">
+            <div class="overlay">Image Title</div>
+            <img src="assets/img/gallery/thumb-2.jpg" class="img-responsive" alt="thumb-2" />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6">
+          <a href="assets/img/gallery/thumb-3.jpg" class="thumb-wrapper fancybox" data-fancybox-group="gallery">
+            <div class="overlay">Image Title</div>
+            <img src="assets/img/gallery/thumb-3.jpg" class="img-responsive" alt="thumb-3" />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6">
+          <a href="assets/img/gallery/thumb-4.jpg" class="thumb-wrapper fancybox" data-fancybox-group="gallery">
+            <div class="overlay">Image Title</div>
+            <img src="assets/img/gallery/thumb-4.jpg" class="img-responsive" alt="thumb-4" />
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 center">
+        <div class="row">
+          <div class="col-md-6 center">
+            <a href="#" class="btn btn-sm btn-primary">More elements</a>
+          </div>
+          <div class="col-md-6 center">
+            <a href="elements.html" class="btn btn-sm btn-secondary">Get template</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+-->
+<!-- End Elements Section -->
+<!-- Register Section -->
+<section id="register" class="section light">
+  <div class="overlay"></div>
+  <div class="container">
+    <article class="article-big animated hiding" data-animation="fadeInUp" data-delay="0">
+      <h5> Want to participate but need some help?  </h5>
+      <p>
+        The scholarship application window has closed. If you applied for a scholarship but haven't heard anything please <a href="mailto:info@rubyforgood.org?subject=Scholarship" ><font color="black">let us know!</font></a>
+      </p>
+<!--       <p>
+      Ruby For Good is providing scholarship tickets to allow more people the opportunity to participate. Click the link below to submit your request!
+      </p> -->
+      <br/>
+      <a href="https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform" class="btn btn-sm btn-tertiary">Apply for Scholarship</a>
+    </article>
+  </div>
+</section>
+<!-- End Register Section -->
+<!-- Sponsors Section -->
+<section id="sponsors" class="section dark">
+  <div class="container">
+    <div class="icon-wrap"><span class="icon icon-active icon-documents-bookmarks-12"></span></div>
+    <h3>Sponsors</h3>
+    <div class="sub-title">The folks that make the good possible</div>
+    <br/>
+    <div class="row">
+      <ul class="list-inline">
+        <li><a href="http://chss.gmu.edu/"><img src="assets/img/sponsor/mason.png" alt="sponsor-1" /></a></li>
+        <li><a href="http://github.com/"><img src="assets/img/sponsor/github.png" alt="sponsor-2" /></a></li>
+      </ul>
+    </div>
+
+    <div class="row">
+      <div class="btn-wrapper">
+        <a href="mailto:info@rubyforgood.org?subject=Sponsorship" class="btn btn-sm btn-primary">Become a sponsor</a>
+      </div>
+      <p><a href="prospectus.html">Sponsorship Details and Prospectus</a></p>
+    </div>
+  </div>
+</section>
+<!-- End Price Section -->
+<!-- Map Section -->
+<section id="map" class="dark">
+  <div id="canvas-map"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-sm-7 animated hiding location" data-animation="fadeInLeft" data-delay="0">
+        <h3><a href="location">Location</a></h3>
+        <ul itemscope="" itemtype="http://schema.org/PostalAddress">
+          <li itemprop="address"><i class="fa fa-map-marker highlight"></i>1500 Remount Rd, Front Royal, VA 22630</li>
+          <li itemprop="email"><i class="fa fa-envelope highlight"></i>info@rubyforgood.org</li>
+          <li itemscope="" itemtype="http://schema.org/Event"><i class="fa fa-clock-o highlight"></i>
+          <time itemprop="startDate" datetime="2016-06-16T07:30">9:00AM 6/16</time> - <time itemprop="endDate" datetime="2016-06-19T22:00">5:00PM 6/19</time>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Map Section -->
 <footer id="footer">
 
 </footer>
