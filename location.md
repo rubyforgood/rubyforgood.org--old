@@ -6,7 +6,7 @@ layout: default
 
 If you have a GPS, the address is:
 
-1500 Remount Road
+1500 Remount Road,
 Front Royal, VA
 22063
 
