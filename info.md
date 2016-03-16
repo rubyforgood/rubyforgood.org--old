@@ -18,7 +18,7 @@ Our tentative schedule for 2016 looks like this:
 
 * Arrive during the day at the [Smithsonian-Mason](http://smconservation.gmu.edu/) research center.
 * Complete driving directions to the event can be found [here.](/location)
-* Spend the day getting settled into your rooms, hiking in the Shenandoah's, checking out our neighbours (pandas, cheetahs, bison, wolves, etc)
+* Spend the day getting settled into your rooms, hiking in the Shenandoah's
 * Event Kickoff and Announcements 5pm
 * Dinner 5:30-7pm
 * Team pitches, forming groups, and initial group discussions 7-8:30pm
