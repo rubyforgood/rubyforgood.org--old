@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Getting here:
+## Getting here:
 
 If you have a GPS, the address is:
 
@@ -10,9 +10,9 @@ If you have a GPS, the address is:
 Front Royal, VA
 22063
 
-###Driving Directions
+### Driving Directions
 
-###From Washington D.C. to Front Royal (approx. 60 miles west)
+### From Washington D.C. to Front Royal (approx. 60 miles west)
 
 * Take I-495 (Washington Beltway) or other approach to I-66 West.
 * Follow I-66 West for approximately 62 miles.
@@ -26,7 +26,7 @@ will be on your right.
 * Make a right after the Smithsonian tower—parking is on the right.
 * If you arrive after hours, dial #90 at the phone at Gate #2 for access.
 
-###From Dulles Airport:
+### From Dulles Airport:
 
 * Head east on Saarinen Circle to Dulles Access Road. (.8 miles)
 * Take exit 9A toward Washington/Virginia 28/Virginia 267/ U.S. 50/
