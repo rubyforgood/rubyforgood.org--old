@@ -1,0 +1,129 @@
+---
+layout: default
+---
+
+## FAQ:
+
+### What is Ruby for Good?
+
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+
+### Why are ya'll organizing Ruby for Good?
+
+Lots of organizations need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve non-profit business/technical problems. Very little effort on our part can make a huge difference to a non-profit. We want to help!
+<!-- Inception story here -->
+
+### What skill level do I need to be to attend?
+
+All experience levels are definitely welcome! We have a wide variety of skill levels ranging from those who have next to no experience, all the way up to very senior people who work at places like Github and LivingSocial. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
+
+### Do I need to be a programmer?
+
+We need both developers and designers at Ruby for Good.
+
+### Do I need to be a Ruby programmer?
+
+You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
+
+### How do you choose projects?
+
+A lot of cold-calling/emailing individuals and organizations, soliciting suggestions from people we know, and from YOU in the community. We go through a process of vetting possible projects and select based on viability of completion, need, open-source status, and general impact on business functions.
+
+### What's an appropriate project?
+
+Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+
+### How do I suggest a project?
+
+Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+
+### I wanna lead a team. What do I do?
+
+When you register for the event, you'll be asked if you want to lead a project - say yes! We'll be in touch within two weeks with more information.
+
+### I don't know if I want to lead a team. What do I do?
+
+Here's more information about leading a team, along with a <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">testimonial</a> from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.).
+
+### How can I help?!
+
+* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+* Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
+* Donations/Sponsors - we need lots of help with fundraising. Ruby for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
+* Attendees - we need both developer and designer expertise!
+
+### Is this a hackathon?
+
+No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
+
+### When do I need to purchase my tickets by?
+
+June 2nd or whenever we sell out, whichever comes first!
+
+### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
+
+After April 30th we will be unable to offer refunds but we will happily help coordinate exchanges until June 1st. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+
+### Why do you charge to volunteer?
+
+The event costs money to put on. We try to raise as much as possible through sponsorships and donations but so far this amount has been unable to cover the cost of venue, food, shirts, transportation, and other minutia. By charging a little, we're able to break even for the event.
+
+### When do tickets go on sale?
+
+April 4, 2016!
+
+### Do I really HAVE to get there by 5pm on Thursday?
+
+Yeah, you really do. Teams will be chosen right around that time and you'll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We've found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
+
+### How does food work?
+
+The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner). We'll post the hours and details shortly. It's all-you-can-eat so be prepared to fill up your tray and eat until you're full!
+
+### I'm a vegetarian/vegan/gluten-free/paleo... will you feed me?
+
+Absolutely. In 2016 we will be eating food cafeteria style and the chefs accomodate all dietary needs. Yes, there will be plenty of lentils! ;)
+
+### What's it REALLY like at Ruby for Good?
+
+So glad you asked! For expert insight, here are a couple of blog posts written up by past attendees:
+
+* http://alwaysbelearning.co/2014/08/05/ruby-for-good/
+* http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
+* http://rolentle.com/ruby-for-good/
+
+### Do you have scholarships?
+
+We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).
+
+### What do I need to bring?
+
+Bring yourself, your laptop, a powersource, some clothes and your favorite boardgames. Maybe some sunscreen if the weather's nice. If you anticipate skipping group meals or would like late-night snacks, bring some munchies. If you're a light sleeper, bring earplugs. All the basics are provided (linens, pillows, beds, towels, etc.)
+
+### How do I get there?
+
+See our <a href="/location">location</a> page for details!
+
+### Do you have a code of conduct?
+
+We are proud to have a <a href="/coc">code of conduct</a>.
+
+### How is 2016 different from 2015?
+
+* Location has changed
+* There will be s'mores and a fire pit
+* The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized tour and explaining all the great research being done there
+* Projects are focused around conservation and the environment this year
+* Food will be provided for us at the venue (no communal cooking)
+* Cost is slightly higher because of the extra night and catered meals
+
+### Can my family come?
+
+Unfortunately not this year due to the location being a closed research institute.
+
+### Do I get something special if I've been for the past 3 years?
+
+A big bear hug from all the organizers!!
+
+
+
