@@ -120,6 +120,14 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 See our <a href="/location">location</a> page for details! We are collecting information about carpooling in the registration form and will add more details here and on the <a href="/location">location</a> page in the beginning of June. The current goal is to meet at a few pre-arranged times (10am, 12pm, 2pm) on Thursday, June 16 at a metro-accessible location (likely District Taco at the Dunn Lorring metro station). We'll match drivers with passengers day-of and ship out from there!
 
+### How do I indicate I want to room with my friend/significant other?
+
+During registration we ask if there's anything else you'd like us to know - indicate in this section who you'd like to room with and we'll make it happen.
+
+### How do room assignments work?
+
+Rooms contain two single beds and a shared bathroom. After registration closes (June 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+
 ### Do you have a code of conduct?
 
 We are proud to have a <a href="/coc">code of conduct</a>.
