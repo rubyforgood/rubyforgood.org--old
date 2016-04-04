@@ -56,15 +56,15 @@ In general, leading a team entails connecting with stakeholders, initial archite
 
 No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
 
-### When do I need to purchase my tickets by?
+### When do I need to purchase my tickets?
 
-June 2nd or when we sell out, whichever comes first!
+By June 2nd or when we sell out, whichever comes first!
 
 ### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
 After April 30th we will be unable to offer refunds but we will happily help coordinate exchanges until June 1st. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
-### Why do you charge to volunteer?
+### What does my registration go toward?
 
 The event costs money to put on. We try to raise as much as possible through sponsorships and donations but so far this amount has been unable to cover the cost of venue, food, shirts, transportation, and other minutia. By charging a little, we're able to break even for the event.
 
@@ -80,9 +80,9 @@ Yeah, you really do. Teams will be chosen right around that time and you'll spen
 
 The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner). We'll post the hours and details shortly. It's all-you-can-eat so be prepared to fill up your tray and eat until you're full!
 
-### I'm a vegetarian/vegan/gluten-free/paleo... will you feed me?
+### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely. In 2016 we will be eating food cafeteria style and the chefs accomodate all dietary needs. Yes, there will be plenty of lentils! ;)
+Absolutely. In 2016 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;)
 
 ### What's it REALLY like at Ruby for Good?
 
@@ -102,7 +102,7 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 ### How do I get there?
 
-See our <a href="/location">location</a> page for details!
+See our <a href="/location">location</a> page for details! We are collecting information about carpooling in the registration form and will add more details here and on the <a href="/location">location</a> page in the beginning of June. The current goal is to meet at a few pre-arranged times (10am, 12pm, 2pm) on Thursday, June 16 at a metro-accessible location (likely District Taco at the Dunn Lorring metro station). We'll match drivers with passengers day-of and ship out from there!
 
 ### Do you have a code of conduct?
 
@@ -111,8 +111,8 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 ### How is 2016 different from 2015?
 
 * Location has changed
-* There will be s'mores and a fire pit
-* The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized tour and explaining all the great research being done there
+* There will be s'mores and a fire pit one night
+* The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized tour and explaining all the great research being done at the venue
 * Projects are focused around conservation and the environment this year
 * Food will be provided for us at the venue (no communal cooking)
 * Cost is slightly higher because of the extra night and catered meals

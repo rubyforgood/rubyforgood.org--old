@@ -44,3 +44,6 @@ U.S.7/Sterling/Centreville/Interstate 495.
 blue sun will be on your right.
 * Make a right after the Smithsonian tower—parking is on the right.
 * If you arrive after hours, dial #90 at the phone at Gate #2 for access
+
+### Carpooling:
+* We are collecting information about carpooling in the registration form and will add more details here in the beginning of June. The current goal is to meet at a few pre-arranged times (10am, 12pm, 2pm) on Thursday, June 16 at a metro-accessible location (likely District Taco at the Dunn Lorring metro station). We'll match drivers with passengers day-of and ship out from there!
