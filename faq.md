@@ -127,7 +127,7 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 ### How is 2016 different from 2015?
 
 * Location has changed
-* There will be s'mores and a fire pit one night
+* There will be a fun outdoor activity one evening
 * The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized tour and explaining all the great research being done at the venue
 * Projects are focused around conservation and the environment this year
 * Food will be provided for us at the venue (no communal cooking)
