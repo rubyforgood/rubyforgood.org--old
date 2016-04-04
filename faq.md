@@ -126,7 +126,7 @@ During registration we ask if there's anything else you'd like us to know - indi
 
 ### How do room assignments work?
 
-Rooms contain two single beds and a shared bathroom. After registration closes (June 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Rooms contain two single beds and a bathroom. After registration closes (June 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ### Do you have a code of conduct?
 
