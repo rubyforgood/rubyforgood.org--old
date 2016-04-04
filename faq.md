@@ -43,7 +43,12 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll be i
 
 ### I don't know if I want to lead a team. What do I do?
 
-In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.).
+In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+
+
+### Do you allow remote teams at Ruby for Good?
+
+Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2017 for very enterprising and motivated individuals. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ### How can I help?!
 
