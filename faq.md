@@ -39,7 +39,7 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 ### What ARE the projects this year?
 
-This year projects are focused around conservation and the environment and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of June after registration closes. As a teaser, some of the organizations we'll be helping this year include Habitat for Humanity, Source Population Alliance (a non-profit working to reintroduce extinct-in-the-wild oryx), Elizabeth Freeman (a researcher at the Smithsonian studying red pandas) and many other amazing organizations.
+This year projects are focused around conservation and the environment and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of June after registration closes. As a teaser, some of the organizations we'll be helping this year include Habitat for Humanity, Source Population Alliance (a non-profit working to reintroduce extinct-in-the-wild oryx), the Smithsonian-Mason School of Conservation's red panda project, Virginia Working Landscapes, and many other amazing organizations.
 
 ### I wanna lead a team. What do I do?
 
