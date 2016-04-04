@@ -92,6 +92,17 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 * http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
 * http://rolentle.com/ruby-for-good/
 
+### What tour? What's a FONZ?
+
+The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We have three tours lined up:
+
+* Thursday, June 16, 1:00 pm
+* Friday, June 17, 10:00 am
+* Friday, June 17, 1:00 pm
+
+Only 26 people are allowed for each tour and tours last between 1.5 and 2 hours. Please sign up <a href="https://docs.google.com/spreadsheets/d/1gTi3wUj8MJLG637wdYBsasBrca53P7X-FFjXWw-SF2k/edit?usp=sharing">here</a> on the appropriate tab for your preferred day and time.
+
+
 ### Do you have scholarships?
 
 We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).

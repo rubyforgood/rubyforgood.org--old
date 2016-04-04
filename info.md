@@ -16,40 +16,49 @@ Our tentative schedule for 2016 looks like this:
 
 ### Thursday June 16th
 
-* Arrive during the day at the [Smithsonian-Mason](http://smconservation.gmu.edu/) research center.
-* Complete driving directions to the event can be found [here.](/location)
-* Spend the day getting settled into your rooms, hiking in the Shenandoah's
-* Event Kickoff and Announcements 5pm
-* Dinner 5:30-7pm
-* Team pitches, forming groups, and initial group discussions 7-8:30pm
-* 8:30pm - ??? Board games, computer games, socializing, and other random fun.
+* Arrive during the day at the [Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Complete driving directions to the event can be found [here.](/location)
+* Spend the day getting settled, hiking, socializing
+* 1:00 pm - 26 people on [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) tour of Smithsonian-Mason Institute (see below*)
+* 5:00 pm - Event Kickoff and Announcements
+* 5:30 pm - Team pitches, forming teams
+* 6:30 pm - Dinner, initial team discussion, setting up environments, cloning down repos, etc.
+* 8:30 pm? - Board games, computer games, socializing, and other random fun
 
 ### Friday June 17th
 
-* 8-9am Breakfast
-* 9am-noon Work on projects!
-* noon-1pm Lunch
-* 1pm-5pm Work on projects!
-* 5-6:30pm Dinner
-* 6:30pm - ??? Werewolf, board games, socializing, fun!
+* 8:00 am - Breakfast
+* 9:00 am - Work on projects
+* 10:00 am - 26 people on [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) tour of Smithsonian-Mason Institute (see below*)
+* 12:00 pm - Lunch
+* 1:00 pm - 26 people on [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) tour of Smithsonian-Mason Institute (see below*)
+* 1:00 pm - Work on projects
+* 5:00 pm - Dinner
+* 6:30pm - Werewolf, board games, socializing, fun!
 
 ### Saturday June 18th
 
-* 8-9am Breakfast
-* 9am-noon Work on projects!
-* noon-1pm Lunch
-* 1pm-5pm Work on projects!
-* 5-6:30pm Dinner
-* 6:30pm - ??? Werewolf, board games, socializing, fun!
+* 8:00 am - Breakfast
+* 9:00 am - Work on projects
+* 12:00 pm - Lunch
+* 1:00 pm - Work on projects
+* 5:00 pm - Dinner
+* 6:30pm - Werewolf, board games, socializing, fun!
 
 ### Sunday June 19th
 
-* 8-9am Breakfast
-* 9am-noon Work on projects!
-* noon-1pm Lunch
-* 1pm-3pm Demos! (If your project isn't finished, demo what you can!)
+* 8:00 am - Breakfast
+* 9:00 am - Work on projects
+* 12:00 pm - Lunch
+* 1:00 pm - Demos (If your project isn't finished, demo what you can!)
 
-**Note: We'll be having a guided tour of all the great animals and the amazing research being done led by [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) that will happen during one of these days that we will update the schedule to reflect when we have more information.**
+
+*The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We have three tours lined up:
+
+* Thursday, June 16, 1:00 pm
+* Friday, June 17, 10:00 am
+* Friday, June 17, 1:00 pm
+
+Only 26 people are allowed for each tour and tours last between 1.5 and 2 hours. Please sign up <a href="https://docs.google.com/spreadsheets/d/1gTi3wUj8MJLG637wdYBsasBrca53P7X-FFjXWw-SF2k/edit?usp=sharing">here</a> on the appropriate tab for your preferred day and time.
 
 We're putting together a projects page of all the past projects and wonderful non-profits we've helped which has included places like [Pathway Homes](http://www.pathwayhomes.org/) which helps adults with mental illness find housing, [Fairfax Humane Society](http://www.hsfc.org/), [Snapfresh](http://snapfresh.org/) which helps WIC (women, infants, children) users find locations they can use their vouchers to purchase healthy food, [Purple Door Coffee](http://www.purpledoorcoffee.com/) that help homeless teens and young adults leave that life behind as well as many others. In the meantime, feel free to view past projects (and fix any outstanding issues) on our [github organization page.](http://github.com/rubyforgood)
 
