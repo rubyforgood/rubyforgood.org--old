@@ -43,7 +43,7 @@ When you register for the event, you'll be asked if you want to lead a project -
 
 ### I don't know if I want to lead a team. What do I do?
 
-Here's more information about leading a team, along with a <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">testimonial</a> from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.).
+In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.).
 
 ### How can I help?!
 
@@ -58,7 +58,7 @@ No. This is definitely not a hackathon. Sean cringes everytime someone mentions 
 
 ### When do I need to purchase my tickets by?
 
-June 2nd or whenever we sell out, whichever comes first!
+June 2nd or when we sell out, whichever comes first!
 
 ### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
