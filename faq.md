@@ -37,6 +37,10 @@ Good projects can be completed in about a weekend, help improve the efficiency o
 
 Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 
+### What ARE the projects this year?
+
+This year projects are focused around conservation and the environment and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of June after registration closes. As a teaser, some of the organizations we'll be helping this year include Habitat for Humanity, Source Population Alliance (a non-profit working to reintroduce extinct-in-the-wild oryx), Elizabeth Freeman (a researcher at the Smithsonian studying red pandas) and many other amazing organizations.
+
 ### I wanna lead a team. What do I do?
 
 During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late April with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions.
@@ -44,7 +48,6 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll be i
 ### I don't know if I want to lead a team. What do I do?
 
 In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
-
 
 ### Do you allow remote teams at Ruby for Good?
 
