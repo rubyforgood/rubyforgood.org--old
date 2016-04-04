@@ -6,7 +6,7 @@ layout: default
 
 ### What is Ruby for Good?
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ### Why are ya'll organizing Ruby for Good?
 
@@ -39,7 +39,7 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 ### I wanna lead a team. What do I do?
 
-When you register for the event, you'll be asked if you want to lead a project - say yes! We'll be in touch within two weeks with more information.
+During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late April with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions.
 
 ### I don't know if I want to lead a team. What do I do?
 
@@ -109,7 +109,7 @@ We have a limited number of scholarship tickets but are unable to provide transp
 
 ### What do I need to bring?
 
-Bring yourself, your laptop, a powersource, some clothes and your favorite boardgames. Maybe some sunscreen if the weather's nice. If you anticipate skipping group meals or would like late-night snacks, bring some munchies. If you're a light sleeper, bring earplugs. All the basics are provided (linens, pillows, beds, towels, etc.)
+Bring yourself, your laptop, a powersource, some clothes and your favorite boardgames. Maybe some sunscreen if the weather's nice. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs. All the basics are provided (linens, pillows, beds, towels, etc.) We have a fun outdoor activity planned for one evening so camping chairs, a sweater and maybe some bug spray are highly recommended.
 
 ### How do I get there?
 

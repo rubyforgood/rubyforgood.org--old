@@ -4,23 +4,21 @@ layout: default
 
 ## How Does Ruby for Good Work?
 
-The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both in the mission of Ruby for Good and achievable.
+The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. This year projects are focused around conservation and the environment.
 
-During registration we ask registrants if they are interested in leading a team during the event.
+During registration we'll ask if you'd like to lead a team. If so, we'll contact you with potential projects in mid-to-late April. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial setup. Setup includes creating a github repo under the Ruby for Good github, filing some issues and making some technology suggestions. For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). Note: Attendees will get project details, including available teams to join, around the beginning of June.
 
-We'll have the team leads picked out approximately 1-2 months before the event from starts and we will let them know about the project as well as put them in contact with the non-profits that we are going to be working with. From there the team lead will speak to the non-profit, get program requirements and do some initial setup. This setup includes things like making a github repo, filing some issues and also making some technology suggestions. One of the team leads in a prior year, [Brandon](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/), wrote an amazing post detailing the experience of leading a team.
+Team assignments will take place around 5:00 pm on June 16 (which is why it's essential you're on-site by 5:00 pm). During this time team leads will get up and make a "pitch" to the attendees about their project - who they are helping, what the project is, and any specific skill sets they'd love on their team. This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins!
 
-On the first day of Ruby for Good, the team leads will make a "pitch" to the attendees about their project and any specific skill sets they'd love on their team. This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! The attendees self select into projects that are meaningful to them and the fun begins!
-
-Our tentative schedule for 2016 looks like this:
+Our tentative schedule for 2016:
 
 ### Thursday June 16th
 
-* Arrive during the day at the [Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Complete driving directions to the event can be found [here.](/location)
-* Spend the day getting settled, hiking, socializing
+* Arrive during the day at the [Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Driving directions to the event can be found [here.](/location)
+* Spend the day getting settled, hiking, socializing, and touring
 * 1:00 pm - 26 people on [FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm) tour of Smithsonian-Mason Institute (see below*)
-* 5:00 pm - Event Kickoff and Announcements
-* 5:30 pm - Team pitches, forming teams
+* 5:00 pm - Event Kickoff and announcements
+* 5:30 pm - Team pitches, team assignments
 * 6:30 pm - Dinner, initial team discussion, setting up environments, cloning down repos, etc.
 * 8:30 pm? - Board games, computer games, socializing, and other random fun
 
@@ -42,14 +40,14 @@ Our tentative schedule for 2016 looks like this:
 * 12:00 pm - Lunch
 * 1:00 pm - Work on projects
 * 5:00 pm - Dinner
-* 6:30pm - Werewolf, board games, socializing, fun!
+* 6:30pm - Outdoorsy fun (bring a sweater, lawn chairs, and a sweet tooth)
 
 ### Sunday June 19th
 
 * 8:00 am - Breakfast
 * 9:00 am - Work on projects
 * 12:00 pm - Lunch
-* 1:00 pm - Demos (If your project isn't finished, demo what you can!)
+* 1:00 pm - Demos (if your project isn't finished, demo what you can!)
 
 
 *The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We have three tours lined up:
