@@ -120,7 +120,7 @@ hr.white { border-color: #F3AE9B; }
 #hero .hero-small span.fa  { margin: 0px 10px 0px 0px; font-size: 20pt; top: -3px; }
 #hero .hero-big  { font-size: 100pt; text-transform: uppercase; line-height: 100px; margin-bottom: 25px;}
 #hero .hero-normal { font-size: 22pt; margin: 15px 0px 40px 0px; }
-#hero .btn-3d { padding: 10px 27px 10px 17px; margin:0px 25px 0px 0px;}
+#hero .btn-3d { padding: 10px 17px 10px 17px; margin:0; }
 
 #hero video {bottom: 0px;
   right: 0px;
