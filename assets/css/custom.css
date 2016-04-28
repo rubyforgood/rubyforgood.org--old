@@ -13,3 +13,19 @@ color: #57c2be;
 .img-speaker {
   max-width: 142px;
 }
+
+.sponsor-link {
+  margin-bottom: 15px;
+}
+
+.sponsor-link-text {
+  font-weight: 300;
+  color: white;
+  font-size: 16px;
+
+}
+
+.sponsor-link-text:hover {
+    color: white;
+    text-decoration: underline;
+  }
