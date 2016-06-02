@@ -125,7 +125,7 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 ### How do I get there?
 
-See our <a href="/location">location</a> page for details! We are collecting information about carpooling in the registration form and will add more details here and on the <a href="/location">location</a> page in the beginning of June. <a href="https://docs.google.com/forms/d/1aA0fJbbmxYW3lTqP6A7zLOnZbECzCd5d9f7L9ok_jLI/viewform?c=0&w=1">Fill out the carpool information</a> or get in touch with Kalimar (kalimar@rubyforgood.org) if you have questions.
+See our <a href="/location">location</a> page for details! <a href="https://docs.google.com/forms/d/1aA0fJbbmxYW3lTqP6A7zLOnZbECzCd5d9f7L9ok_jLI/viewform?c=0&w=1">We are collecting information about carpooling here</a>. Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org.
 
 ### How do I indicate I want to room with my friend/significant other?
 
