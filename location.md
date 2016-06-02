@@ -46,4 +46,5 @@ blue sun will be on your right.
 * If you arrive after hours, dial #90 at the phone at Gate #2 for access
 
 ### Carpooling:
-* We are collecting information about carpooling in the registration form and will add more details here in the beginning of June. The current goal is to meet at a few pre-arranged times (10am, 12pm, 2pm) on Thursday, June 16 at a metro-accessible location (likely District Taco at the Dunn Lorring metro station). We'll match drivers with passengers day-of and ship out from there!
+
+<a href="https://docs.google.com/forms/d/1aA0fJbbmxYW3lTqP6A7zLOnZbECzCd5d9f7L9ok_jLI/viewform?c=0&w=1">We are collecting information about carpooling here</a>. Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org.
