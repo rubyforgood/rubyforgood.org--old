@@ -84,6 +84,10 @@ April 4, 2016!
 
 Yeah, you really do. Teams will be chosen right around that time and you'll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We've found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
 
+### How early can I arrive on Thursday?
+
+Most of the organizing team is planning on arriving at 10am but feel free to beat us there!
+
 ### How does food work?
 
 The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner). We'll post the hours and details shortly. It's all-you-can-eat so be prepared to fill up your tray and eat until you're full!
@@ -121,7 +125,7 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 ### How do I get there?
 
-See our <a href="/location">location</a> page for details! We are collecting information about carpooling in the registration form and will add more details here and on the <a href="/location">location</a> page in the beginning of June. The current goal is to meet at a few pre-arranged times (10am, 12pm, 2pm) on Thursday, June 16 at a metro-accessible location (likely District Taco at the Dunn Lorring metro station). We'll match drivers with passengers day-of and ship out from there!
+See our <a href="/location">location</a> page for details! We are collecting information about carpooling in the registration form and will add more details here and on the <a href="/location">location</a> page in the beginning of June. <a href="https://docs.google.com/forms/d/1aA0fJbbmxYW3lTqP6A7zLOnZbECzCd5d9f7L9ok_jLI/viewform?c=0&w=1">Fill out the carpool information</a> or get in touch with Kalimar (kalimar@rubyforgood.org) if you have questions.
 
 ### How do I indicate I want to room with my friend/significant other?
 
