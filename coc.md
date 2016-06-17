@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Ruby for Good Code of Conduct

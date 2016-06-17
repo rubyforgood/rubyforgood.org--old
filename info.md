@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ## How Does Ruby for Good Work?
