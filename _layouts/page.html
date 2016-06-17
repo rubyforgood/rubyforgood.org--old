@@ -1,0 +1,22 @@
+---
+layout: base
+---
+
+{% include header.html %}
+
+<section class="dark">
+  <div class="container">
+    <article class="article-big page">
+    {{ content }}
+    </article>
+  </div>
+</section>
+
+
+<section class="dark section">
+  <hr>
+  <div class="container">
+      <p>&copy; {{ site.time | date: '%Y' }} - Ruby for Good</p>
+  </div>
+</section>
+

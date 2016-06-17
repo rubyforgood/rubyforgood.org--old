@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 
-## How Does Ruby for Good Work?
+### How Does Ruby for Good Work?
 
 The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. This year projects are focused around conservation and the environment.
 
@@ -12,7 +12,7 @@ Team assignments will take place around 5:00 pm on June 16 (which is why it's es
 
 Our tentative schedule for 2016:
 
-### Thursday June 16th
+#### Thursday June 16th
 
 * Arrive during the day at the [Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Driving directions to the event can be found [here.](/location)
 * Spend the day getting settled, hiking, socializing, and touring
@@ -22,7 +22,7 @@ Our tentative schedule for 2016:
 * 6:30 pm - Dinner, initial team discussion, setting up environments, cloning down repos, etc.
 * 8:30 pm? - Board games, computer games, socializing, and other random fun
 
-### Friday June 17th
+#### Friday June 17th
 
 * 8:00 am - Breakfast
 * 9:00 am - Work on projects
@@ -33,7 +33,7 @@ Our tentative schedule for 2016:
 * 5:00 pm - Dinner
 * 6:30pm - Werewolf, board games, socializing, fun!
 
-### Saturday June 18th
+#### Saturday June 18th
 
 * 8:00 am - Breakfast
 * 9:00 am - Work on projects
@@ -42,7 +42,7 @@ Our tentative schedule for 2016:
 * 5:00 pm - Dinner
 * 6:30pm - Outdoorsy fun (bring a sweater, lawn chairs, and a sweet tooth)
 
-### Sunday June 19th
+#### Sunday June 19th
 
 * 8:00 am - Breakfast
 * 9:00 am - Work on projects
@@ -62,12 +62,12 @@ We're putting together a projects page of all the past projects and wonderful no
 
 ### Here is what actual attendees have written about the event:
 
-### 2014
+#### 2014
 
 * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
-### 2015
+#### 2015
 * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
 * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/)
