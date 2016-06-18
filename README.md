@@ -26,11 +26,11 @@ The site will be available at [http://localhost:4000](http://localhost:4000).
 
   Description of the project and the organization the project was built for. If possible, mention the impact the project has had for the original organization or others who have begun using it.
 
-  * List of team members on the project team
-  * Member 1
-  * Member 2
-  * Member 3
-  * etc.
+  * List of team members. Paste the code below, inserting their github name as shown.
+  {: .github-avatars}
+  - {% include github-avatar.html username="insert_github_name_hear" %}
+  - {% include github-avatar.html username="insert_github_name_hear" %}
+  - {% include github-avatar.html username="insert_github_name_hear" %}
 
 ### Instructions
 
