@@ -30,12 +30,12 @@ There are 150,000 children living in poverty in Oregon whose parents often have 
 
 [https://github.com/rubyforgood/pdx_diaper](https://github.com/rubyforgood/pdx_diaper)
 
-* armahillo
-
-- D-matz
-- cattywampus
-- tmobaird
-- katiesteiner
+{: .github-avatars}
+- {% include github-avatar.html username="armahillo" %}
+- {% include github-avatar.html username="D-matz" %}
+- {% include github-avatar.html username="cattywampus" %}
+- {% include github-avatar.html username="tmobaird" %}
+- {% include github-avatar.html username="katiesteiner" %}
 
 ### Smithsonian Studying the Scimitar Oryx
 
@@ -43,14 +43,15 @@ Let's be honest, we all want to do great things. What is better than being part 
 
 [https://github.com/rubyforgood/scimitar_oryx](https://github.com/rubyforgood/scimitar_oryx)
 
-* pachacamac
-- cmar
-- nht007
-- duaimei
-- SuperJones
-- jcavena
-- rpchurchill
-- mkmckenzie
+{: .github-avatars}
+- {% include github-avatar.html username="pachacamac" %}
+- {% include github-avatar.html username="cmar" %}
+- {% include github-avatar.html username="nht007" %}
+- {% include github-avatar.html username="duaimei" %}
+- {% include github-avatar.html username="SuperJones" %}
+- {% include github-avatar.html username="jcavena" %}
+- {% include github-avatar.html username="rpchurchill" %}
+- {% include github-avatar.html username="mkmckenzie" %}
 
 ### Smithsonian Logging the Loggerhead
 
@@ -58,11 +59,12 @@ There is only one Shrike native to North America and it is a surprisingly import
 
 [https://github.com/rubyforgood/loggerhead_shrike/graphs/contributors](https://github.com/rubyforgood/loggerhead_shrike/graphs/contributors)
 
-- jjlangholtz
-- michaelbyrd
-- holytoastr
-- marshmalien
-- jkeam
+{: .github-avatars}
+- {% include github-avatar.html username="jjlangholtz" %}
+- {% include github-avatar.html username="michaelbyrd" %}
+- {% include github-avatar.html username="holytoastr" %}
+- {% include github-avatar.html username="marshmalien" %}
+- {% include github-avatar.html username="jkeam" %}
 
 
 ### Smithsonian Red Pandas
@@ -71,13 +73,12 @@ The red panda researchers are currently using a mish-mash of methods for recordi
 
 [https://github.com/rubyforgood/panda_app](https://github.com/rubyforgood/panda_app)
 
-* rmalecky
-
-- rmalecky
-- bhaibel
-- tpinecone
-- jgaskins
-- nathanielksmith
+{: .github-avatars}
+- {% include github-avatar.html username="rmalecky" %}
+- {% include github-avatar.html username="bhaibel" %}
+- {% include github-avatar.html username="tpinecone" %}
+- {% include github-avatar.html username="jgaskins" %}
+- {% include github-avatar.html username="nathanielksmith" %}
 
 ### Working Landscapes
 
@@ -85,9 +86,10 @@ The amazing people at the Virginia Working Landscapes have done all the heavy li
 
 [https://github.com/rubyforgood/working_landscapes](https://github.com/rubyforgood/working_landscapes)
 
-- h-m-m
-- maxtedford
-- exbinary
+{: .github-avatars}
+- {% include github-avatar.html username="h-m-m" %}
+- {% include github-avatar.html username="maxtedford" %}
+- {% include github-avatar.html username="exbinary" %}
 
 ### NOLA Habitat Humanity
 
@@ -95,21 +97,23 @@ As software developers we have it pretty good and and housing isn't a concern fo
 
 [https://github.com/rubyforgood/habitat_humanity](https://github.com/rubyforgood/habitat_humanity)
 
-- robbkidd
-- pat
-- scooter-dangle
-- bjmllr
-- Brantron
+{: .github-avatars}
+- {% include github-avatar.html username="robbkidd" %}
+- {% include github-avatar.html username="pat" %}
+- {% include github-avatar.html username="scooter-dangle" %}
+- {% include github-avatar.html username="bjmllr" %}
+- {% include github-avatar.html username="Brantron" %}
 
 ### Share Christmas
 
 It is an unfortunate reality that not every child has presents under their Christmas tree. The amazing people at the Durham Volunteer Center have a program, Share your Christmas, that matches needy children up with people able to ensure they have something special under their tree. They need a new app to facilitate their process of matching donors and receivers. Ideally they would also like to have it generic enough to also work for thanksgiving (turkeys) and the start of the school year (backpacks full of school supplies for kids.) Even though their current process is extremely terrible, other cities have expressed interest in this so this group will potentially be helping kids from all over the country!
 
-- craig-riecke
-- AEgan
-- nolds9
-- ajohnson052
-- jaydorsey
+{: .github-avatars}
+- {% include github-avatar.html username="craig-riecke" %}
+- {% include github-avatar.html username="AEgan" %}
+- {% include github-avatar.html username="nolds9" %}
+- {% include github-avatar.html username="ajohnson052" %}
+- {% include github-avatar.html username="jaydorsey" %}
 
 
 ### Manjia
