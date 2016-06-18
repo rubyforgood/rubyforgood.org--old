@@ -1,0 +1,12 @@
+<div class="github-block" markdown="1">
+<a href="{{ include.href }}" class="btn btn-xs btn-primary pull-left" target="_blank">View Project on GitHub</a>
+
+{% assign team = include.team | split:"|" %}
+
+{: .github-avatars .pull-left}
+{% for member in team %}
+- {% include github-avatar.html username=member %}
+{% endfor %}
+
+</div>
+<div class="clearfix"></div>
