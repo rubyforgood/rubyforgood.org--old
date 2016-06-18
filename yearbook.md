@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<div class="btn-wrapper pull-right">
+<a href="/submit-project.html" class="btn btn-sm btn-primary">Suggest a Project</a>
+</div>
+
 <!--
   Template for Project
     ## Title of the Project
