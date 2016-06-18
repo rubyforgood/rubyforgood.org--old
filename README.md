@@ -22,7 +22,7 @@ The site will be available at [http://localhost:4000](http://localhost:4000).
 
 **Template for Project**
   ## Title of the Project
-  Description of the project and the organization the project was built for is for.  If possible, mention the impact the project has had for the original organization or others who have begun using it.
+  Description of the project and the organization the project was built for. If possible, mention the impact the project has had for the original organization or others who have begun using it.
   * List of team members on the project team
   * Member 1
   * Member 2
@@ -34,5 +34,3 @@ The site will be available at [http://localhost:4000](http://localhost:4000).
   * Create a branch with the year and your team name
   * Add the project information using the template above. Be sure to place it under the project's year.
   * Push and make a pull request
-
-  
