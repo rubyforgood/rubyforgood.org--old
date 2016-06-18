@@ -1,37 +1,37 @@
 ---
 layout: page
 ---
-## Ruby for Good
+### Ruby for Good
 
 Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2016 the event took place in Front Royal, VA at [George Mason University's Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Participants stayed in on-site dorms with hacking and socializing takes place in communal areas. Join us in 2017 for the fun of giving back!
 
-## How Does Ruby for Good Work?
+###### How Does Ruby for Good Work?
 
 The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2016 projects are focused around conservation and the environment.
 
 This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers and designers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
 
-### That Sounds Awesome, Tell Me More!
+###### That Sounds Awesome, Tell Me More!
 
 Here is what actual attendees have written about the event:
 
-### 2015
+###### 2015
 * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
 * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/)
 * [http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
 
-### 2014
+###### 2014
 
 * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
-### Interested in Leading a Team?
+###### Interested in Leading a Team?
 
 During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late April with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:info@rubyforgood.org).
 
-### Purchasing a tickets
+###### Purchasing tickets
 
 Please check back here in Spring 2017!!!
 
