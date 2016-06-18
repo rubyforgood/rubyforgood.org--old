@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Ruby for Good Code of Conduct
+##### Ruby for Good Code of Conduct
 
 Like the technical community as a whole, the Ruby for Good team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
@@ -36,4 +36,4 @@ Ruby for Good organizers will be happy to help participants contact GMU police o
 
 We're people trying to make the world better.
 
-** For our Code of Conduct we have based ours on the excellent one made by the Django Project.**
+_For our Code of Conduct we have based ours on the excellent one made by the Django Project._
