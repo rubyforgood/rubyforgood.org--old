@@ -41,4 +41,4 @@ During registration we ask if there's anything else you'd like us to know.  You 
 
 Each year we offer a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).-->
 
-Please read our [Code of Conduct](/coc) prior to attending.
+Please read our [Code of Conduct](/coc.html) prior to attending.
