@@ -29,3 +29,51 @@ color: #57c2be;
     color: white;
     text-decoration: underline;
   }
+
+.sponsor-levels ul {
+  padding-left: 0;
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+.sponsor-levels h6 {
+  margin-bottom: 5px;
+}
+
+.sponsor-levels .btn-wrapper {
+  margin-bottom: 20px;
+}
+
+.sponsor-levels li {
+  margin-bottom: 7px;
+}
+
+.github-avatars {
+  padding: 0;
+  list-style-type: none;
+}
+
+.github-avatars img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px rgba(0,0,0,0.1) solid;
+}
+
+.github-avatars li {
+  display: inline-block;
+  position: relative;
+}
+
+.github-avatars li:first-of-type {
+  margin-right: 30px;
+}
+
+.github-avatars li:first-of-type:after {
+  content: "→";
+  position: absolute;
+  top: 0;
+  right: -25px;
+  font-size: 20px;
+  line-height: 50px;
+}

@@ -1,44 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Ruby for Good - Making the world gooder</title>
-  <meta name="description" content="Ruby for Good - Making the world gooder">
-  <meta name="keywords" content="Ruby, code, community, conference">
-  <meta name="author" content="Erwin Kaddy">
-
-  <link rel="shortcut icon" href="assets/img/favicon.png">
-  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.jpg">
-  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.jpg">
-  <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.jpg">
-
-  <link href='http://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,700' rel='stylesheet' type='text/css'>
-
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/font-lineicons.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/style-green.css" id="mainstyle" type="text/css" media="all" />
-  <link rel="stylesheet" href="assets/css/custom.css" id="custom" type="text/css" media="all" />
-
-  <!--[if lt IE 9]>
-  <script src="assets/js/html5.js"></script>
-  <script src="assets/js/respond.min.js"></script>
-  <![endif]-->
-</head>
-
-<body id="index">
-
-<!-- Preloader -->
-<div id="mask">
-  <div id="loader"><img src="assets/img/preloader.gif" alt="preloader" /></div>
-</div>
-<header id="mobileheader" class="navigation-bar-header light visible-xs"></header>
-<!-- Hero Section -->
+---
+layout: base
+---
 <section id="hero" class="light color">
   <div class="overlay color"></div>
   <div class="container">
@@ -77,35 +39,7 @@
 </section>
 <!-- End Hero Section -->
 <!-- Header -->
-<header id="header" class="navigation-bar-header light hidden-xs">
-  <div class="container">
-    <nav class="navigation">
-      <div class="navigation-txt visible-xs" data-toggle="dropdown">Home</div>
-      <button class="navigation-toggle visible-xs" type="button" data-toggle="dropdown">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <ul class="navigation-bar navigation-bar-left">
-        <li><a href="#about">About</a></li>
-        <!--<li><a href="#stat">Number Facts</a></li>-->
-        <li><a href="#elements">Details</a></li>
-        <li><a href="#speakers">Organizers</a></li>
-        <!--<li><a href="#schedule">Schedule</a></li>-->
-        <!--<li><a href="#price">Prices</a></li>-->
-        <!--<li><a href="#elements">Shortcodes</a></li>-->
-        <li><a href="#sponsors">Sponsors</a></li>
-        <li><a href="faq">FAQ</a></li>
-        <li><a href="info.html">More Info</a></li>
-        <li><a href="coc.html">Code of Conduct</a></li>
-        <!--
-        <li class="featured"><a href="http://rubyforgood.simpletix.com/SimpleTixExpress/Events/EventSectionDetail.aspx?ShowId=26039&EventTimeId=58394"><i class="fa fa-heart-o fa-1x"></i>Register</a></li>
-        -->
-        </li>
-      </ul>
-    </nav>
-  </div>
-</header>
+{% include header.html %}
 <!-- End Header -->
 <!-- About Section -->
 <section id="about" class="section dark">
@@ -134,7 +68,7 @@
             <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInRight" data-delay="500">
               <h6>About Ruby for Good</h6>
               <p>
-              Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2016 the event will take place in Front Royal, VA at <a href="http://smconservation.gmu.edu/">George Mason University’s Smithsonian-Mason School of Conservation</a>. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the <a href="/faq">FAQ</a> or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+              Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2016 the event took place in Front Royal, VA at the <a href="http://smconservation.gmu.edu/">George Mason University’s Smithsonian-Mason School of Conservation</a>. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us next year just for the fun of giving back! Questions? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
               </p>
             </div>
         </article></div>
@@ -152,7 +86,7 @@
                 project is for researchers working with red pandas. That's right, RED FRICKIN’ PANDAS. Here is a <a href="http://i.imgur.com/Pu5EwSa.gif">primer on their cuteness</a>. But red pandas won’t be all... we need YOU to help us find other great projects - suggest a project below! Project details, including available teams to join, will be announced to attendees around the beginning of June. Team leads will get information on projects in mid-to-late April.
               </p>
 
-                <a class="btn btn-sm btn-primary" href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform">Suggest a Project</a>
+                <a class="btn btn-sm btn-primary" href="/submit-project.html">Suggest a Project</a>
               </p>
 
             </div>
@@ -232,8 +166,8 @@
       <article class="article-big">
         <h5>What you <span class="highlight">need</span> to know</h5>
         <p class="big">
-          Bring yourself, your laptop, and whatever you plan on wearing. Lodging consists of shared dorm rooms (what better way to get to know new people!) complete with linens, pillows, blankets and towels. We'll also be supplying food, drinks, and fun atmosphere. We invite you to bring board games or card games... we can only guarantee that we'll have the equipment needed to play <a
-          href="http://www.artemis.eochu.com/">Artemis</a>. We have a fun outdoor activity planned for one evening so camping chairs, a sweater and maybe some bug spray are highly recommended. Make sure to <a href="https://docs.google.com/spreadsheets/d/1gTi3wUj8MJLG637wdYBsasBrca53P7X-FFjXWw-SF2k/edit#gid=2051703219">sign up</a> for the <a href="https://nationalzoo.si.edu/JoinFonz/join.cfm">FONZ</a> personalized tour of the facility! For a more in-depth run down of the weekend, check out our <a href="/info.html"> More Info</a> page. More questions? Take a gander through the <a href="/faq">FAQ</a> or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+          Bring yourself, your laptop, and whatever you plan on wearing. Lodging consists of shared dorm rooms (what better way to get to know new people!) complete with linens, pillows, blankets and towels. We'll also be supplying food, drinks, and fun atmosphere.
+          For a more in-depth run down of the weekend, check out our <a href="/attend.html">attendee information</a> page. More questions? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
         </p>
       </article>
     </section>
@@ -259,7 +193,7 @@
             Anything else?
           </div>
           <p>
-          The conference runs from June 16, 5:00 pm through June 19, 4:00 pm. It is important that you arrive by 5:00 pm sharp on June 16 as teams will be chosen right around that time. You’ll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We’ve found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
+          You’ll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We’ve found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
           </p>
         </article>
       </div>
@@ -910,6 +844,24 @@
 </section>
 -->
 <!-- End Price Section -->
+<!-- Map Section -->
+<section id="map" class="dark">
+  <div id="canvas-map"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-sm-7 animated hiding location" data-animation="fadeInLeft" data-delay="0">
+        <h3><a href="location">Location</a></h3>
+        <ul itemscope="" itemtype="http://schema.org/PostalAddress">
+          <li itemprop="address"><i class="fa fa-map-marker highlight"></i>1500 Remount Rd, Front Royal, VA 22630</li>
+          <li itemprop="email"><i class="fa fa-envelope highlight"></i>info@rubyforgood.org</li>
+          <li><i class="fa fa-clock-o highlight"></i>
+            <a href="/2016.html">2016 Event Information</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- Newsletter Section -->
 <!--
 <section id="newsletter" class="section light">
@@ -1054,7 +1006,7 @@
     <div class="sub-title">The folks that make the good possible</div>
     <br/>
     <div class="row">
-      
+
       <ul class="list-inline">
         <li><a href="http://booster.com"><img src="assets/img/sponsor/booster.png" alt="sponsor-1"></a></li>
         <li><a href="http://optoro.com"><img src="assets/img/sponsor/optoro-logo.png" alt="sponsor-2"></a></li>
@@ -1070,53 +1022,10 @@
 
     <div class="row">
       <div class="btn-wrapper">
-        <a href="mailto:info@rubyforgood.org?subject=Sponsorship" class="btn btn-sm btn-primary">Become a sponsor</a>
+        <a href="/sponsors.html" class="btn btn-sm btn-primary">Become a Sponsor</a>
       </div>
-      <p><a href="prospectus.html">Sponsorship Details and Prospectus</a></p>
     </div>
   </div>
 </section>
 <!-- End Price Section -->
-<!-- Map Section -->
-<section id="map" class="dark">
-  <div id="canvas-map"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5 col-sm-7 animated hiding location" data-animation="fadeInLeft" data-delay="0">
-        <h3><a href="location">Location</a></h3>
-        <ul itemscope="" itemtype="http://schema.org/PostalAddress">
-          <li itemprop="address"><i class="fa fa-map-marker highlight"></i>1500 Remount Rd, Front Royal, VA 22630</li>
-          <li itemprop="email"><i class="fa fa-envelope highlight"></i>info@rubyforgood.org</li>
-          <li itemscope="" itemtype="http://schema.org/Event"><i class="fa fa-clock-o highlight"></i>
-          <time itemprop="startDate" datetime="2016-06-16T07:30">3:00PM 6/16</time> - <time itemprop="endDate" datetime="2016-06-19T22:00">5:00PM 6/19</time>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
 <!-- End Map Section -->
-<footer id="footer">
-
-</footer>
-
-<div class="back-to-top"><i class="fa fa-angle-up fa-3x"></i></div>
-
-<!--[if lt IE 9]>
-        <script type="text/javascript" src="assets/js/jquery-1.11.0.min.js?ver=1"></script>
-    <![endif]-->
-<!--[if (gte IE 9) | (!IE)]><!-->
-        <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js?ver=1"></script>
-    <!--<![endif]-->
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.nav.js"></script>
-<script type="text/javascript" src="assets/js/jquery.appear.js"></script>
-<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
-<script type="text/javascript" src="assets/js/waypoints.min.js"></script>
-<script type="text/javascript" src="assets/js/waypoints-sticky.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
-<script type="text/javascript" src="assets/mailchimp/js/mailing-list.js"></script>
-<script type="text/javascript" src="assets/js/scripts.js"></script>
-</body>
-</html>
