@@ -14,7 +14,8 @@ layout: page
   Instructions
     * Add or update your project on this page by submitting a pull request to the rubyforgood.org repository.
     * Pull down or fork the repository
-    * Add the project information using the template above
+    * Create a branch with the year and your team name
+    * Add the project information using the template above. Be sure to place it under the project's year.
     * Push and make a pull request
 -->
 
