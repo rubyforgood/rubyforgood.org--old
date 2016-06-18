@@ -29,3 +29,21 @@ color: #57c2be;
     color: white;
     text-decoration: underline;
   }
+
+.sponsor-levels ul {
+  padding-left: 0;
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+.sponsor-levels h6 {
+  margin-bottom: 5px;
+}
+
+.sponsor-levels .btn-wrapper {
+  margin-bottom: 20px;
+}
+
+.sponsor-levels li {
+  margin-bottom: 7px;
+}
