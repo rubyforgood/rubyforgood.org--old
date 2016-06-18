@@ -28,9 +28,9 @@ The site will be available at [http://localhost:4000](http://localhost:4000).
 
   * List of team members. Paste the code below, inserting their github name as shown.
   {: .github-avatars}
-  - {% include github-avatar.html username="insert_github_name_hear" %}
-  - {% include github-avatar.html username="insert_github_name_hear" %}
-  - {% include github-avatar.html username="insert_github_name_hear" %}
+  - {% include github-avatar.html username="insert_github_name_here" %}
+  - {% include github-avatar.html username="insert_github_name_here" %}
+  - {% include github-avatar.html username="insert_github_name_here" %}
 
 ### Instructions
 
