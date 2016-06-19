@@ -6,6 +6,19 @@
   padding-top: 50px;
 }
 
+#hero .hero-content {
+  top: 50%;
+  margin-top: 0;
+  transform: translateY(-50%);
+}
+
+#hero .hero-bottom {
+  position: absolute;
+  bottom: 75px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .hero-big-em {
   color: rgba(0,0,0,0.1);
 }
