@@ -24,10 +24,6 @@
 
 
   $(function() {
-    //Preloader
-    app.el['loader'].delay(5).fadeOut();
-    app.el['mask'].delay(100).fadeOut("slow");
-
     // Resized based on screen size
     app.el['window'].resize(function() {
       app.fn.screenSize();
