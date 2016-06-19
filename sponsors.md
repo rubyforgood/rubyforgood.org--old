@@ -70,9 +70,6 @@ $2,500
 ###### **Ruby**
 Contact us!
 
-<!--div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
-</div-->
 <div class="btn-wrapper">
 <a href="mailto:info@rubyforgood.org?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
