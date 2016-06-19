@@ -33,11 +33,11 @@ Learn more about the projects from past years and take a trip down memory lane a
 
 ##### Portland Diaper Bank
 
-There are 150,000 children living in poverty in Oregon whose parents often have to make the difficult choice of choosing between feeding their children and putting diapers on them. The great people at the Portland Diaper Bank are helping and need our help to do the great work that they do! They need a database, integrated bar code scanner (awesome!) and some other stuff to make their lives easier and give them more time to do the good work that they do. <a href="http://www.pdxdiaperbank.org/" target="_blank">More about the Portland Diaper Bank</a>.
+There are 150,000 children living in poverty in Oregon whose parents often have to make the difficult choice of choosing between feeding their children and putting diapers on them. The great people at the Portland Diaper Bank are helping and need our help to do the great work that they do! They need a database, integrated bar code scanner (awesome!) and some other stuff to make their lives easier and give them more time to do the good work that they do. [More about the Portland Diaper Bank](http://www.pdxdiaperbank.org/).
 
 {% include github-block.html
   href="https://github.com/rubyforgood/pdx_diaper"
-  team="armahillo|D-matz|cattywampus|tmobaird|katiesteiner"
+  team="armahillo|cattywampus|D-matz|tmobaird|katiesteiner|chrisboredom|shehanr|D-matz"
 %}
 
 ##### Smithsonian Studying the Scimitar Oryx
@@ -46,7 +46,7 @@ Let's be honest, we all want to do great things. What is better than being part 
 
 {% include github-block.html
   href="https://github.com/rubyforgood/scimitar_oryx"
-  team="pachacamac|cmar|nht007|duaimei|SuperJones|jcavena|rpchurchill|mkmckenzie"
+  team="nht007|pachacamac|cmar|duaimei|SuperJones|jcavena|rpchurchill|mkmckenzie|jeremywrnr|dpulliam"
 %}
 
 ##### Smithsonian Logging the Loggerhead
@@ -55,7 +55,7 @@ There is only one Shrike native to North America and it is a surprisingly import
 
 {% include github-block.html
   href="https://github.com/rubyforgood/loggerhead_shrike"
-  team="jjlangholtz|michaelbyrd|holytoastr|marshmalien|jkeam"
+  team="jjlangholtz|michaelbyrd|holytoastr|marshmalien|jkeam|mobjohnson|ahirschberg"
 %}
 
 ##### Smithsonian Red Pandas
@@ -64,7 +64,7 @@ The red panda researchers are currently using a mish-mash of methods for recordi
 
 {% include github-block.html
   href="https://github.com/rubyforgood/panda_app"
-  team="rmalecky|bhaibel|tpinecone|jgaskins|nathanielksmith"
+  team="rmalecky|bhaibel|tpinecone|jgaskins|nathanielksmith|andrewpurcell|christinaforney|"
 %}
 
 ##### Working Landscapes
@@ -73,7 +73,7 @@ The amazing people at the Virginia Working Landscapes have done all the heavy li
 
 {% include github-block.html
   href="https://github.com/rubyforgood/working_landscapes"
-  team="h-m-m|maxtedford|exbinary"
+  team="h-m-m|maxtedford|exbinary|bglusman|danielpclark"
 %}
 
 ##### NOLA Habitat Humanity
@@ -82,7 +82,7 @@ As software developers we have it pretty good and and housing isn't a concern fo
 
 {% include github-block.html
   href="https://github.com/rubyforgood/habitat_humanity"
-  team="robbkidd|pat|scooter-dangle|bjmllr|Brantron"
+  team="bjmllr|robbkidd|pat|scooter-dangle|Brantron|jenpen|jdsayle"
 %}
 
 ##### Share Christmas
@@ -91,12 +91,17 @@ It is an unfortunate reality that not every child has presents under their Chris
 
 {% include github-block.html
   href="https://github.com/rubyforgood/share_christmas"
-  team="craig-riecke|AEgan|nolds9|ajohnson052|jaydorsey"
+  team="craig-riecke|AEgan|nolds9|ajohnson052|jaydorsey|vegajdr|Josecc"
 %}
 
 ##### Manjia
 
 Manjia was born out of disappointment over the amount of food waste created each year that goes unrecovered. We know there are people in desperate need of food donations and that there are also a lot of people with a surplus of food. We believe that by providing a simple way for people from those two groups to be connected it will significantly reduce the amount of food wasted. As sustainability becomes more and more a topic of conversation we hope that food recycling can be discussed as one of the easiest ways to improve the lives of those in need while at the same time lessening our impact on the world by reducing landfill waste.
+
+<!--{% include github-block.html
+  href="#"
+  team="#|Benabik|yarmiganosca|kalimar|"
+%}-->
 
 ---
 
@@ -131,7 +136,7 @@ The GrowHaus is a nonprofit indoor farm in Denver's Elyria-Swansea neighborhood.
   team="nevern02|indiesquidge|adunkman|bengm|nonegiven444|waffle-iron|fearthegoat"
 %}
 
-##### AllIncomeFoods
+##### All Income Foods
 
 An app that lists places that accept food stamps.
 
