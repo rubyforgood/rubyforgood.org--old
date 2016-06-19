@@ -1,3 +1,11 @@
+.navigation-bar-header-spacer {
+  height: 50px;
+}
+
+.navigation-spacing {
+  padding-top: 50px;
+}
+
 .hero-big-em {
   color: rgba(0,0,0,0.1);
 }
