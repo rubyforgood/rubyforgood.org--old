@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Sponsors
+### Sponsors
 
 We're very proud to again be organizing the Ruby for Good conference. This conference, to our knowledge, is the first and currently only conference of this kind ever. We are bringing together Rubyists to learn, teach, and work on civic and open source projects.
 
