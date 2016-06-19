@@ -2,13 +2,9 @@
 layout: page
 ---
 
-<div class="btn-wrapper pull-right">
-<a href="/submit-project.html" class="btn btn-sm btn-primary">Suggest a Project</a>
-</div>
+### Projects
 
-### Ruby for Good Yearbook
-
-Learn more about the projects from past years and take a trip down memory lane and remembering all the great times you had making the world gooder.
+Here’s a list of the organizations and projects we’ve been able to help over the past years making the world a gooder place — if you have a great idea for a future project, let us know and <a href="/submit-project.html">suggest a project</a>.
 
 #### 2016
 
