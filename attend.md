@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-### Ruby for Good
+### Attending Ruby for Good
 
 Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2016 the event took place in Front Royal, VA at [George Mason University's Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Participants stayed in on-site dorms with hacking and socializing takes place in communal areas. Join us in 2017 for the fun of giving back!
 
