@@ -149,7 +149,7 @@ Kutoa is an innovative giving movement that is uniting people around the world t
 
 {% include github-block.html
   href="#privaterepo#"
-  team="rcarter|armahillo|"
+  team="rcarter|armahillo"
 %}
 
 ##### Pathway Homes
