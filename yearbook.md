@@ -12,11 +12,13 @@ Here’s a list of the organizations and projects we’ve been able to help over
 
 ##### Portland Diaper Bank
 
-There are 150,000 children living in poverty in Oregon whose parents often have to make the difficult choice of choosing between feeding their children and putting diapers on them. The great people at the Portland Diaper Bank are helping and need our help to do the great work that they do! They need a database, integrated bar code scanner (awesome!) and some other stuff to make their lives easier and give them more time to do the good work that they do. [More about the Portland Diaper Bank](http://www.pdxdiaperbank.org/).
+There are 150,000 children living in poverty in Oregon whose parents often have to make the difficult choice of choosing between feeding their children and putting diapers on them. The great people at the Portland Diaper Bank are helping and need our help to do the great work that they do! [More about the Portland Diaper Bank](http://www.pdxdiaperbank.org/).
+
+The application we developed was to replace the existing inventory system to provide better data on their operations. The intake process is volunteer-driven but very time-consuming, and the hours spent doing intake of donations is time they can't spend doing other work. The organization had requested intake methods other than hand-counting, such as barcode scanning or using a scale to weight large volume of loose product. We were able to get barcode intake functioning, and have plans to work in some kind of rudimentary scale-assistant as well.
 
 {% include github-block.html
   href="https://github.com/rubyforgood/pdx_diaper"
-  team="armahillo|cattywampus|D-matz|tmobaird|katiesteiner|chrisboredom|shehanr|D-matz"
+  team="armahillo|cattywampus|tmobaird|katiesteiner|cmmovius|cubadomingo|chrisboredom|shehanr|D-matz"
 %}
 
 ##### Smithsonian Studying the Scimitar Oryx
@@ -144,6 +146,11 @@ In 2014, Ruby for Good was held at the Fairfax Campus of George Mason University
 Help the sole developer of the non-profit Kutoa.org. They are looking for help figuring out how best to test with Rails and Rspec and hope to get a solid foundation.
 
 Kutoa is an innovative giving movement that is uniting people around the world to give to a common cause. Give your $1/month and get a vote what project all of our money should support. Every dollar matters!
+
+{% include github-block.html
+  href="#privaterepo#"
+  team="rcarter|armahillo"
+%}
 
 ##### Pathway Homes
 
