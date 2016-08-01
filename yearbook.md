@@ -50,11 +50,11 @@ The red panda researchers are currently using a mish-mash of methods for recordi
 
 ##### Working Landscapes
 
-The amazing people at the Virginia Working Landscapes have done all the heavy lifting and now just need somewhere to house their information. Partner land-owners throughout the state in numerous watershed zones are doing the hard work of gathering and recording wetland data. This data is invaluable for state conservation efforts but their current process of having to email that data in is slowing down their process. They need an application for these participants to log and record their findings, ideally something responsive so they can do it from their phones/tablets while gathering the data.
+The amazing people at the Virginia Working Landscapes have done all the heavy lifting creating wildlife surveys, and now need somewhere to house their information. Virginia Working Landscapes works with partner land-owners throughout the state in numerous watershed zones and organizes teams of citizen scientists to record wetland data. This data is invaluable for state conservation efforts but the current process Virginia Working Landscapes uses to collect and collate that data is slowing down important research. They need an application to record their findings, keep their data organized, and simplify generating accurate reports.
 
 {% include github-block.html
   href="https://github.com/rubyforgood/working_landscapes"
-  team="h-m-m|maxtedford|exbinary|bglusman|danielpclark"
+  team="h-m-m|maxtedford|exbinary|bglusman|danielpclark|scherenack|cflipse"
 %}
 
 ##### NOLA Habitat Humanity
