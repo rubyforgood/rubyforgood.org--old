@@ -66,7 +66,7 @@ As software developers we have it pretty good and and housing isn't a concern fo
   team="bjmllr|robbkidd|pat|scooter-dangle|Brantron|jenpen|jdsayle"
 %}
 
-##### Share Christmas
+##### Share Your Christmas
 
 It is an unfortunate reality that not every child has presents under their Christmas tree. The amazing people at the Durham Volunteer Center have a program, Share your Christmas, that matches needy children up with people able to ensure they have something special under their tree. They need a new app to facilitate their process of matching donors and receivers. Ideally they would also like to have it generic enough to also work for thanksgiving (turkeys) and the start of the school year (backpacks full of school supplies for kids.) Even though their current process is extremely terrible, other cities have expressed interest in this so this group will potentially be helping kids from all over the country!
 
