@@ -32,7 +32,7 @@ $1,000
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Gold**
-$1,500
+$2,000
 
 <div class="btn-wrapper">
 <a href="mailto:info@rubyforgood.org?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
@@ -49,7 +49,7 @@ $1,500
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Platinum**
-$2,500
+$3,000
 
 <div class="btn-wrapper">
 <a href="mailto:info@rubyforgood.org?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
