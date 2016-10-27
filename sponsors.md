@@ -19,7 +19,7 @@ By the very nature of our conference, our attendees are some of the most passion
 $1,000
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Silver Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
+<a href="mailto:info@rubyforgood.org?subject=Silver Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Small logo on the conference homepage.
@@ -35,7 +35,7 @@ $1,000
 $1,500
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Gold Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
+<a href="mailto:info@rubyforgood.org?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Large logo on the conference homepage.
