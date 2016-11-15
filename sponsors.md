@@ -115,7 +115,7 @@ $1 – $500
 <a href="mailto:info@rubyforgood.org?subject=Donor Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
 </div>
 
-- Contribue towards the Ruby for Good Scholarship fund, used to allow more people the opportunity to participate
+- Contribute towards the Ruby for Good Scholarship fund, used to allow more people the opportunity to participate
 - Feel great about making Ruby for Good gooder
 
 </div>
