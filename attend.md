@@ -18,6 +18,7 @@ Here is what actual attendees have written about the event:
 ###### 2016
 * [http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
 * [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
+* [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
 
 ###### 2015
 * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
@@ -30,7 +31,6 @@ Here is what actual attendees have written about the event:
 
 * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
-* [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
 
 ###### Interested in Leading a Team?
 
