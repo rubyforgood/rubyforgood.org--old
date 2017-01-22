@@ -3,7 +3,7 @@ layout: page
 ---
 ### Attending Ruby for Good
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2016 the event took place in Front Royal, VA at [George Mason University's Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Participants stayed in on-site dorms with hacking and socializing takes place in communal areas. Join us in 2017 for the fun of giving back!
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2017 the event will take place in Front Royal, VA at [George Mason University's Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us May 17-21, 2017 for the fun of giving back!
 
 ###### How Does Ruby for Good Work?
 
@@ -14,6 +14,10 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 ###### That Sounds Awesome, Tell Me More!
 
 Here is what actual attendees have written about the event:
+
+###### 2016
+* [http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
+* [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
 
 ###### 2015
 * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
@@ -35,8 +39,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 
 ###### Purchasing tickets
 
-Please check back here in Spring 2017!!!
-
+Tickets go on sale Feb 10, 2017!
 <!--Tickets go on sale April 4, 2016.
 
 During registration we ask if there's anything else you'd like us to know.  You can use this section to indicate that you'd like to room with a partner or friend who is also attending.  We will be sure to accommodate this when making the room assignments
