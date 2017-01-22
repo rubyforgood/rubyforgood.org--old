@@ -30,6 +30,7 @@ Here is what actual attendees have written about the event:
 
 * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
+* [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
 
 ###### Interested in Leading a Team?
 
