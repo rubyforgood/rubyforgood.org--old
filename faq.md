@@ -39,11 +39,11 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 ##### What ARE the projects this year?
 
-This year projects are focused around conservation and the environment and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of June after registration closes. As a teaser, some of the organizations we'll be helping this year include Habitat for Humanity, Source Population Alliance (a non-profit working to reintroduce extinct-in-the-wild oryx), the Smithsonian-Mason School of Conservation's red panda project, Virginia Working Landscapes, and many other amazing organizations.
+This year projects are focused around womens issues and families and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
 
 ##### I wanna lead a team. What do I do?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late April with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions.
+During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
 ##### I don't know if I want to lead a team. What do I do?
 
@@ -51,7 +51,7 @@ In general, leading a team entails connecting with stakeholders, initial archite
 
 ##### Do you allow remote teams at Ruby for Good?
 
-Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2017 for very enterprising and motivated individuals. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2018 for very enterprising and motivated individuals. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ##### How can I help?!
 
@@ -66,11 +66,11 @@ No. This is definitely not a hackathon. Sean cringes everytime someone mentions 
 
 ##### When do I need to purchase my tickets?
 
-By June 2nd or when we sell out, whichever comes first!
+By May 1st or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After April 30th we will be unable to offer refunds but we will happily help coordinate exchanges until June 1st. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+After February 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ##### What does my registration go toward?
 
@@ -78,7 +78,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-April 4, 2016!
+Feb 10, 2017!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
@@ -94,7 +94,7 @@ The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely. In 2016 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;)
+Absolutely. In 2017 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;) Attendees from 2016 who had dietary restrictions told us this was the best they had ever been fed at an event!
 
 ##### What's it REALLY like at Ruby for Good?
 
@@ -106,13 +106,7 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 
 ##### What tour? What's a FONZ?
 
-The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We have three tours lined up:
-
-* Thursday, June 16, 1:00 pm
-* Friday, June 17, 10:00 am
-* Friday, June 17, 1:00 pm
-
-Only 26 people are allowed for each tour and tours last between 1.5 and 2 hours. Please sign up <a href="https://docs.google.com/spreadsheets/d/1gTi3wUj8MJLG637wdYBsasBrca53P7X-FFjXWw-SF2k/edit?usp=sharing">here</a> on the appropriate tab for your preferred day and time.
+The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We'll have more information about this soon!
 
 ##### Do you have scholarships?
 
@@ -132,25 +126,20 @@ During registration we ask if there's anything else you'd like us to know - indi
 
 ##### How do room assignments work?
 
-Rooms contain two single beds and a bathroom. After registration closes (June 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Rooms contain two single beds and a bathroom. After registration closes (May 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
 
 ##### Do you have a code of conduct?
 
 We are proud to have a <a href="/coc">code of conduct</a>.
 
-##### How is 2016 different from 2015?
+##### How is 2017 different from 2016?
 
-* Location has changed
-* There will be a fun outdoor activity one evening (bring lawn chairs and a sweet tooth!)
-* The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized tour and explaining all the great research being done at the venue
-* Projects are focused around conservation and the environment this year
-* Food will be provided for us at the venue (no communal cooking)
-* Cost is slightly higher because of the extra night and catered meals
+* Cost is slightly higher because the Smithsonian is charging us more.
 
 ##### Can my family come?
 
 Unfortunately not this year due to the location being a closed research institute.
 
-##### Do I get something special if I've been for the past 3 years?
+##### Do I get something special if I've been for the past 4 years?
 
 A big bear hug from all the organizers!!
