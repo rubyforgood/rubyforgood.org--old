@@ -13,6 +13,8 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 
 ###### That Sounds Awesome, Tell Me More!
 
+[Read more about this years event.](/2017.html)
+
 Here is what actual attendees have written about the event:
 
 ###### 2016
