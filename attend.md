@@ -41,6 +41,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 ###### Purchasing tickets
 
 Tickets go on sale Feb 10, 2017!
+
 <!--Tickets go on sale April 4, 2016.
 
 During registration we ask if there's anything else you'd like us to know.  You can use this section to indicate that you'd like to room with a partner or friend who is also attending.  We will be sure to accommodate this when making the room assignments
