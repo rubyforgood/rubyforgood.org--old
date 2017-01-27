@@ -24,7 +24,7 @@ Listen to what one of our amazing partner organizations from 2016 had to say:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kON0NSr6qk8" frameborder="0" allowfullscreen></iframe>
 
 
-#### What We need from you?
+#### What do we need from you?
 
 **Involvement and Participation**
 
@@ -34,7 +34,7 @@ You will also need to be available at least once during the event, ideally each 
 
 #### What does it cost?
 
-The project development is free! We do this to help the people who are making the world a better place. For the past three years we have also been very fortunate to have received sponsorships from hosting companies to host the projects. However, there is not guarantee these sponsorships will continue. You may need to find hosting for the project once it is built. We will work with you to find the most affordable solution for your project or to integrate it with your current hosting.
+The project development is free! We do this to help the people who are making the world a better place. For the past three years we have also been very fortunate to have received sponsorships from hosting companies to host the projects. However, there is no guarantee these sponsorships will continue. You may need to find hosting for the project once it is built. We will work with you to find the most affordable solution for your project or to integrate it with your current hosting.
 
 #### Okay, I'm sold, how do I get involved?
 
