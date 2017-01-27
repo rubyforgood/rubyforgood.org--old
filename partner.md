@@ -32,6 +32,10 @@ In order to build you the best software possible we can't do it without your par
 
 We require you to be available during the event. Your team will will coordinate the times. This is because the team building your software will run into design decisions when building your application that they won't be able to resolve without you. You need to commit to be available at least once during the event, ideally each day.
 
+#### What does it cost?
+
+It is free! We do this to help the people who are making the world a better place. For the past three years we have been really fortunate to have received sponsorship from hosting companies to host the projects but there is not guarantee that will continue. You may need to find hosting for the project we build but we will work with you to find the most affordable solution or to integrate it with your current hosting.
+
 #### Okay, I'm sold, how do I get involved?
 
 The process starts with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that. 
