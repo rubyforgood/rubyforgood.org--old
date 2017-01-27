@@ -4,7 +4,7 @@ layout: page
 
 #### Why Partner With Us?
 
-tl;dr We'll do whatever we can to make your life easier.
+**tl;dr** - We'll do whatever we can to make your life easier.
 
 #### What kind of projects do we work on?
 
@@ -26,7 +26,7 @@ Listen to what one of our amazing partner organizations from 2016 had to say:
 
 #### What We need from you?
 
-#### Involvement and Participation
+**Involvement and Participation**
 
 In order to build you the best software possible we can't do it without your participation and knowing what you need. We require you to commit to at least two meetings with the person leading your team in the lead up to the event.
 
