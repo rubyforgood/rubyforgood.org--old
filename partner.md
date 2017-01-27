@@ -28,13 +28,13 @@ Listen to what one of our amazing partner organizations from 2016 had to say:
 
 **Involvement and Participation**
 
-In order to build you the best software possible we can't do it without your participation and knowing what you need. We require you to commit to at least two meetings with the person leading your team in the lead up to the event.
+In order to build you the best software possible we need your participation so we can understand your needs. We require you to commit to at least two meetings with the person leading your team in the lead up to the event.
 
-We require you to be available during the event. Your team will will coordinate the times. This is because the team building your software will run into design decisions when building your application that they won't be able to resolve without you. You need to commit to be available at least once during the event, ideally each day.
+You will also need to be available at least once during the event, ideally each day. Your team will will coordinate the times. This is necessary because the team building your software will inevitably run into design decisions that will require your input in order to resolve and keep the project moving forward.
 
 #### What does it cost?
 
-It is free! We do this to help the people who are making the world a better place. For the past three years we have been really fortunate to have received sponsorship from hosting companies to host the projects but there is not guarantee that will continue. You may need to find hosting for the project we build but we will work with you to find the most affordable solution or to integrate it with your current hosting.
+The project development is free! We do this to help the people who are making the world a better place. For the past three years we have also been very fortunate to have received sponsorships from hosting companies to host the projects. However, there is not guarantee these sponsorships will continue. You may need to find hosting for the project once it is built. We will work with you to find the most affordable solution for your project or to integrate it with your current hosting.
 
 #### Okay, I'm sold, how do I get involved?
 
@@ -42,6 +42,6 @@ The process starts with a conversation. We'll get in touch and determine how we 
 - About 5-6 weeks before the event we'll find someone suitable to lead a team to build your software and put them in touch with you.
 They will meet and drill down with you and what you really need.They will confirm requirements with you and then present them to the team that will be working on your software at our event.
 They will meet virtually (skype/hangouts/etc) with you during the event to introduce the team and to clarify any questions.
-Withing one of the event =s completetion we will deliver the software to you.
+Within one month of the event's completetion we will deliver the software to you.
 
 [Email us](mailto:info@rubyforgood.org) or submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform).
