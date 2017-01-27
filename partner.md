@@ -10,12 +10,12 @@ tl;dr We'll do whatever we can to make your life easier.
 
 We excel at figuring out what your biggest pain points are and what kind of tedious repetitive tasks you do. Then we set about automating those tasks so you time can better be spent elsewhere. As our expertise is primarily with building web applications, the kind of projects that we excel at are those that require the recording and sharing of information, collaboration, web-based databases and coordination tools. These can seem a little vague, especially to non-technically oriented people, so here are questions to ask:
 
-1) Are you recording data with pen/paper and later transferring that data to a computer?
-2) Do you pass word/excel/text files around with collaborators to share information?
-3) Are you using software for a project now that wasn't built for the kind of work you are doing (“making it work” even though it’s super painful)?
-4) Do you take data entered somewhere, manually manipulate it and send it on elsewhere?
-5) Do you have databases that require different access levels? For example, a volunteer can record and enter data, a principal researcher can then lock it and prevent further volunteer edits and only allow researchers to edit to protect data integrity, reviewers can see but not edit data, and so on.
-6) Do you use desktop programs to record information so you are locked into doing it from a certain location but it would be more convenient to have it web based so you can see/edit from anywhere?
+1. Are you recording data with pen/paper and later transferring that data to a computer?
+2. Do you pass word/excel/text files around with collaborators to share information?
+3. Are you using software for a project now that wasn't built for the kind of work you are doing (“making it work” even though it’s super painful)?
+4. Do you take data entered somewhere, manually manipulate it and send it on elsewhere?
+5. Do you have databases that require different access levels? For example, a volunteer can record and enter data, a principal researcher can then lock it and prevent further volunteer edits and only allow researchers to edit to protect data integrity, reviewers can see but not edit data, and so on.
+6. Do you use desktop programs to record information so you are locked into doing it from a certain location but it would be more convenient to have it web based so you can see/edit from anywhere?
 
 We can and have built other kinds of software and this is only to give you an idea. We'll definitely find a way to help!
 
