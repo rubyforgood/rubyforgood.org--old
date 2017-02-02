@@ -41,7 +41,7 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 This year projects are focused around womens issues and families and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
 
-##### I wanna lead a team. What do I do?
+##### I want to lead a team. What do I do?
 
 During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
@@ -134,7 +134,7 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 
 ##### How is 2017 different from 2016?
 
-* Cost is slightly higher because the Smithsonian is charging us more.
+Cost is slightly higher because the Smithsonian is charging us more.
 
 ##### Can my family come?
 
@@ -142,4 +142,4 @@ Unfortunately not this year due to the location being a closed research institut
 
 ##### Do I get something special if I've been for the past 4 years?
 
-A big bear hug from all the organizers!!
+A big bear hug from all the organizers!
