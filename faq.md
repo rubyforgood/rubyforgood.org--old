@@ -6,7 +6,7 @@ layout: page
 
 ##### What is Ruby for Good?
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### Why are ya'll organizing Ruby for Good?
 
@@ -47,11 +47,11 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll be i
 
 ##### I don't know if I want to lead a team. What do I do?
 
-In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### Do you allow remote teams at Ruby for Good?
 
-Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2018 for very enterprising and motivated individuals. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2018 for very enterprising and motivated individuals. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### How can I help?!
 
@@ -70,7 +70,7 @@ By May 1st or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After February 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+After February 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### What does my registration go toward?
 
@@ -126,7 +126,7 @@ During registration we ask if there's anything else you'd like us to know - indi
 
 ##### How do room assignments work?
 
-Rooms contain two single beds and a bathroom. After registration closes (May 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+Rooms contain two single beds and a bathroom. After registration closes (May 1), we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### Do you have a code of conduct?
 

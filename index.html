@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+{% assign c = site.data.constants %}
 <section id="hero" class="light color">
   <div class="overlay color"></div>
   <div class="container">
@@ -14,7 +15,7 @@ layout: base
     </nav>
     <div class="hero-content text-center">
       <div class="hero-small">
-        <hr /><span>May 18th - May 21st, 2017</span><hr />
+        <hr /><span>{{ site.data.constants.dates.start}} - {{ site.data.constants.dates.start}}, {{ site.data.constants.dates.year}}</span><hr />
       </div>
       <div class="hero-big">RUBY<wbr><span class="hero-big-em">FOR</span><wbr>GOOD</div>
       <div class="hero-normal">
@@ -69,7 +70,7 @@ layout: base
                 Smithsonian-Mason School of Conservation</a>. Participants stay in
                 on-site dorms; hacking and socializing takes place in communal areas.
                 Join us this year just for the fun of giving back! Questions? Drop us
-                a <a href="mailto:info@rubyforgood.com">note</a>.
+                a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
               </p>
             </div>
         </article></div>
@@ -174,7 +175,7 @@ layout: base
         <h5>What you <span class="highlight">need</span> to know</h5>
         <p class="big">
           Bring yourself, your laptop, and whatever you plan on wearing. Lodging consists of shared dorm rooms (what better way to get to know new people!) complete with linens, pillows, blankets and towels. We'll also be supplying food, drinks, and fun atmosphere.
-          For a more in-depth run down of the weekend, check out our <a href="/attend.html">attendee information</a> page. More questions? Drop us a <a href="mailto:info@rubyforgood.com">note</a>.
+          For a more in-depth run down of the weekend, check out our <a href="/attend.html">attendee information</a> page. More questions? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
         </p>
       </article>
     </section>
@@ -326,7 +327,7 @@ layout: base
           <article>
             <div class="panel-title">
               <p class="big">
-              Nothing has been scheduled yet but depending on how many people are coming early we will definitely do something fun. Some thoughts that are currently floating around are a <a href="http://www.trolleytours.com/washington-dc/night-tours.asp">night time tour of the monuments</a>, a visit to <a href="http://airandspace.si.edu/visit/udvar-hazy-center/"> udvar hazy </a> or maybe something else. If there is something you'd like to see or do in the Nations Capital we are definitely open to suggestions! Send us an <a href="mailto:info@rubyforgood.org">email</a>.</p>
+              Nothing has been scheduled yet but depending on how many people are coming early we will definitely do something fun. Some thoughts that are currently floating around are a <a href="http://www.trolleytours.com/washington-dc/night-tours.asp">night time tour of the monuments</a>, a visit to <a href="http://airandspace.si.edu/visit/udvar-hazy-center/"> udvar hazy </a> or maybe something else. If there is something you'd like to see or do in the Nations Capital we are definitely open to suggestions! Send us an <a href="mailto:{{ site.data.constants.contact_email }}">email</a>.</p>
             </div>
           </article>
         </div>
@@ -859,8 +860,8 @@ layout: base
       <div class="col-md-5 col-sm-7 animated hiding location" data-animation="fadeInLeft" data-delay="0">
         <h3><a href="location">Location</a></h3>
         <ul itemscope="" itemtype="http://schema.org/PostalAddress">
-          <li itemprop="address"><i class="fa fa-map-marker highlight"></i>1500 Remount Rd, Front Royal, VA 22630</li>
-          <li itemprop="email"><i class="fa fa-envelope highlight"></i>info@rubyforgood.org</li>
+          <li itemprop="address"><i class="fa fa-map-marker highlight"></i>{{ site.data.constants.address }}</li>
+          <li itemprop="email"><i class="fa fa-envelope highlight"></i>{{ site.data.constants.contact_email }}</li>
           <!--
             <li><i class="fa fa-clock-o highlight"></i><a href="/2017.html">2017 Event Information</a></li>
           -->
@@ -998,7 +999,7 @@ layout: base
         <h5> Want to participate but need some help?  </h5>
         <p>
         <!--
-          The scholarship application window has closed. If you applied for a scholarship but haven't heard anything please <a href="mailto:info@rubyforgood.org?subject=Scholarship" ><font color="black">let us know!</font></a>
+          The scholarship application window has closed. If you applied for a scholarship but haven't heard anything please <a href="mailto:{{ site.data.constants.contact_email }}?subject=Scholarship" ><font color="black">let us know!</font></a>
         -->
         Ruby For Good is providing scholarship tickets to allow more people the opportunity to participate. Click the link below to submit your request!
         <br/>
