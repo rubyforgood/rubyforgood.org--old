@@ -2,6 +2,10 @@
   height: 50px;
 }
 
+.navigation-bar-header {
+  z-index: 9;
+}
+
 .navigation-spacing {
   padding-top: 50px;
 }
