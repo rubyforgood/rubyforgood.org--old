@@ -151,7 +151,7 @@ hr.white { border-color: #F3AE9B; }
   padding-top: 10px; }
 .navigation-bar > li a:Hover,
 .navigation-bar > li a.active { color: #eee; text-decoration: none; }
-.navigation-bar > li.active a { color: #eee; }
+.navigation-bar > li.active a { color: #eee; text-decoration: none; }
 
 .navigation-bar > li.featured {opacity:0;  -webkit-transition: all .5s linear;-moz-transition: all .5s linear; transition: all .5s linear;}
 .sticky .navigation-bar > li.featured {opacity:1;}
