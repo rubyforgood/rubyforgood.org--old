@@ -1,0 +1,26 @@
+---
+
+- name: Sean Marcia
+  title: Founder
+  about: Came up with Ruby for Good, and it would not be possible without his hard work.
+  twitter: seanmarcia
+  github: SeanMarcia
+  img: assets/img/gallery/sean_thumbnail.jpg
+- name: Teresa Finn
+  about: Loves community, helping others and making a difference in the world.
+  title: Cat Herder
+  twitter: teresa_finn
+  github: teresafinn
+  img: assets/img/gallery/teresa_thumbnail.jpg
+- name: Kalimar Maia
+  title: Schlepper
+  about: Loves bringing people together through technology and food&mdash;and making music with others.
+  img: assets/img/gallery/kalimar_thumbnail.jpg
+  twitter: kalimar
+  github: kalimar
+- name: Christopher Sexton
+  title: Disorganizer
+  img: assets/img/gallery/chris_thumbnail.jpg
+  about: Loves building cool things, the community, helping folks learn&mdash;and silly projects with kids.
+  github: csexton
+  twitter: crsexton
