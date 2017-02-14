@@ -151,7 +151,7 @@ hr.white { border-color: #F3AE9B; }
   padding-top: 10px; }
 .navigation-bar > li a:Hover,
 .navigation-bar > li a.active { color: #eee; text-decoration: none; }
-.navigation-bar > li.active a { color: #eee; }
+.navigation-bar > li.active a { color: #eee; text-decoration: none; }
 
 .navigation-bar > li.featured {opacity:0;  -webkit-transition: all .5s linear;-moz-transition: all .5s linear; transition: all .5s linear;}
 .sticky .navigation-bar > li.featured {opacity:1;}
@@ -767,7 +767,7 @@ label.error { display: block; }
   .nav-tabs-default .tab-pane .nav-tabs > li > a { padding-left: 20px; padding-right: 20px; }
   .nav-tabs-default .tab-pane .nav-tabs.nav-justified > li > a { padding-left: 5px; padding-right: 5px; }
 
-  #hero .hero-big { font-size: 130px; }
+  #hero .hero-big { font-size: 90px; }
   .navigation-bar-header .navigation-bar > li a { padding-left: 5px; padding-right: 5px; font-size: 16px; }
 }
 

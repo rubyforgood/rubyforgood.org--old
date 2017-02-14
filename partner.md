@@ -38,10 +38,10 @@ The project development is free! We do this to help the people who are making th
 
 #### Okay, I'm sold, how do I get involved?
 
-The process starts with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that. 
+The process starts with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that.
 - About 5-6 weeks before the event we'll find someone suitable to lead a team to build your software and put them in touch with you.
 They will meet and drill down with you and what you really need.They will confirm requirements with you and then present them to the team that will be working on your software at our event.
 They will meet virtually (skype/hangouts/etc) with you during the event to introduce the team and to clarify any questions.
 Within one month of the event's completetion we will deliver the software to you.
 
-[Email us](mailto:info@rubyforgood.org) or submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform).
+[Email us](mailto:{{ site.data.constants.contact_email }}) or submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform).

@@ -18,7 +18,7 @@ By the very nature of our conference, our attendees are some of the most passion
 $1,000
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Silver Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Small logo on the conference homepage.
@@ -34,7 +34,7 @@ $1,000
 $2,000
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Large logo on the conference homepage.
@@ -51,7 +51,7 @@ $2,000
 $3,000
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Name and URL included in email blasts to attendees
@@ -70,7 +70,7 @@ $3,000
 Contact us!
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
 
 - Let us know what you're looking for
@@ -94,7 +94,7 @@ Contact us!
 T-shirt Sponsor
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Adamantium Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Adamantium Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
 </div>
 
 - Name and URL included in email blasts to attendees
@@ -112,7 +112,7 @@ T-shirt Sponsor
 $1 – $500
 
 <div class="btn-wrapper">
-<a href="mailto:info@rubyforgood.org?subject=Donor Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Donor Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
 </div>
 
 - Contribute towards the Ruby for Good Scholarship fund, used to allow more people the opportunity to participate

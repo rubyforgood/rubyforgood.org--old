@@ -2,6 +2,10 @@
   height: 50px;
 }
 
+.navigation-bar-header {
+  z-index: 9;
+}
+
 .navigation-spacing {
   padding-top: 50px;
 }
@@ -119,3 +123,5 @@ color: #57c2be;
 .github-avatars li:only-of-type:after {
   display: none;
 }
+
+.navigation-bar > li.active > ul.dropdown-menu a { color: #57c2be; width: 100% }

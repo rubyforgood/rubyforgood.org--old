@@ -4,9 +4,9 @@ layout: page
 
 ### Team Lead Guide
 So you’re considering leading a team for Ruby for Good 2017. You’re probably wondering what the heck that means. We’ve assembled some info on 1) what you can expect, 2) what we’ll expect from you, and 3) how to actually go about signing up.
- 
+
 We’ll start with the tl;dr – **Bottom line: Being a Ruby for Good Team Lead means making a 10-week commitment to lead and deliver an open source project—6 weeks prepping before the event, and 4 weeks of follow up after the event.**
- 
+
 Now for the details…
 
 
@@ -53,7 +53,7 @@ As a team lead you will be connecting with a partner organization that has a non
 * Connect with your organizer to update them on status.
 * Deploy; project will be finished and delivered.
 * Receive feedback on your mad team leading skillz.
- 
+
 ##### What team leads can expect from us?
 * We will ensure that the partner organization will work with you and be available for questions at the event.
 * We will make introductions between you and the partner organization.
@@ -71,7 +71,7 @@ As a team lead you will be connecting with a partner organization that has a non
 **You may have noticed that we didn't list technical skills. The truth is that generally if you've been doing development for a year you likely have the ability needed to lead a team. We'd love for you to get in touch about a project. Don't worry if you think you're missing some of the required skills. We're about learning and are happy to help and work with you to figure out a way to make it happen. Maybe that means a co-lead or appointing a technical decision maker on your team. If you want to lead a team, we're committed to figuring out a strategy to make it work!**
 
 **You should definitely reach out to past team leads and ask their experience. It is a lot of fun, great for the resume and extremely rewarding. [A past team lead wrote this excellent write-up of the experience.](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)**
- 
+
 ##### Interested in Leading a Team?
-Message an organizer on slack or send us an email at [info@rubyforgood.org](mailto:info@rubyforgood.org)
+Message an organizer on slack or send us an email at [{{ site.data.constants.contact_email }}](mailto:{{ site.data.constants.contact_email }})
 
