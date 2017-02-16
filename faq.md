@@ -118,7 +118,7 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 ##### How do I get there?
 
-See our <a href="/location">location</a> page for details! <a href="https://docs.google.com/forms/d/1aA0fJbbmxYW3lTqP6A7zLOnZbECzCd5d9f7L9ok_jLI/viewform?c=0&w=1">We are collecting information about carpooling here</a>. Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org.
+We are collecting information about carpooling [here](https://docs.google.com/spreadsheets/d/1nq7XrtqABpowMnNPPVbcRShYPwgfveUjF4TZu5CdCIU/edit). Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org. Hop into the #carpool channel in slack for more info!
 
 ##### How do I indicate I want to room with my friend/significant other?
 
