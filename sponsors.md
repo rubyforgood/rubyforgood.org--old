@@ -34,7 +34,7 @@ $1,000
 $2,000
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">Call Claimed! </a>
 </div>
 
 - Large logo on the conference homepage.
@@ -51,7 +51,7 @@ $2,000
 $3,000
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
 
 - Name and URL included in email blasts to attendees
