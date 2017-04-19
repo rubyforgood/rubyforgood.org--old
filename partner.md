@@ -8,7 +8,7 @@ layout: page
 
 #### What kind of projects do we work on?
 
-We excel at figuring out what your biggest pain points are and what kind of tedious repetitive tasks you do. Then we set about automating those tasks so you time can better be spent elsewhere. As our expertise is primarily with building web applications, the kind of projects that we excel at are those that require the recording and sharing of information, collaboration, web-based databases and coordination tools. These can seem a little vague, especially to non-technically oriented people, so here are questions to ask:
+We excel at figuring out what your biggest pain points are and what kind of tedious repetitive tasks you do. Then we set about automating those tasks so your time can better be spent elsewhere. As our expertise is primarily with building web applications, the kind of projects that we excel at are those that require the recording and sharing of information, collaboration, web-based databases and coordination tools. These can seem a little vague, especially to non-technically oriented people, so here are questions to ask:
 
 1. Are you recording data with pen/paper and later transferring that data to a computer?
 2. Do you pass word/excel/text files around with collaborators to share information?
@@ -30,7 +30,7 @@ Listen to what one of our amazing partner organizations from 2016 had to say:
 
 In order to build you the best software possible we need your participation so we can understand your needs. We require you to commit to at least two meetings with the person leading your team in the lead up to the event.
 
-You will also need to be available at least once during the event, ideally each day. Your team will will coordinate the times. This is necessary because the team building your software will inevitably run into design decisions that will require your input in order to resolve and keep the project moving forward.
+You will also need to be available at least once during the event, ideally each day. Your team will coordinate the times. This is necessary because the team building your software will inevitably run into design decisions that will require your input in order to resolve and keep the project moving forward.
 
 #### What does it cost?
 
@@ -40,8 +40,8 @@ The project development is free! We do this to help the people who are making th
 
 The process starts with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that.
 - About 5-6 weeks before the event we'll find someone suitable to lead a team to build your software and put them in touch with you.
-They will meet and drill down with you and what you really need.They will confirm requirements with you and then present them to the team that will be working on your software at our event.
-They will meet virtually (skype/hangouts/etc) with you during the event to introduce the team and to clarify any questions.
-Within one month of the event's completetion we will deliver the software to you.
+They will meet and drill down with you and what you really need. They will confirm requirements with you and then present them to the team that will be working on your software at our event.
+They will meet virtually (Skype, Google Hangouts, etc.) with you during the event to introduce the team and to clarify any questions.
+Within one month of the event's completion we will deliver the software to you.
 
 [Email us](mailto:{{ site.data.constants.contact_email }}) or submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform).
