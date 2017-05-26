@@ -17,8 +17,6 @@
     else if(width < 960) size = "Tablet";
     else size = "Desktop";
     if (width < 768){$('.animated').removeClass('animated').removeClass('hiding');}
-    // $('#screen').html( size + ' - ' + width );
-    // console.log( size, width );
   };
 
 
@@ -58,14 +56,6 @@
 
     jQuery(window).on("resize", heroInit);
     jQuery(document).on("ready", heroInit);
-
-    $('.navigation-bar').onePageNav({
-      currentClass: 'active',
-      changeHash: true,
-      scrollSpeed: 750,
-      scrollThreshold: 0.5,
-      easing: 'swing'
-    });
 
     $('.animated').appear(function(){
       var element = $(this);
@@ -141,21 +131,24 @@
       mapTypeId: MY_MAPTYPE_ID
     };
 
-    map = new google.maps.Map(document.getElementById('canvas-map'),mapOptions);
-    var image = 'assets/img/pmarker.png';
-    var myLatLng = new google.maps.LatLng(38.88677, -78.16596);
-    var beachMarker = new google.maps.Marker({
-      position: myLatLng,
-      map: map,
-      icon: image
-    });
-    var styledMapOptions = {
-      name: 'Custom Style'
-    };
+    // If there's no map, just return.
+    if (document.getElementById('canvas-map')) {
+      map = new google.maps.Map(document.getElementById('canvas-map'),mapOptions);
+      var image = 'assets/img/pmarker.png';
+      var myLatLng = new google.maps.LatLng(38.88677, -78.16596);
+      var beachMarker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        icon: image
+      });
+      var styledMapOptions = {
+        name: 'Custom Style'
+      };
 
-    var customMapType = new google.maps.StyledMapType(featureOpts, styledMapOptions);
+      var customMapType = new google.maps.StyledMapType(featureOpts, styledMapOptions);
 
-    map.mapTypes.set(MY_MAPTYPE_ID, customMapType);
+      map.mapTypes.set(MY_MAPTYPE_ID, customMapType);
+    }
   }
 
   google.maps.event.addDomListener(window, 'load', initialize);

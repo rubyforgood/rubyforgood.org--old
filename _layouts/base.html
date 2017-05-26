@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="all" />
   <link rel="stylesheet" href="assets/css/style-green.css" id="mainstyle" type="text/css" media="all" />
   <link rel="stylesheet" href="assets/css/custom.css" id="custom" type="text/css" media="all" />
+  {% for css_name in page.extra_css %}<link rel="stylesheet" href="/assets/css/{{ css_name }}">{% endfor %}
 
   <!--[if lt IE 9]>
   <script src="assets/js/html5.js"></script>
@@ -50,7 +51,6 @@
       <!--<![endif]-->
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
   <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="assets/js/jquery.nav.js"></script>
   <script type="text/javascript" src="assets/js/jquery.appear.js"></script>
   <script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
   <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
@@ -58,6 +58,7 @@
   <script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
   <script type="text/javascript" src="assets/mailchimp/js/mailing-list.js"></script>
   <script type="text/javascript" src="assets/js/scripts.js"></script>
+  {% for js_name in page.extra_js %}<script type="text/javascript" src="/assets/js/{{ js_name }}"></script>{% endfor %}
 
 </body>
 </html>

@@ -124,4 +124,26 @@ color: #57c2be;
   display: none;
 }
 
-.navigation-bar > li.active > ul.dropdown-menu a { color: #57c2be; width: 100% }
+.github-avatars-leaderless {
+  padding: 0;
+  margin: 0 0 20px 0;
+  list-style-type: none;
+}
+
+.github-avatars-leaderless p {
+  margin: 0;
+}
+
+.github-avatars-leaderless img {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  border: 1px rgba(0,0,0,0.1) solid;
+}
+
+.github-avatars-leaderless li {
+  display: inline-block;
+  position: relative;
+}
+
+.navigation-bar > li.open > ul.dropdown-menu a { color: #57c2be; width: 100% }
