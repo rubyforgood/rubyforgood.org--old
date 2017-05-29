@@ -18,25 +18,8 @@ jekyll serve
 
 The site will be available at [http://localhost:4000](http://localhost:4000).
 
-## Team Leads: Add or Update your project in the Yearbook
+## Project Information
 
-Add or update your project on this page by submitting a pull request to the rubyforgood.org repository:
-
-* Pull down or fork the repository
-* Create a branch with the year and your team name
-* Add the project information to `yearbook.md` according to the template. Be sure to place it under the project's year.
-* Push and make a pull request
-
-
-```
-##### Title of the Project
-
-Description of the project and the organization the project was built for. If
-possible, mention the impact the project has had for the original organization
-or others who have begun using it.
-
-{% include github-block.html
-  href="url-to-repository"
-  team="team-lead-github-username|pipe-separated|team-member|github|usernames"
-%}
-```
+Project information for Yearbook, Projects and the Help Wanted board is kept in the repo
+[meta](https://github.com/rubyforgood/meta).   Submit a pull request in that repo
+to change project listings.

@@ -4,11 +4,11 @@ title: Projects
 extra_css:
 - syntax.css
 extra_js:
-- moment.min.js
-- jquery.mixitup.min.js
-- spin.min.js
+- assets/js/moment.min.js
+- assets/js/jquery.mixitup.min.js
+- assets/js/spin.min.js
+- https://rawgit.com/rubyforgood/meta/master/projects.js
 ---
-{% include _global_js.html %}
 
 <div class="container">
   <div class="col-lg-12">
@@ -73,6 +73,10 @@ extra_js:
         <div class="col-sm-5">
           <h6><strong>Get Involved</strong></h6>
           <p class="issues"><a class='btn btn-default' role='button'></a></p>
+          <p class="contact">
+            <img src="assets/ico/web-slack-icon.png">
+            rubyforgood/<span class="slack"></span>
+          </p>
           <div class="contributors hidden">
             <strong>Contributors</strong>
             <div> </div>
@@ -98,7 +102,6 @@ extra_js:
   </div>
 </div><!-- /.container -->
 
-{% include _global_js.html %}
 <script type="text/javascript">
 
 // Create loading spinner with spin.js
@@ -124,7 +127,6 @@ var spinnerOpts = {
   hwaccel: false, // Whether to use hardware acceleration
   position: 'absolute', // Element positioning
 };
-var spinner = new Spinner(spinnerOpts).spin(document.getElementById('project-list'));
 
 // Arrays for collecting overall data to sort with MixItUp
 l = [];
@@ -139,9 +141,9 @@ function classify(str) {
   return x;
 }
 
-// Load the civic.json file and get working
-// This code is based on the projects page at https://github.com/open-city/open-gov-hack-night
 window.projects = function(data){
+  var spinner = new Spinner(spinnerOpts).spin(document.getElementById('project-list'));
+
   var projects = data;
 
   // Sort projects by most recently updated
@@ -239,8 +241,8 @@ window.projects = function(data){
     project.find('.issues a').text(issues ? (issues+" Open Issues") : "Submit an Idea");
 
     if (info.slack){
-      project.find(".contact a.slack").removeClass('hidden')
-      .attr('href', 'http://rubyforgood.slack.com/messages/' + info.slack);
+      project.find(".contact .slack").removeClass('hidden')
+      .text(info.slack);
     }
 
     // Continuous integration reports
@@ -276,13 +278,6 @@ window.projects = function(data){
   $.each(cat, function(i,l){
     $('.category-list').append('<li class="filter" data-filter=".category-'+l+'"><a>'+l.split('-').join(' ')+'</a></li>');
   });
-};
-
-// Make list sortable
-
-$(function(){
-
-  // Instantiate MixItUp:
 
   $('#project-list').mixItUp({
     animation: {
@@ -301,9 +296,6 @@ $(function(){
       }
     }
   });
-});
-
-$(document).ready(function(){
 
   // This resizes the c3 graphs properly ¯\_(ツ)_/¯
   $(window).trigger('resize');
@@ -316,7 +308,6 @@ $(document).ready(function(){
   // Make sure that the spinner stops
   spinner.stop();
 
-});
+};
 
 </script>
-<script src="https://rawgit.com/rubyforgood/meta/master/projects.js"></script>

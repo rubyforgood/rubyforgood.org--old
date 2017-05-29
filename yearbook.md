@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Yearbook
+extra_js:
+- https://rawgit.com/rubyforgood/meta/master/projects.js
 ---
 
 ### Projects

@@ -58,7 +58,7 @@
   <script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
   <script type="text/javascript" src="assets/mailchimp/js/mailing-list.js"></script>
   <script type="text/javascript" src="assets/js/scripts.js"></script>
-  {% for js_name in page.extra_js %}<script type="text/javascript" src="/assets/js/{{ js_name }}"></script>{% endfor %}
+  {% for js_name in page.extra_js %}<script type="text/javascript" src="{{ js_name }}"></script>{% endfor %}
 
 </body>
 </html>

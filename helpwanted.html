@@ -1,8 +1,9 @@
 ---
 title: Help Wanted
 layout: page
+extra_js:
+- https://rawgit.com/rubyforgood/meta/master/projects.js
 ---
-{% include _global_js.html %}
 
 <div class="container">
   <div class="col-lg-12">
@@ -24,7 +25,7 @@ layout: page
       <div class="issue-inner">
         <h6 class="project text-center"></h6>
         <hr/>
-        <h6 class="title text-center"></h6>
+        <p class="title text-center"></p>
         <div>
           <!-- <p class="summary"></p> -->
           <p class="labels"></p>
@@ -40,7 +41,7 @@ layout: page
     </div>
   </div>
 </div>
-{% include _global_js.html %}
+
 <script type="text/javascript">
 window.projects = function(data){
   var projects = data;
@@ -66,4 +67,3 @@ window.projects = function(data){
   });
 };
 </script>
-<script src="https://rawgit.com/rubyforgood/meta/master/projects.js"></script>
