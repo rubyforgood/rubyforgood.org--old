@@ -1,0 +1,313 @@
+---
+layout: page
+title: Projects
+extra_css:
+- syntax.css
+extra_js:
+- assets/js/moment.min.js
+- assets/js/jquery.mixitup.min.js
+- assets/js/spin.min.js
+- https://rawgit.com/rubyforgood/meta/master/projects.js
+---
+
+<div class="container">
+  <div class="col-lg-12">
+    <div class="col-lg-10 col-lg-offset-1 starter-template">
+      <h3>Our Projects</h3>
+      <p class="lead">Projects in 2017 will be focused on women’s issues and families.</p>
+      <p>To find issues that are keyboard-ready, check out our <a href="/helpwanted.html">Help Wanted</a> page.</p>
+    </div>
+    <div class="col-lg-12" id="sortbar">
+      <div id="sort-button">
+        <div id="filter-buttons" class="pull-right">
+          <div id="sort-divider" style="display:inline"><strong>Filter by:</strong></div>
+          <div class="btn-group">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+              Language <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu languages" role="menu"></ul>
+          </div>
+          <button class="btn btn-default filter" data-filter="all">Show All</button>
+        </div>
+        <div class="btn-group">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            Sort Projects <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu" role="menu">
+            <li class="sort" data-sort="created:dec"><a>Age</a></li>
+            <li class="sort" data-sort="updated:dec"><a>Latest commit</a></li>
+            <li class="sort" data-sort="open-issues:dec"><a>Open issues</a></li>
+            <li class="sort" data-sort="lines:dec"><a>Lines of code</a></li>
+            <li class="sort" data-sort="stars:dec"><a>Stars</a></li>
+            <li class="divider"></li>
+            <li class="sort" data-sort="random"><a>Randomize</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <hr class="col-lg-12">
+    <div class="col-lg-12">
+      <div id="project-list">
+        <!-- populated by js -->
+      </div>
+    </div>
+  </div>
+
+  <div style="display: none"> <!-- template for a project -->
+    <div id="project-template" class="project mix">
+      <div class="row">
+        <div class="col-sm-12 title">
+          <h4><img class='img-rounded thumbnail hidden' height='50' width='50' alt="thumbnail"><span class="name"></span></h4>
+          <p class="homepage hidden"><a>Website</a></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-7">
+          <p class="github-repo"><i class="fa fa-github"></i> <a class="repo-link">github repository</a></p>
+          <p class="description"></p>
+          <div class="row">
+            <p class="col-sm-6 started"><strong>Born</strong><br/> <span></span></p>
+            <p class="col-sm-6 lines"><strong>Lines of Code</strong><br/> <span></span></p>
+          </div>
+        </div>
+        <div class="col-sm-5">
+          <h6><strong>Get Involved</strong></h6>
+          <p class="issues"><a class='btn btn-default' role='button'></a></p>
+          <p class="contact">
+            <img src="assets/ico/web-slack-icon.png">
+            rubyforgood/<span class="slack"></span>
+          </p>
+          <div class="contributors hidden">
+            <strong>Contributors</strong>
+            <div> </div>
+          </div>
+          <div class="needs hidden">
+            <strong>Needs</strong>
+            <div><ul> </ul></div>
+          </div>
+          <div class="ci-reports">
+            <strong>CI Reports</strong>
+            <div></div>
+          </div>
+          <div class="row">
+            <p class="col-sm-12 language"><strong>Language(s)</strong><br/> <span></span></p>
+          </div>
+          <p class="license hidden"><strong>License</strong><br/> <span></span></p>
+          <p class="contact">
+            <a class='btn btn-info btn-sm email hidden' role='button' name="slack" title="Slack"><i class='fa fa-envelope fa-lg'></i></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /.container -->
+
+<script type="text/javascript">
+
+// Create loading spinner with spin.js
+var spinnerOpts = {
+  lines: 13, // The number of lines to draw
+  length: 56, // The length of each line
+  width: 14, // The line thickness
+  radius: 43, // The radius of the inner circle
+  scale: 1.5, // Scales overall size of the spinner
+  corners: 1, // Corner roundness (0..1)
+  color: '#000', // #rgb or #rrggbb or array of colors
+  opacity: 0.25, // Opacity of the lines
+  rotate: 0, // The rotation offset
+  direction: 1, // 1: clockwise, -1: counterclockwise
+  speed: 1, // Rounds per second
+  trail: 60, // Afterglow percentage
+  fps: 20, // Frames per second when using setTimeout() as a fallback for CSS
+  zIndex: 2e9, // The z-index (defaults to 2000000000)
+  className: 'spinner', // The CSS class to assign to the spinner
+  top: '200px', // Top position relative to parent
+  left: '50%', // Left position relative to parent
+  shadow: false, // Whether to render a shadow
+  hwaccel: false, // Whether to use hardware acceleration
+  position: 'absolute', // Element positioning
+};
+
+// Arrays for collecting overall data to sort with MixItUp
+l = [];
+cat = [];
+
+// Function to turn multi-word strings into class-friendly formats
+function classify(str) {
+  x = str.replace(/\w\S*/g, function(txt) {
+    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  });
+  x = x.replace(/ /g,"-");
+  return x;
+}
+
+window.projects = function(data){
+  var spinner = new Spinner(spinnerOpts).spin(document.getElementById('project-list'));
+
+  var projects = data;
+
+  // Sort projects by most recently updated
+  projects.sort(function(a,b) { return new Date(b.pushed_at) - new Date(a.pushed_at); });
+
+  // Begin iterating over the JSON file
+  $.each(projects, function(i,info){
+
+    // Insert the information into the site's HTML
+    var project = $('#project-template').clone();
+    project.prop('id', 'project'+i);
+    $("#project-list").append(project);
+
+    // Get info for the project, starting with Github info that always exists
+    var name = info.name;
+    var created = moment(info.created_at).fromNow();
+    project.attr("data-created", info.created_at);
+    var updated = moment(info.pushed_at).fromNow();
+    project.attr("data-updated", info.pushed_at);
+    var issues = info.open_issues;
+    project.attr("data-open-issues",issues);
+    var repo_link = info.html_url;
+    project.attr("data-forks",info.forks);
+    project.attr("data-stars",info.watchers);
+    if (info.main_language === null){
+      info.main_language = "Text";
+    }
+
+    // Get copyright license information
+    if (info.license) {
+      project.find(".license").removeClass("hidden")
+      .find("span").html(info.license.name);
+    } else {
+      project.find(".license").removeClass("hidden")
+      .find("span").html("None");
+    }
+
+    // Calculate language usage
+    var language = info.main_language;
+    var total = 0;
+    var languages = "";
+    $.each(info.languages, function(i,lang){
+      total += lang[1];
+    });
+    $.each(info.languages, function(i,lang){
+      var percentage = Math.ceil(100*(lang[1]/total));
+      languages += lang[0]+": "+percentage+"% | ";
+      if (($.inArray(lang[0], l) == -1) && (percentage>30)) {
+        l.push(lang[0]);
+      }
+      if (percentage>30){
+        project.addClass("language-"+lang[0]);
+      }
+    });
+    languages = languages.substring(0, languages.length - 3);
+    project.attr("data-lines",total);
+    if (languages.length === 0) {
+      languages = "Text: 100%";
+      project.addClass("language-Text");
+      if ($.inArray("Text", l) == -1) {
+        l.push("Text");
+      }
+    }
+
+    project.find("h4 span.name").text(name);
+
+    project.find(".github-repo").removeClass('hidden')
+    .find('a.repo-link').attr('href', repo_link).text("Github repository >");
+
+    project.find('.description').text(info.long_description);
+
+    if (info.homepage){
+      project.find(".homepage").removeClass('hidden')
+      .find('a').attr('href', info.homepage).text(info.homepage);
+    }
+
+    $.each(info.contributors, function(k,v){
+      project.find('.contributors').removeClass('hidden'); // important on first iteration only
+      var c = $("<a><img class='' height='36' width='36'></a>");
+      c.attr('href', v.link);
+      c.find('img').attr({
+        src: v.avatar_url,
+        alt: v.name
+      });
+      project.find('.contributors div').append(c);
+    });
+
+    project.find('.started span').text(created);
+
+    project.find('.lines span').html(total);
+
+    project.find('.language span').html(languages);
+
+    project.find('.issues a').attr('href', repo_link+'/issues');
+    project.find('.issues a').text(issues ? (issues+" Open Issues") : "Submit an Idea");
+
+    if (info.slack){
+      project.find(".contact .slack").removeClass('hidden')
+      .text(info.slack);
+    }
+
+    // Continuous integration reports
+
+    if (info.ci.travis) {
+      var travis = $("<p><a><img></a></p>");
+      travis.find('img').attr("src",info.html_url.replace('github.com','travis-ci.org')+".svg");
+      project.find('.ci-reports').append(travis);
+    }
+    if (info.ci.continua11y) {
+      var continua11y = $("<p><a><img></a></p>");
+      continua11y.find('img').attr("src",info.html_url.replace('github.com','continua11y.herokuapp.com')+".svg");
+      project.find('.ci-reports').append(continua11y);
+    }
+    if (info.ci.codeclimate) {
+      var codeclimate = $("<p><a><img></a></p>");
+      codeclimate.find('img').attr("src",info.html_url.replace('github.com','codeclimate.com/github')+"/badges/gpa.svg");
+      project.find('.ci-reports').append(codeclimate);
+    }
+    if (info.ci.coverage) {
+      var coverage = $("<p><a><img></a></p>");
+      coverage.find('img').attr("src",info.html_url.replace('github.com','codeclimate.com/github')+"/badges/coverage.svg");
+      project.find('.ci-reports').append(coverage);
+    }
+  });
+
+  // Create filter options for languages
+  l.sort();
+  $.each(l, function(i,l){
+    $('.languages').append('<li class="filter" data-filter=".language-'+l+'"><a>'+l+'</a></li>');
+  });
+  cat.sort();
+  $.each(cat, function(i,l){
+    $('.category-list').append('<li class="filter" data-filter=".category-'+l+'"><a>'+l.split('-').join(' ')+'</a></li>');
+  });
+
+  $('#project-list').mixItUp({
+    animation: {
+      enable: false
+    },
+    layout: {
+      display: 'block'
+    },
+    callbacks: {
+      onMixLoad: function(){
+        $(this).mixItUp('setOptions', {
+          animation: {
+            enable: true
+          },
+        });
+      }
+    }
+  });
+
+  // This resizes the c3 graphs properly ¯\_(ツ)_/¯
+  $(window).trigger('resize');
+
+  // Hide CI reports that 404'd
+  $("img").error(function () {
+      $(this).hide();
+  });
+
+  // Make sure that the spinner stops
+  spinner.stop();
+
+};
+
+</script>

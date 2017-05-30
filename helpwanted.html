@@ -1,0 +1,69 @@
+---
+title: Help Wanted
+layout: page
+extra_js:
+- https://rawgit.com/rubyforgood/meta/master/projects.js
+---
+
+<div class="container">
+  <div class="col-lg-12">
+    <div class="col-lg-12 starter-template">
+      <h3>Help Wanted</h3>
+      <div class="col-md-10 col-md-offset-1">
+                <p class="lead">These issues have been marked by projects as ones where help is particularly appreciated. You may be the right person for the job!</p>
+            </div>
+    </div>
+    <div class="col-lg-12">
+      <div class="row" id="issue-list">
+        <!-- populated by js -->
+      </div>
+    </div>
+  </div>
+
+  <div style="display: none"> <!-- template for a project -->
+    <div class="col-md-4 issue mix" id="issue-template">
+      <div class="issue-inner">
+        <h6 class="project text-center"></h6>
+        <hr/>
+        <p class="title text-center"></p>
+        <div>
+          <!-- <p class="summary"></p> -->
+          <p class="labels"></p>
+          <p class="pull-right">
+            <a class="link" href="#">
+              <span class="fa fa-github"></span>
+              View on Github
+            </a>
+          </p>
+          <p>Comments: <span class="comments"></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+window.projects = function(data){
+  var projects = data;
+  $.each(projects, function(i, info) {
+    issues = info.help_wanted;
+
+    if (issues.length > 0) {
+      $.each(issues, function(i, issue){
+        var box = $('#issue-template').clone();
+        box.prop('id', 'issue'+i);
+        $("#issue-list").append(box);
+
+        box.find(".title").removeClass("hidden").text(issue.issue);
+        // box.find(".summary").removeClass("hidden").text(issue.body);
+        box.find(".link").removeClass("hidden").attr("href", issue.issue_url);
+        box.find(".comments").removeClass("hidden").text(issue.comments);
+                box.find(".project").removeClass("hidden").text(issue.project);
+        $.each(issue.labels, function(i, label){
+          box.find(".labels").removeClass("hidden").append("<span class='btn btn-sm btn-default'>"+label.name+"</span>");
+        });
+      });
+    }
+  });
+};
+</script>

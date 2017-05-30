@@ -1,10 +1,19 @@
 ---
 layout: page
+title: Yearbook
+extra_js:
+- https://rawgit.com/rubyforgood/meta/master/projects.js
 ---
 
 ### Projects
 
 Here’s a list of the organizations and projects we’ve been able to help over the past years making the world a gooder place — if you have a great idea for a future project, let us know and <a href="/submit-project.html">suggest a project</a>.
+
+#### 2017
+
+ In 2017, Ruby for Good was held in Front Royal, Virgina at [George Mason University’s Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/).
+
+{% include projects-yearbook.html year="2017" %}
 
 #### 2016
 

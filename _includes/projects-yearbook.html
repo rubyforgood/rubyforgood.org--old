@@ -1,0 +1,69 @@
+<!-- This is the format for yearbook projects going forward from 2017 -->
+
+<div class="hidden"> <!-- template for a project - this is not displayed -->
+  <div id="project-template" class="project mix">
+
+    <h5 class="name"></h5>
+
+    <p class="description"></p>
+
+    <div class="github-block">
+      <a class="repo-link btn btn-xs btn-primary pull-left" target="_blank">
+      </a>
+
+      <ul class="contributors github-avatars-leaderless pull-left">
+      </ul>
+    </div>
+
+    <div class="clearfix"></div>
+  </div>
+</div>
+
+<div id="project-list">
+  <!-- populated by js -->
+</div>
+
+<div class="clearfix"></div>
+
+<script type="text/javascript">
+// This function gets applied to the data by projects.js below
+window.projects = function(data){
+  var projects = data;
+
+  // Begin iterating over the JSON file
+  $.each(projects, function(i,info){
+
+    // Repos with See are second repos, which we won't list
+    if (info.long_description.startsWith("See")) {
+      return;
+    }
+
+    // Insert the information into the site's HTML
+    var project = $('#project-template').clone();
+    project.prop('id', 'project'+i);
+    $("#project-list").append(project);
+
+    var name = info.name;
+    var repo_link = info.html_url;
+
+    project.find('.name').text(name);
+
+    project.find('a.repo-link').attr('href', repo_link).text("View Project on GitHub");
+
+    project.find('.description').text(info.long_description);
+
+    $.each(info.contributors, function(k,v){
+      project.find('.contributors').removeClass('hidden'); // important on first iteration only
+
+      var c = $("<li><p><a target='_blank'><img class='' height='36' width='36'></a></p></li>");
+      c.find('a').attr('href', v.link).attr('title', v.link);
+      c.find('img').attr({
+        src: "https://avatars.githubusercontent.com/"+v.name,
+        alt: v.name
+      });
+      project.find('.contributors').append(c);
+    });
+
+  });
+};
+</script>
