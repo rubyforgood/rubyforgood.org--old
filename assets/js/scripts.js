@@ -1,7 +1,7 @@
 (function(){
 
   // Init global DOM elements, functions and arrays
-  window.app 			                   = {el : {}, fn : {}};
+  window.app                         = {el : {}, fn : {}};
   app.el['window']                   = $(window);
   app.el['document']                 = $(document);
   app.el['back-to-top']              = $('.back-to-top');
@@ -16,7 +16,7 @@
     else if(width < 768) size = "Mobile landscape";
     else if(width < 960) size = "Tablet";
     else size = "Desktop";
-    if (width < 768){$('.animated').removeClass('animated').removeClass('hiding');}
+    if (width < 768) { $('.animated').removeClass('animated').removeClass('hiding'); }
   };
 
 
@@ -46,8 +46,17 @@
 
     $('#mobileheader').html($('#header').html());
 
+    // fix toggling dropdown inside dropdown
+    // when click on dropdown link inside mobile menu, bootstrap will toggle both, submenu and parent menu
+    // this fix will toggle only submenu
+    $('#mobileheader li.dropdown [data-toggle="dropdown"]').on('click', function (e) {
+      e.stopPropagation();
+      e.preventDefault();
+      $(this).closest('li').toggleClass('open');
+    });
+
     function heroInit() {
-      var hero        = jQuery('#hero'),
+      var hero      = jQuery('#hero'),
         winHeight   = jQuery(window).height(),
         heroHeight  = winHeight;
 

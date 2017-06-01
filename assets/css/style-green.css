@@ -758,6 +758,13 @@ label.error { display: block; }
   #mobileheader .open .navigation-bar:last-child { border-top:none; padding-top: 10px; padding-bottom: 30px; }
   #mobileheader .navigation-bar li { padding-top: 2px; padding-bottom: 2px; display: block; text-align: center;}
 
+  #mobileheader li.dropdown.open ul.dropdown-menu {
+    position: static;
+    width: 100%;
+    margin: -2px 0 12px;
+    padding: 0;
+  }
+
   #hero { padding-top: 2%; }
   .navigation-bar > li.featured a { margin-left: 0 }
   .nav-tabs-simple .nav-tabs li a { font-size: 20px; padding: 0; }
