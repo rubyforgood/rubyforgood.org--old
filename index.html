@@ -15,7 +15,9 @@ layout: base
     </nav>
     <div class="hero-content text-center">
       <div class="hero-small">
+        <!--
         <hr /><span>{{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}}, {{ site.data.constants.dates.year}}</span><hr />
+        -->
       </div>
       <div class="hero-big">RUBY<wbr><span class="hero-big-em">FOR</span><wbr>GOOD</div>
       <div class="hero-normal">
@@ -128,7 +130,36 @@ layout: base
   </div>
 </section>
 <!-- End About Section -->
+
+<!-- Newsletter Section -->
+<section id="newsletter" class="section light">
+  <div class="overlay"></div>
+  <div class="container">
+    <article class="article-big animated hiding" data-animation="fadeInDown" data-delay="0">
+      <h5>Newsletter <span class="highlight">Signup</span></h5>
+      <p>Get the latest updates, early notice for <span class="highlight">event registrations</span>, and other Ruby for Good news!</p>
+        <form action="https://rubyforgood.us8.list-manage.com/subscribe/post?u=2eec95e401f96687d14f4af24&amp;id=65f831bb77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll" class="">
+            <div class="mc-field-group form-group form-inline">
+              <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="your@email.com" style="width:400px" >
+              <input type="submit" class="btn btn-xs btn-default" value="Subscribe" />
+            </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2eec95e401f96687d14f4af24_65f831bb77" tabindex="-1" value=""></div>
+          </div>
+        </form>
+      </div>
+      <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    </article>
+  </div>
+</section>
+<!-- End Newsletter Section -->
+
 <!-- Stat Section -->
+<!--
 <section id="stat" class="section light">
   <div class="overlay"></div>
   <div class="container">
@@ -168,6 +199,7 @@ layout: base
     </div>
   </div>
 </section>
+-->
 <!-- End Stat Section -->
 <!-- Details Section -->
 <section id="elements" class="section dark">
@@ -827,29 +859,6 @@ layout: base
     </div>
   </div>
 </section>
-<!-- Newsletter Section -->
-<!--
-<section id="newsletter" class="section light">
-  <div class="overlay"></div>
-  <div class="container">
-    <article class="article-big animated hiding" data-animation="fadeInDown" data-delay="0">
-      <h5>Newsletter <span class="highlight">Signup</span></h5>
-      <p>No Spam - only <span class="highlight">latest news</span>, price and activity updates!</p>
-      <form id="subscribe" class="form" action="<?=$_SERVER['PHP_SELF']; ?>" method="post">
-        <div class="form-group form-inline">
-          <input type="email" class="form-control required" id="NewsletterEmail" name="NewsletterEmail" placeholder="your@email.com" />
-          <input type="submit" class="btn btn-xs btn-default" value="Submit" />
-          <span id="response">
-            <? require_once('assets/mailchimp/inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
-          </span>
-        </div>
-
-      </form>
-    </article>
-  </div>
-</section>
--->
-<!-- End Newsletter Section -->
 <!-- Elements Section -->
 <!--
 <section id="elements" class="section dark">
@@ -1013,3 +1022,4 @@ layout: base
 
 <!-- End Price Section -->
 <!-- End Map Section -->
+
