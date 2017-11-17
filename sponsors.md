@@ -15,10 +15,10 @@ By the very nature of our conference, our attendees are some of the most passion
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Silver**
-$1,000
+$1,500
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">All Claimed!</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">4 Available</a>
 </div>
 
 - Small logo on the conference homepage.
@@ -31,10 +31,10 @@ $1,000
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Gold**
-$2,000
+$2,500
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">All Claimed! </a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
 - Large logo on the conference homepage.
@@ -48,10 +48,10 @@ $2,000
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Platinum**
-$3,000
+$3,500
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
 </div>
 
 - Name and URL included in email blasts to attendees
