@@ -9,7 +9,7 @@ We're very proud to again be organizing the Ruby for Good conference. This confe
 
 ###### Why Sponsor?
 
-By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Last year the conference was fully registered with a large waitlist. Due to the demand we anticipate once again increasing the attendee limit.
+By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Plus, we are a 501(c)3 non-profit!
 
 <section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3" markdown="1">
@@ -31,7 +31,7 @@ $1,500
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Gold**
-$2,500
+$3,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
@@ -48,7 +48,7 @@ $2,500
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Platinum**
-$3,500
+$4,500
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
