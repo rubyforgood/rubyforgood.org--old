@@ -19,7 +19,7 @@ We excel at figuring out what your biggest pain points are and what kind of tedi
 
 We can and have built other kinds of software and this is only to give you an idea. We'll definitely find a way to help!
 
-Listen to what one of our amazing partner organizations from 2016 had to say:
+Listen to what one of our amazing partner organizations from 2017 had to say:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kON0NSr6qk8" frameborder="0" allowfullscreen></iframe>
 
