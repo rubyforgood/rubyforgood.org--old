@@ -39,7 +39,7 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 ##### What ARE the projects this year?
 
-This year projects are focused around womens issues and families and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
+This year projects are focused around issues facing our local communities and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
 
 ##### I want to lead a team. What do I do?
 
@@ -51,7 +51,7 @@ In general, leading a team entails connecting with stakeholders, initial archite
 
 ##### Do you allow remote teams at Ruby for Good?
 
-Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2018 for very enterprising and motivated individuals. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2019 for very enterprising and motivated individuals. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### How can I help?!
 
@@ -70,7 +70,7 @@ By May 1st or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After February 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+After March 10th we will be unable to offer refunds but we will happily help coordinate exchanges until May 10th. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### What does my registration go toward?
 
@@ -78,7 +78,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-Feb 10, 2017!
+Feb 8, 2018!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
@@ -90,11 +90,11 @@ Most of the organizing team is planning on arriving at 10am but feel free to bea
 
 ##### How does food work?
 
-The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner). We'll post the hours and details shortly. It's all-you-can-eat so be prepared to fill up your tray and eat until you're full!
+All food is provided, you just need to bring yourself! We'll even provide snacks in the evenings when we're all socializing/playing games/werewolf!
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely. In 2017 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;) Attendees from 2016 who had dietary restrictions told us this was the best they had ever been fed at an event!
+Absolutely.
 
 ##### What's it REALLY like at Ruby for Good?
 
@@ -103,10 +103,6 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 * http://alwaysbelearning.co/2014/08/05/ruby-for-good/
 * http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
 * http://rolentle.com/ruby-for-good/
-
-##### What tour? What's a FONZ?
-
-The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We'll have more information about this soon!
 
 ##### Do you have scholarships?
 
@@ -132,14 +128,14 @@ Rooms contain two single beds and a bathroom. After registration closes (May 1),
 
 We are proud to have a <a href="/coc">code of conduct</a>.
 
-##### How is 2017 different from 2016?
+##### How is 2018 different from 2017?
 
-Cost is slightly higher because the Smithsonian is charging us more.
+We've moved to Washington D.C. and have a couple other surprises too!
 
 ##### Can my family come?
 
 Unfortunately not this year due to the location being a closed research institute.
 
-##### Do I get something special if I've been for the past 4 years?
+##### Do I get something special if I've been for the past 5 years?
 
 A big bear hug from all the organizers!

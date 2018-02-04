@@ -3,34 +3,28 @@ layout: page
 ---
 ### Attending Ruby for Good
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2017 the event will take place in Front Royal, VA at [George Mason University's Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us May 17-21, 2017 for the fun of giving back!
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2018 the event will take place in Washington, DC at [Georgetown University](https://georgetown.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us June 7-10, 2018 for the fun of giving back!
 
 ###### How Does Ruby for Good Work?
 
-The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2016 projects are focused around conservation and the environment.
+The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2018 projects are focused around issues affecting our communities.
 
 This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers and designers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
 
 ###### That Sounds Awesome, Tell Me More!
 
-[Here is the schedule for 2017.](/2017.html)
+[Here is the schedule for 2018.](/2018.html)
 
 Here is what actual attendees have written about the event:
 
-###### 2016
 * [http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
 * [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
 * [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
-
-###### 2015
 * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
 * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/)
 * [http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
-
-###### 2014
-
 * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
@@ -40,9 +34,9 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll be i
 
 Also — if you have a project in mind that you’d like to lead, [suggest a project](/submit-project.html) to work on!
 
-###### Purchasing tickets
+###### Registering
 
-Tickets go on sale Feb 10, 2017!
+Registration opens on Feb 8th, 2018!
 
 <!--Tickets go on sale April 4, 2016.
 

@@ -133,7 +133,7 @@
       panControl: false,
       mapTypeControl: false,
       streetViewControl: false,
-      center: new google.maps.LatLng(38.88668, -78.17662),
+      center: new google.maps.LatLng(38.9076131, -77.0744472),
       mapTypeControlOptions: {
         mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
       },
@@ -144,7 +144,7 @@
     if (document.getElementById('canvas-map')) {
       map = new google.maps.Map(document.getElementById('canvas-map'),mapOptions);
       var image = 'assets/img/pmarker.png';
-      var myLatLng = new google.maps.LatLng(38.88677, -78.16596);
+      var myLatLng = new google.maps.LatLng(38.9076131, -77.0744472);
       var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
