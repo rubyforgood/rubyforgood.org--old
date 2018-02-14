@@ -2,7 +2,7 @@
 layout: page
 ---
 
-##### Ruby for Good Code of Conduct
+# Code of conduct
 
 Like the technical community as a whole, the Ruby for Good team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
@@ -10,7 +10,7 @@ Diversity is one of our huge strengths, but it can also lead to communication is
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This code of conduct applies to all spaces managed by the Ruby for Good team or at George Mason University. This includes IRC, Slack, the mailing lists, the issue tracker, Ruby for Good events, and any other forums created by the project team which the community uses for communication.
+This code of conduct applies to all spaces managed by the Ruby for Good team or at Georgetown University. This includes IRC, Slack, the mailing lists, the issue tracker, Ruby for Good events, and any other forums created by the project team which the community uses for communication.
 
 Be welcoming, friendly, and patient. Be considerate. Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 
@@ -32,7 +32,7 @@ When we disagree, try to understand why. Disagreements, both social and technica
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund. The organizers and volunteers will be introduced at the beginning of the event.
 
-Ruby for Good organizers will be happy to help participants contact GMU police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+Ruby for Good organizers will be happy to help participants contact Georgetown police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value you and your attendance.
 
 We're people trying to make the world better.
 
