@@ -21,7 +21,7 @@ $1,500
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">4 Available</a>
 </div>
 
-- Small logo on the conference homepage.
+- Small logo on the conference homepage
 - Listed on the website
 - Mention on Twitter
 - Option to pass out swag at the event
@@ -91,7 +91,7 @@ Contact us!
 <div class="speaker-item animated fadeInUp visible" markdown="1">
 
 ###### **Adamantium**
-T-shirt Sponsor
+Conference Clothing Sponsor
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Adamantium Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
@@ -102,6 +102,22 @@ T-shirt Sponsor
 - Can suggest 1 topic to be worked on at the event.
 - Hugs on demand for life from the conference organizers
 - Two tickets to attend the conference
+
+</div>
+</div>
+<div class="col-md-3 col-sm-3">
+<div class="speaker-item animated fadeInUp visible" markdown="1">
+
+###### **MINASWAN**
+$750
+
+<div class="btn-wrapper">
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=MINASWAN Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
+</div>
+
+- Support the travel and attendance cost of one of our non-profit stakeholders.
+- Mention on Twitter
+- Option to pass out swag at the event
 
 </div>
 </div>
