@@ -72,6 +72,39 @@ By May 1st or when we sell out, whichever comes first!
 
 After March 10th we will be unable to offer refunds but we will happily help coordinate exchanges until May 10th. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
+##### I’m am, or want to host, an out-of-towner…
+
+Welcome! We’d love to have any out-of-towners arrive early. If you want to be a tourist for a few days, we’ll find you somewhere to stay while you are here! If you are a local and have some extra space in your house for a Gooder to cozy up, either ping Kalimar or join the #housing channel on slack.
+
+##### Which airport should I fly into?
+
+The best airport is probably Reagan National (closer to our venue) but if you are coming early we suggest coordinating with your host—they may live closer to a different airport.
+
+##### Where do I park?
+
+We’re still working with the venue and will let everyone know as soon as we do.
+
+##### I heard that in DC weed has been decriminalized, can I bring some with me?
+
+Regardless of DC laws, Georgetown University prohibits the possession/use/distribution on their premises.
+
+##### Can we drink alcohol?
+
+Fermented beverages are A-okay with Georgetown University—they are not a dry campus. Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation.
+
+##### Where on Georgetown’s campus will be we staying?
+
+We’ll be staying in Arrupe hall.
+
+##### I live in Clarendon/Foggy Bottom/nearby why do I have to stay on site?
+
+We love helping organizations that do good, but another significant part of our mission is to grow the community and provide opportunities for Gooders to connect face-to-face—dancing, karaoke, werewolf, meditation, you name it. We want to build a strong, healthy, inclusive community and need your help to do that. AMAZING connections happen when people are around each other. Indeed, I’ve heard tell of an infamous karaoke duet partner that landed their fellow duet-singer a job by calling their manager at Ruby for Good—after midnight!—and had said duet-singer hired on the spot. Amazing things, I’m tellin’ ya. So please plan to be there, mentally and physically present, for the entirety of the event. <3
+On the pragmatic side, the contracts we signed with Georgetown also require attendees stay on site or it invalidates our insurance!
+
+##### What fun extra stuff do you have planned?
+
+Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, and more. We’ve volun-told Casey (begged) to teach dancing again this year and in reverting back to childhood, Aaron is planning on doing some fun adult coloring and we’ve heard that there may even be some fun Ruby for Good themed coloring books too! If you have an idea for something you’d like to do or lead, jump into the #evening-fun channel on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and secret hitler!
+
 ##### What does my registration go toward?
 
 The event costs money to put on. We try to raise as much as possible through sponsorships and donations but so far this amount has been unable to cover the cost of venue, food, shirts, transportation, and other minutia. By charging a little, we're able to break even for the event.
@@ -131,10 +164,6 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 ##### How is 2018 different from 2017?
 
 We've moved to Washington D.C. and have a couple other surprises too!
-
-##### Can my family come?
-
-Unfortunately not this year due to the location being a closed research institute.
 
 ##### Do I get something special if I've been for the past 5 years?
 
