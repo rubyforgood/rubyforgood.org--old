@@ -96,70 +96,46 @@
 
   });
 
-  // ****** GOOGLE MAP *******
-  var map;
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2FsaW1hciIsImEiOiJjamZwZjI3eG4xMWcwMnFwZXlmeWlpZjYxIn0.x4tB7Pictd1bEOFDtBUolQ';
 
-  var MY_MAPTYPE_ID = 'custom_style';
+  var map = new mapboxgl.Map({
+      container: 'canvas-map',
+      style: 'mapbox://styles/kalimar/cjfjpo6ioa9vg2slg1pjbxt78',
+      center: [-77.0725, 38.9072],
+      zoom: 16
+  });
 
-  function initialize() {
+  let navControl = new mapboxgl.NavigationControl();
+  map.addControl(navControl, 'top-right');
 
-    var featureOpts = [
-      {
-        stylers: [
-          { saturation: -20 },
-          { lightness: 40 },
-          { visibility: 'simplified' },
-          { gamma: 0.8 },
-          { weight: 0.4 }
-        ]
-      },
-      {
-        elementType: 'labels',
-        stylers: [
-          { visibility: 'on' }
-        ]
-      },
-      {
-        featureType: 'water',
-        stylers: [
-          { color: '#dee8ff' }
-        ]
-      }
-    ];
-
-    var mapOptions = {
-      zoom: 14,
-      scrollwheel: false,
-      panControl: false,
-      mapTypeControl: false,
-      streetViewControl: false,
-      center: new google.maps.LatLng(38.9076131, -77.0744472),
-      mapTypeControlOptions: {
-        mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
-      },
-      mapTypeId: MY_MAPTYPE_ID
-    };
-
-    // If there's no map, just return.
-    if (document.getElementById('canvas-map')) {
-      map = new google.maps.Map(document.getElementById('canvas-map'),mapOptions);
-      var image = 'assets/img/pmarker.png';
-      var myLatLng = new google.maps.LatLng(38.9076131, -77.0744472);
-      var beachMarker = new google.maps.Marker({
-        position: myLatLng,
-        map: map,
-        icon: image
+  map.on('load', function() {
+    map.loadImage('assets/img/r4g-map-pin.png', function(error, image) {
+      if (error) throw error;
+      map.addImage('rfg-pin', image)
+      map.addLayer({
+        "id": "poi",
+        "type": "symbol",
+        "source": {
+          "type": "geojson",
+          "data": {
+            "type": "FeatureCollection",
+            "features": [{
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [-77.072, 38.90782]
+              }
+            }]
+          }
+        },
+        "layout": {
+          "icon-image": "rfg-pin",
+          "icon-size": {
+            "stops": [[6, 0.05], [22, 0.5]],
+          },
+          "icon-offset": [15, 15]
+        }
       });
-      var styledMapOptions = {
-        name: 'Custom Style'
-      };
-
-      var customMapType = new google.maps.StyledMapType(featureOpts, styledMapOptions);
-
-      map.mapTypes.set(MY_MAPTYPE_ID, customMapType);
-    }
-  }
-
-  google.maps.event.addDomListener(window, 'load', initialize);
-
+    });
+  })
 })();
