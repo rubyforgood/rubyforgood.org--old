@@ -12,12 +12,12 @@ Now for the details…
 
 #### What Does It Mean To Lead A Team?
 
-As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby for Good organizers, pitching your project to Ruby for Good attendees, leading your team at the event on May 18-21, and then seeing the project through to completion.
+As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby for Good organizers, pitching your project to Ruby for Good attendees, leading your team at the event on June 7-10, and then seeing the project through to completion.
 
 #### What we expect from team leads:
 
 ###### Week 1 (April 29-May 5)
-* Attend an all-hands google hangout for 2017 team leads
+* Attend an all-hands google hangout for 2018 team leads
 * After your organizer writes an introduction email, reach out to stakeholder via email to introduce yourself
 * Research your organization and familiarize yourself with their business problems. Begin to understand the organization and their needs.
 
