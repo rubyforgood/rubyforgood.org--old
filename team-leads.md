@@ -36,7 +36,7 @@ As a team lead you will be connecting with a partner organization that has a non
 
 ###### Week 5 (May 27-June 2)
 * Create a readme in the rubyforgood github repo we have created for your project. This readme should give information about the organization and what we will be building for them. A good example readme can be seen [here](https://github.com/rubyforgood/habitat_humanity/).
-* Attend all-hands google hangout for 2017 team leads – a final check in to get your questions answered before the official event happens in one week.
+* Attend all-hands google hangout for 2018 team leads – a final check in to get your questions answered before the official event happens in one week.
 * Connect with your organizer to provide update on project status, as necessary.
 
 ###### Week 6 (June 3-9)
@@ -45,11 +45,11 @@ As a team lead you will be connecting with a partner organization that has a non
 * Set team goals with your team. See above for inspiration.
 * Lead the team during the event.
 
-###### Week 7 (May 21-27)
+###### Week 7 (June 10-16)
 * Make plan to deploy with organizer.
 * Note that about 20% of our projects finish during the event—and we’re happy about that. We don’t want you or your team burning yourselves out. Ruby for Good is as much about building community as it is about doing good. If you work late into the evenings, you miss out on playing board games and werewolf and we want to see your face during these social times!
 
-###### Week 8-10 (Jun 10-July 7)
+###### Week 8-10 (Jun 16-July 7)
 * Connect with your organizer to update them on status.
 * Deploy; project will be finished and delivered.
 * Receive feedback on your mad team leading skillz.
