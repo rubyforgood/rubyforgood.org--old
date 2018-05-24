@@ -40,6 +40,7 @@ As a team lead you will be connecting with a partner organization that has a non
 * Connect with your organizer to provide update on project status, as necessary.
 
 ###### Week 6 (June 3-9)
+* Attend a team lead stakeholder bbq on June 6.
 * Ruby for Good 2018 – June 7-10
 * Pitch your project to Ruby for Good attendees on opening night (5pm sharp): provide a brief intro to the organization, to the project, ask for specific technical skills if needed, communicate your team’s goals if you feel strongly about it (examples: deploy by end of event, emphasize team learning, master new gems, mandate pairing for all coding, explore new front end technologies, etc.)
 * Set team goals with your team. See above for inspiration.
