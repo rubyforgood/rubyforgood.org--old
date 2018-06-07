@@ -72,7 +72,7 @@ By May 1st or when we sell out, whichever comes first!
 
 After March 10th we will be unable to offer refunds but we will happily help coordinate exchanges until May 10th. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### I’m am, or want to host, an out-of-towner…
+##### I’m, or want to host, an out-of-towner…
 
 Welcome! We’d love to have any out-of-towners arrive early. If you want to be a tourist for a few days, we’ll find you somewhere to stay while you are here! If you are a local and have some extra space in your house for a Gooder to cozy up, either ping Kalimar or join the #housing channel on slack.
 
