@@ -26,7 +26,7 @@ Be careful in the words that you choose. We are a community of professionals, an
 - Unwelcome sexual attention.
 - Advocating for, or encouraging, any of the above behavior.
 - Repeated harassment of others. In general, if someone asks you to stop, then stop.
-- If you believe someone is violating the code of conduct, we ask that you report it by emailing [Teresa Finn](mailto:teresa@rubyforgood.org) or [Kalimar Maia](mailto:kalimar@rubyforgood.org). Any email received will be kept confidential.
+- If you believe someone is violating the code of conduct, we ask that you report it by reaching out to an organizer. You may also report by emailing [Teresa Finn](mailto:teresa@rubyforgood.org) or [Kalimar Maia](mailto:kalimar@rubyforgood.org). Any email received will be kept confidential.
 
 When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Ruby is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of Ruby comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 
