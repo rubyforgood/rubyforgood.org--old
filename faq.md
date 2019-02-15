@@ -111,7 +111,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-Feb 8, 2018!
+Feb 28, 2019!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
@@ -161,10 +161,10 @@ Rooms contain two single beds and a bathroom. After registration closes (May 1),
 
 We are proud to have a <a href="/coc">code of conduct</a>.
 
-##### How is 2018 different from 2017?
+##### How is 2019 different from 2018?
 
-We've moved to Washington D.C. and have a couple other surprises too!
+We've moved out of the district to George Mason University.
 
-##### Do I get something special if I've been for the past 5 years?
+##### Do I get something special if I've been for the past 6 years?
 
 A big bear hug from all the organizers!

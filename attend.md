@@ -3,17 +3,17 @@ layout: page
 ---
 ### Attending Ruby for Good
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2018 the event will take place in Washington, DC at [Georgetown University](https://georgetown.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us June 7-10, 2018 for the fun of giving back!
+Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2019 the event will take place in Washington, DC at [George Mason University](https://gmu.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us July 25-28, 2019 for the fun of giving back!
 
 ###### How Does Ruby for Good Work?
 
-The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2018 projects are focused around issues affecting our communities.
+The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2019 projects are focused around issues affecting our communities.
 
 This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers and designers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
 
 ###### That Sounds Awesome, Tell Me More!
 
-[Here is the schedule for 2018.](/2018.html)
+[Here is the schedule for 2019.](/2019.html)
 
 Here is what actual attendees have written about the event:
 
@@ -36,7 +36,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 
 ###### Registering
 
-Registration opens on Feb 8th, 2018!
+Registration opens on Feb 28th, 2019!
 
 <!--Tickets go on sale April 4, 2016.
 
