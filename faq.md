@@ -111,7 +111,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-Feb 28, 2019!
+Mar 4, 2019!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 

@@ -36,7 +36,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 
 ###### Registering
 
-Registration opens on Feb 28th, 2019!
+Registration opens on Mar 4th, 2019!
 
 <!--Tickets go on sale April 4, 2016.
 
