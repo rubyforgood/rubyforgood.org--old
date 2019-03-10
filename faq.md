@@ -11,6 +11,7 @@ Ruby for Good is an annual event based out of the DC-metro area where Ruby progr
 ##### Why are ya'll organizing Ruby for Good?
 
 Lots of organizations need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve non-profit business/technical problems. Very little effort on our part can make a huge difference to a non-profit. We want to help!
+
 <!-- Inception story here -->
 
 ##### What skill level do I need to be to attend?
@@ -55,10 +56,10 @@ Unfortunately we're unable to accomodate remote teams this time around. We'd be 
 
 ##### How can I help?!
 
-* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
-* Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
-* Donations/Sponsors - we need lots of help with fundraising. Ruby for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
-* Attendees - we need both developer and designer expertise!
+- Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+- Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
+- Donations/Sponsors - we need lots of help with fundraising. Ruby for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
+- Attendees - we need both developer and designer expertise!
 
 ##### Is this a hackathon?
 
@@ -84,22 +85,13 @@ The best airport is probably Reagan National (closer to our venue) but if you ar
 
 We’re still working with the venue and will let everyone know as soon as we do.
 
-##### I heard that in DC weed has been decriminalized, can I bring some with me?
-
-Regardless of DC laws, Georgetown University prohibits the possession/use/distribution on their premises.
-
 ##### Can we drink alcohol?
 
-Fermented beverages are A-okay with Georgetown University—they are not a dry campus. Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation.
-
-##### Where on Georgetown’s campus will be we staying?
-
-We’ll be staying in Arrupe hall.
+Fermented beverages are A-okay with George Mason University—they are not a dry campus. Assuming you are of age, you are welcome to partake of fermented beverages in your dorm rooms. We do encourage moderation.
 
 ##### I live in Clarendon/Foggy Bottom/nearby why do I have to stay on site?
 
 We love helping organizations that do good, but another significant part of our mission is to grow the community and provide opportunities for Gooders to connect face-to-face—dancing, karaoke, werewolf, meditation, you name it. We want to build a strong, healthy, inclusive community and need your help to do that. AMAZING connections happen when people are around each other. Indeed, I’ve heard tell of an infamous karaoke duet partner that landed their fellow duet-singer a job by calling their manager at Ruby for Good—after midnight!—and had said duet-singer hired on the spot. Amazing things, I’m tellin’ ya. So please plan to be there, mentally and physically present, for the entirety of the event. <3
-On the pragmatic side, the contracts we signed with Georgetown also require attendees stay on site or it invalidates our insurance!
 
 ##### What fun extra stuff do you have planned?
 
@@ -133,9 +125,9 @@ Absolutely.
 
 So glad you asked! For expert insight, here are a couple of blog posts written up by past attendees:
 
-* http://alwaysbelearning.co/2014/08/05/ruby-for-good/
-* http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
-* http://rolentle.com/ruby-for-good/
+- http://alwaysbelearning.co/2014/08/05/ruby-for-good/
+- http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
+- http://rolentle.com/ruby-for-good/
 
 ##### Do you have scholarships?
 
