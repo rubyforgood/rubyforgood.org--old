@@ -6,24 +6,6 @@
   twitter: seanmarcia
   github: SeanMarcia
   img: assets/img/gallery/sean_thumbnail.jpg
-- name: Teresa Finn
-  about: Loves community, helping others and making a difference in the world.
-  title: Cat Herder
-  twitter: teresa_finn
-  github: teresafinn
-  img: assets/img/gallery/teresa_thumbnail.jpg
-- name: Kalimar Maia
-  title: Schlepper
-  about: Loves bringing people together through technology and food&mdash;and making music with others.
-  img: assets/img/gallery/kalimar_thumbnail.jpg
-  twitter: kalimar
-  github: kalimar
-- name: Christopher Sexton
-  title: Disorganizer
-  img: assets/img/gallery/chris_thumbnail.jpg
-  about: Loves building cool things, the community, helping folks learn&mdash;and silly projects with kids.
-  github: csexton
-  twitter: crsexton
 - name: Polly Schandorf
   title: Go-Getter
   img: assets/img/gallery/polly_thumbnail.jpg
@@ -36,3 +18,9 @@
   about: Loves organizing things and getting people together, solving cool problems, and making good food.
   github: jenpen
   twitter: jenpengelly
+- name: Craig Zaccaro
+  title: Organizer
+  img: assets/img/gallery/craig_thumbnail.jpg
+  about: Loves building useful stuff, contributing to the community, and playing golf. Definitely a villager.
+  github: CraigJZ
+  twitter: craigzaccaro
