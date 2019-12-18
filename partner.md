@@ -6,7 +6,7 @@ layout: page
 </div>
 <div class="col-md-8 col-sm-8" markdown="1">
 ### Partner with us
-[Suggest a project we can build for your organization.](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform)
+[Suggest a project we can build for your organization.](https://airtable.com/shrC6VjWgka26a6eh)
 
 We can build software to help your organization achieve its mission. We bring software engineers together to build projects for social good. We know how sometimes bad software gets in the way of letting people do their best work. We want to help make software do what it needs to do, so you can focus on your mission.
 </div>
@@ -91,12 +91,12 @@ We can build software to help your organization achieve its mission. We bring so
   <hr>
   <div class="center">
     <h2><div class="highlight icon icon-badges-votes-10"></div></h2>
-    <h5 class="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform">Submit Your Project Idea</a></h5>
+    <h5 class="center"><a href="https://airtable.com/shrC6VjWgka26a6eh">Submit Your Project Idea</a></h5>
   </div>
 After you submit your project, we'll follow up with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that.
 
 <div class="center btn-wrapper">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform" class="btn btn-sm btn-primary">Submit Your Project</a>
+<a href="https://airtable.com/shrC6VjWgka26a6eh" class="btn btn-sm btn-primary">Submit Your Project</a>
 </div>
 <br>
 Or [email us](mailto:{{ site.data.constants.contact_email }}) with questions.
