@@ -15,7 +15,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Silver**
 
-\$1,500
+\$2,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">4 Available</a>
@@ -32,7 +32,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Gold**
 
-\$3,000
+\$4,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
@@ -49,7 +49,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Platinum**
 
-\$4,500
+\$6,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
@@ -68,7 +68,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Ruby**
 
-Contact us!
+\$10,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
@@ -81,7 +81,7 @@ Contact us!
 - All our partner non-profits will express their thanks for your company on social media
 - Hugs and goodwill from the conference organizers for life
 - The opportunity to address the attendees on day two
-- Four included tickets for the event
+- Six included tickets for the event
 
 </div>
 </section>
