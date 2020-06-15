@@ -156,7 +156,7 @@ hr.white { border-color: #F3AE9B; }
 .navigation-bar > li.featured {opacity:0;  -webkit-transition: all .5s linear;-moz-transition: all .5s linear; transition: all .5s linear;}
 .sticky .navigation-bar > li.featured {opacity:1;}
 
-.navigation-bar > li.featured {padding-bottom: 22px; padding-top: 22px; margin-right: 25px; float: right; }
+.navigation-bar > li.featured {padding-bottom: 22px; padding-top: 22px; float: right; }
 .navigation-bar > li.featured i{ padding-right: 10px;}
 
 .navigation-bar > li.featured a {
