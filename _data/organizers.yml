@@ -12,15 +12,15 @@
   about: Loves building a great and supportive community, and playing games. Definitely not a villager.
   github: pollygee
   twitter: N3rdyTeacher
-- name: Jen Pengelly
-  title: Empathizer
-  img: assets/img/gallery/jen_thumbnail.jpg
-  about: Loves organizing things and getting people together, solving cool problems, and making good food.
-  github: jenpen
-  twitter: jenpengelly
+# - name: Jen Pengelly
+#   title: Empathizer
+#   img: assets/img/gallery/jen_thumbnail.jpg
+#   about: Loves organizing things and getting people together, solving cool problems, and making good food.
+#   github: jenpen
+#   twitter: jenpengelly
 - name: Craig Zaccaro
   title: Organizer
   img: assets/img/gallery/craig_thumbnail.jpg
-  about: Loves building useful stuff, contributing to the community, and playing golf. Definitely a villager.
+  about: Loves building useful stuff and contributing to the community.
   github: CraigJZ
   twitter: craigzaccaro
