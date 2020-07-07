@@ -1,9 +1,12 @@
 ---
 
 dates:
-  start: April 3rd
-  end: April 30th
+  start: Sept. 5th
+  end:  Sept. 6th
   year: "2020"
+  start2: Sept. 12th
+  end2: Sept. 13th
+  year2: "2020"
 address: "Online"
 suggest_project: 'https://airtable.com/shrC6VjWgka26a6eh'
 contact_email: "info@rubyforgood.org"
