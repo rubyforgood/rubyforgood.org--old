@@ -4,66 +4,68 @@ layout: page
 
 ### FAQ:
 
-##### What is Ruby for Good?
+##### What is the Ruby for Good DC event?
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+The Ruby for Good DC event  is an annual event held every year since 2014,  based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build technology solutions in support of nonprofits with meaningful missions that benefit our communities. In-person events consist of hanging out in communal space for a weekend with a bunch of developers and designers to build something vital to mission-driven work. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. However, given travel and gathering restrictions, the 2020 event will be virtual. Join us for a gratifying weekend that is more critical now than ever before! Questions? Check out the FAQ below or send us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### Why are ya'll organizing Ruby for Good?
+##### What is the mission of Ruby for Good?
 
-Lots of organizations need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve non-profit business/technical problems. Very little effort on our part can make a huge difference to a non-profit. We want to help!
+Several nonprofits  need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve their business/technical problems. Very little effort on our part can make a huge difference to a nonprofit. We want to help!
 
 <!-- Inception story here -->
 
-##### What skill level do I need to be to attend?
+##### What skill-level do I need to have to attend?
 
-All experience levels are definitely welcome! We have a wide variety of skill levels ranging from those who have next to no experience, all the way up to very senior people who work at places like Github and LivingSocial. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
+All experience levels are definitely welcome! We have a wide variety of skill levels ranging from beginners, all the way up to very senior gooders, with years of experience, who work at places like Github and Salesforce. The event is as much about learning as it is about building lasting solutions. Groups are very collaborative and you’ll definitely have the opportunity to work closely with others and push a lot of code. :)
 
 ##### Do I need to be a programmer?
 
-We need both developers and designers at Ruby for Good.
+Developers, designers, product, and project managers, marketing and website designers are all welcome at Ruby for Good.
 
 ##### Do I need to be a Ruby programmer?
 
-You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
+You don’t HAVE to be a Ruby programmer but it does help. We’re more than happy to welcome programmers of other languages, especially if you’re interested in learning some Ruby. :)
 
 ##### How do you choose projects?
 
-A lot of cold-calling/emailing individuals and organizations, soliciting suggestions from people we know, and from YOU in the community. We go through a process of vetting possible projects and select based on viability of completion, need, open-source status, and general impact on business functions.
+We partner with nonprofits with missions that are vital to the communities they support and effect change in many different ways from social justice to environmental conservation, and much more. . Our Organizers Committee goes through a rigorous process of vetting potential projects and selecting them based on the scope and scale of their missions, and the viability of completion, criticality to mission success, open-source status, and impact on business functions.
 
-##### What's an appropriate project?
+##### What could be a potential project?
 
-Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? <a href="https://airtable.com/shrC6VjWgka26a6eh"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Potential projects are those that can be completed in about a weekend, help improve the overall efficiency of a nonprofit, and are open-source, so we can help give back to the tech community as well. Have the beginnings of an idea? <a href="https://airtable.com/shrC6VjWgka26a6eh">Suggest a project! <i class="fa fa-heart-o fa-1x"></i></a>
 
 ##### How do I suggest a project?
 
-Have a project you're jonesing to work on? <a href="https://airtable.com/shrC6VjWgka26a6eh"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+If you’d like to work with a specific mission or project, recommend <a href="https://airtable.com/shrC6VjWgka26a6eh">one here! <i class="fa fa-heart-o fa-1x"></i></a>
 
 ##### What ARE the projects this year?
 
-This year projects are focused around issues facing our local communities and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
+Given the unique needs of communities created by the global pandemic in 2020, this year projects are focused around issues facing local communities and we have some great organizations lined up! We’ll announce project details, including mission-centric teams you can join, around the beginning of August, after registration closes.
 
 ##### I want to lead a team. What do I do?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
+During registration we’ll ask if you’d like to lead a team - say yes! We’ll be in touch in mid-to-late August with potential projects. We’ll brief you on expectations and put you in touch with your nonprofit stakeholder so you can work with them in advance of the event to set up project requirements, milestones, and plan the initial set up so you can hit the ground running with your team at the Ruby for Good event. Setup includes creating a GitHub repo under the [Ruby for Good GitHub](https://github.com/rubyforgood), filing issues, and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
-##### I don't know if I want to lead a team. What do I do?
+##### How can I get more information on leading a team? I’m not certain what it entails!
 
-In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here’s more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015!  Still unsure and want to connect with an organizer to learn more? Send us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 <!-- ##### Do you allow remote teams at Ruby for Good?
 
 Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2019 for very enterprising and motivated individuals. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>. -->
 
-##### How can I help?!
+##### How can I help?
 
-- Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://airtable.com/shrC6VjWgka26a6eh"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
-- Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
-- Donations/Sponsors - we need lots of help with fundraising. Ruby for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
-- Attendees - we need both developer and designer expertise!
+- Recommend a project: we are always looking for potential partnerships! <a href="https://airtable.com/shrC6VjWgka26a6eh">Suggest a project! <i class="fa fa-heart-o fa-1x"></i></a>
+- Lead a team: a great way to up your skills, especially if you’ve been programming for a while and are eager for the experience of leading a team.
+- Donations/Sponsors: we need a lot of support with fundraising! The Ruby for Good event has significant costs associated with it, and we’d like to offer economically priced tickets and low registration fees to those who attend. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. Here’s more [information on sponsorships](/sponsors)!
+- Attendees: we need developer and designer expertise, along with product and project managers!
 
 ##### Is this a hackathon?
 
-No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
+No, this is definitely not a hackathon!  
+
+Ruby for Good events focus on using a specific programming language to build  technology solutions toward a clearly articulated goal, working hand-in-hand with nonprofit stakeholders to solve issues and challenges that serve communities in need. 
 
 <!-- ##### When do I need to purchase my tickets?
 
@@ -97,9 +99,11 @@ We love helping organizations that do good, but another significant part of our 
 
 Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, and more. We’ve volun-told Casey (begged) to teach dancing again this year and in reverting back to childhood, Aaron is planning on doing some fun adult coloring and we’ve heard that there may even be some fun Ruby for Good themed coloring books too! If you have an idea for something you’d like to do or lead, jump into the #evening-fun channel on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and secret hitler! -->
 
-##### What does my registration go toward?
+##### What does my registration fee go toward?
 
-The event costs money to put on. We try to raise as much as possible through sponsorships and donations but so far this amount has been unable to cover the cost of venue, food, shirts, transportation, and other minutia. By charging a little, we're able to break even for the event.
+The majority of the fee goes toward event costs. We try to raise as much as possible through sponsorships and donations but that is not always enough  to cover the cost of operations, domain purchases, server costs, and swag. The registration fee enables us to break even for the event and more importantly, provides scholarship opportunities for those that would otherwise be unable to attend.  
+
+The event is exclusively volunteer driven and fees are not used toward the compensation of anyone involved. 
 
 ##### When do tickets go on sale?
 
@@ -121,17 +125,18 @@ All food is provided, you just need to bring yourself! We'll even provide snacks
 
 Absolutely. -->
 
-##### What's it REALLY like at Ruby for Good?
+##### What’s it REALLY like at Ruby for Good?
 
-So glad you asked! For expert insight, here are a couple of blog posts written up by past attendees:
+So glad you asked! For insight from former attendees, here are a couple of blog posts written up by past attendees:
 
-- http://alwaysbelearning.co/2014/08/05/ruby-for-good/
-- http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
-- http://rolentle.com/ruby-for-good/
+<!-- - http://alwaysbelearning.co/2014/08/05/ruby-for-good/ -->
+- [Lessons Learned at Ruby for Good](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
+<!-- - [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/) -->
+- [Breaking out of the Attendee Role](https://tech.xogrp.com/breaking-out-of-the-attendee-role-587c392e52d1)
 
 ##### Do you have scholarships?
 
-We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).
+We have a limited number of scholarship tickets. Criteria for selection includes a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).
 
 <!-- ##### What do I need to bring?
 
@@ -155,8 +160,8 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 
 ##### How is 2020 different from 2019?
 
-Due to COVID-19 we are moving to an online format in 2020. We hope to be back in person once it is safe to do so.
+Due to COVID-19, the 2020 event will be virtual. We look forward to transitioning back to an in-person event as soon as it is safe to do so.
 
-##### Do I get something special if I've been for the past 6 years?
+##### Do I get something special if I’ve attended all events for the last 6 years?
 
 A big virtual bear hug from all the organizers!
