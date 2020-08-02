@@ -28,7 +28,7 @@ You don’t HAVE to be a Ruby programmer but it does help. We’re more than hap
 
 ##### How do you choose projects?
 
-We partner with nonprofits with missions that are vital to the communities they support and effect change in many different ways from social justice to environmental conservation, and much more. . Our Organizers Committee goes through a rigorous process of vetting potential projects and selecting them based on the scope and scale of their missions, and the viability of completion, criticality to mission success, open-source status, and impact on business functions.
+We partner with nonprofits with missions that are vital to the communities they support and effect change in many different ways from social justice to environmental conservation, and much more. Our Organizers Committee goes through a rigorous process of vetting potential projects and selecting them based on the scope and scale of their missions, and the viability of completion, criticality to mission success, open-source status, and impact on business functions.
 
 ##### What could be a potential project?
 
