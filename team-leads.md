@@ -12,7 +12,9 @@ Now for the details…
 
 #### What Does It Mean To Lead A Team?
 
-As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby for Good organizers, pitching your project to Ruby for Good attendees, leading your team at the event and then seeing the project through to completion. We will be updating this page soon for 2020's online Ruby for Good event. In the meantime, here is the team lead schedule from last year.
+As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby for Good organizers, pitching your project to Ruby for Good attendees, leading your team at the event and then seeing the project through to completion.  
+
+We will be updating this page soon for 2020's online Ruby for Good event. In the meantime, here is the team lead schedule from last year.
 
 #### What we expect from team leads:
 

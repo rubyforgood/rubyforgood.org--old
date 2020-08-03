@@ -20,19 +20,19 @@ Here is what actual attendees have written about the event:
 * [http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
 * [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
 * [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
-* [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/)
+<!-- * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/) -->
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
-* [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/)
+<!-- * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/) -->
 * [http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
-* [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/)
+<!-- * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/) -->
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
 ###### Interested in Leading a Team?
 
 During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. If you want to know what it will be like to lead a team this year, [read our team lead guide](/team-leads.html). For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:{{ site.data.constants.contact_email }}).
 
-Also — if you have a project in mind that you’d like to lead, [suggest a project](/submit-project.html) to work on!
+Also — if you have a project in mind that you’d like to lead, [suggest a project]({{site.data.constants.suggest_project}}) to work on!
 
 ###### Registering
 
