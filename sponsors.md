@@ -15,7 +15,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Silver**
 
-\$2,000
+\$500
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">4 Available</a>
@@ -24,7 +24,6 @@ By the very nature of our conference, our attendees are some of the most passion
 - Small logo on the conference homepage
 - Listed on the website
 - Mention on Twitter
-- Option to pass out swag at the event
 - One ticket to attend the conference
 
 </div>
@@ -32,16 +31,15 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Gold**
 
-\$4,000
+\$1,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
-- Large logo on the conference homepage.
+- Large logo on the conference homepage
 - Listed on the website
 - Mention on Twitter
-- Option to pass out swag at the event
 - Two tickets to attend the conference
 
 </div>
@@ -49,7 +47,7 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Platinum**
 
-\$6,000
+\$1,500
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
@@ -57,10 +55,9 @@ By the very nature of our conference, our attendees are some of the most passion
 
 - Name and URL included in email blasts to attendees
 - Recognition in the welcome announcements
-- At one mealtime (breakfasts, lunches or dinner) on each of the three days we will give a shout out to your company and what you do.
+- At one mealtime (breakfasts, lunches or dinner) on each of the three days we will give a shout out to your company
 - Listed on the website
 - Mention on Twitter
-- Option to pass out swag at the event
 - Three tickets to attend the conference
 
 </div>
@@ -68,20 +65,19 @@ By the very nature of our conference, our attendees are some of the most passion
 
 ###### **Ruby**
 
-\$10,000
+\$2,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
 
-- Let us know what you're looking for
-- We'll customize a package for you
+- We're excited to discuss partnership opporutnities, with a customized package
 - Name and URL included in email blasts to attendees
 - Recognition in the welcome announcements
 - All our partner non-profits will express their thanks for your company on social media
 - Hugs and goodwill from the conference organizers for life
 - The opportunity to address the attendees on day two
-- Six included tickets for the event
+- Four included tickets for the event
 
 </div>
 </section>
@@ -109,23 +105,6 @@ Conference Clothing Sponsor
 <div class="speaker-item animated fadeInUp visible" markdown="1">
 
 ###### **MINASWAN**
-
-\$750
-
-<div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=MINASWAN Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
-</div>
-
-- Support the travel and attendance cost of one of our non-profit stakeholders.
-- Mention on Twitter
-- Option to pass out swag at the event
-
-</div>
-</div>
-<div class="col-md-3 col-sm-3">
-<div class="speaker-item animated fadeInUp visible" markdown="1">
-
-###### **Donor**
 
 $1 – $500
 
