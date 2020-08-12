@@ -18,7 +18,7 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 Here is what actual attendees have written about the event:
 
 * [CustomInk Staff Attends Ruby for Good Event in 2016](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
-* [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
+* [How to Inspire Community in Programming](https://blog.codeship.com/how-to-inspire-community-in-programming/)
 * [https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
 <!-- * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/) -->
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
