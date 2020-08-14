@@ -21,7 +21,7 @@ Here is what actual attendees have written about the event:
 * [How to Inspire Community in Programming](https://blog.codeship.com/how-to-inspire-community-in-programming/)
 * [A Curious Loop Attendee Discusses the 2016 RfG Event](https://acuriousloop.wordpress.com/2016/06/21/ruby-for-good/)
 <!-- * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/) -->
-* [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
+* [Ruby for Good Team Accomplishment Slideshow in 2014](http://slides.com/jasonwieringa/rubyforgood#/)
 <!-- * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/) -->
 * [Leading a Team at Ruby for Good](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
