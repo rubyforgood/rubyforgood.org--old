@@ -23,7 +23,7 @@ Here is what actual attendees have written about the event:
 <!-- * [http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/](http://metalpolyglot.com/dev/ruby/ruby-for-good-retrospective/) -->
 * [http://slides.com/jasonwieringa/rubyforgood#/](http://slides.com/jasonwieringa/rubyforgood#/)
 <!-- * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/) -->
-* [http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
+* [Leading a Team at Ruby for Good](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
 <!-- * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/) -->
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
