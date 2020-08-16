@@ -24,7 +24,7 @@ Here is what actual attendees have written about the event:
 * [Ruby for Good Team Accomplishment Slideshow in 2014](http://slides.com/jasonwieringa/rubyforgood#/)
 <!-- * [http://rolentle.com/ruby-for-good/](http://rolentle.com/ruby-for-good/) -->
 * [Leading a Team at Ruby for Good](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
-* [http://technology.customink.com/blog/2015/08/05/ruby-for-good/](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
+* [Attending a Ruby for Good event in 2015](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
 <!-- * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/) -->
 * [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
