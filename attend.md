@@ -26,7 +26,7 @@ Here is what actual attendees have written about the event:
 * [Leading a Team at Ruby for Good](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)
 * [Attending a Ruby for Good event in 2015](http://technology.customink.com/blog/2015/08/05/ruby-for-good/)
 <!-- * [http://alwaysbelearning.co/2014/08/05/ruby-for-good/](http://alwaysbelearning.co/2014/08/05/ruby-for-good/) -->
-* [http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
+* [Lessons Learned at Ruby for Good Event](http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/)
 
 ###### Interested in Leading a Team?
 
