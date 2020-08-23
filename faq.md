@@ -10,7 +10,7 @@ The Ruby for Good DC event  is an annual event held every year since 2014,  base
 
 ##### What is the mission of Ruby for Good?
 
-Several nonprofits  need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve their business/technical problems. Very little effort on our part can make a huge difference to a nonprofit. We want to help!
+Our mission at Ruby for Good is to deliver specialized software development solutions to nonprofit organizations to bolster their critical missions, build an inclusive technology community, and provide technology-focused educational opportunities to underserved communities.
 
 <!-- Inception story here -->
 
