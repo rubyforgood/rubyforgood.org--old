@@ -9,7 +9,7 @@ layout: page
 
 The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals.
 
-This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers and designers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
+This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers, designers, and product and project managers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
 
 ###### That Sounds Awesome, Tell Me More!
 
