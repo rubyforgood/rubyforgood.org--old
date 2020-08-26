@@ -15,7 +15,8 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 
 [Here is the schedule for 2020.](/2020.html)
 
-Here is what actual attendees have written about the event:
+
+###### Attendees of previous Ruby for Good events have shared their experiences, read more here:
 
 * [CustomInk Staff Attends Ruby for Good Event in 2016](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
 * [How to Inspire Community in Programming](https://blog.codeship.com/how-to-inspire-community-in-programming/)
