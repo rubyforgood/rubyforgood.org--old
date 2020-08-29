@@ -4,7 +4,7 @@ layout: page
 
 ### Sponsors
 
-We're very proud to again be organizing the Ruby for Good conference. This conference, to our knowledge, is the first and currently only conference of this kind ever. We are bringing together Rubyists to learn, teach, and work on civic and open source projects.
+The Ruby for Good coding event is a one of a kind event for developers, designers, product managers, and people of diverse skill sets and levels. It is exclusively volunteer driven and your support would be incredibly meaningful, enabling us to continue providing technology solutions to nonprofit organizations in need, that are serving vital missions in their local communities. 
 
 ###### Why Sponsor?
 
