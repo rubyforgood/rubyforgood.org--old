@@ -8,7 +8,7 @@ layout: page
 ### Partner With Us
 [Suggest a project we can build for your organization.](https://airtable.com/shrC6VjWgka26a6eh)
 
-We can build software to help your organization achieve its mission. We bring software engineers together to build projects for social good. We know how sometimes bad software gets in the way of letting people do their best work. We want to help make software do what it needs to do, so you can focus on your mission.
+We build software solutions to help your organization achieve its mission! We bring technologists together to build projects toward effecting large-scale social impact. Inefficient and expensive software solutions are an impediment to efficiency. We want to help develop software solutions, so you can focus on your mission. 
 </div>
 
 &nbsp;
