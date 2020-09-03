@@ -16,7 +16,7 @@ We build software solutions to help your organization achieve its mission! We br
 <div class="col-md-6" markdown="1">
   <div class="center">
     <h2><div class="highlight icon icon-education-science-11"></div></h2>
-    <h5 class="center">Projects we build</h5>
+    <h5 class="center">Projects We Build</h5>
   </div>
   We excel at figuring out what your biggest pain points are and what kind of tedious repetitive tasks you do. Then we set about automating those tasks so your time can better be spent elsewhere. Our expertise is primarily with building web applications. This means that the kind of projects that we excel at are those that require the recording and sharing of information, collaboration, web-based databases and coordination tools.
 
