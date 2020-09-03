@@ -27,7 +27,7 @@ We build software solutions to help your organization achieve its mission! We br
 <div class="col-md-6" markdown="1">
   <div class="center">
     <h2><div class="highlight icon icon-ecology-09"></div></h2>
-    <h5 class="center">Problems we solve</h5>
+    <h5 class="center">Problems We Solve</h5>
   </div>
   1. Are you recording data with pen/paper and later transferring that data to a computer?
   2. Do you pass word/excel/text files around with collaborators to share information?
