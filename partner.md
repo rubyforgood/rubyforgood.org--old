@@ -52,7 +52,7 @@ We build software solutions to help your organization achieve its mission! We br
   <hr>
   <div class="center">
     <h2><div class="highlight icon icon-faces-users-04"></div></h2>
-    <h5 class="center">Your involvement</h5>
+    <h5 class="center">Your Involvement</h5>
   </div>
   In order to build you the best software possible we need your participation so we can understand your needs. We require you to commit to at least two meetings with the person leading your team in the lead up to the event.
 
