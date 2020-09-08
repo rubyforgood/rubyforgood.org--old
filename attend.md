@@ -37,7 +37,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 
 ###### Registering
 
-Public registration opens on July 13, 2020!
+Public registration for our 2020 Fall Event is now closed!
 
 <!--Tickets go on sale April 4, 2016.
 
