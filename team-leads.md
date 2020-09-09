@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### Team Lead Guide
-So you’re considering leading a team for Ruby for Good 2020. You’re probably wondering what the heck that means. We’ve assembled some info on 1) what you can expect, 2) what we’ll expect from you, and 3) how to actually go about signing up.
+So, you’re considering leading a team for Ruby for Good 2020. You’re probably wondering what that entails! We’ve assembled some info on 1) what you can expect, 2) what we’ll expect from you, and 3) how to actually go about signing up.
 
 We’ll start with the tl;dr – **Bottom line: Being a Ruby for Good Team Lead means making a 10-week commitment to lead and deliver an open source project—6 weeks prepping before the event, and 4 weeks of follow up after the event.**
 
