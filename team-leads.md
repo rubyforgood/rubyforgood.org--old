@@ -75,5 +75,5 @@ We will be updating this page soon for 2020's online Ruby for Good event. In the
 **You should definitely reach out to past team leads and ask their experience. It is a lot of fun, great for the resume and extremely rewarding. [A past team lead wrote this excellent write-up of the experience.](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/)**
 
 ##### Interested in Leading a Team?
-Message an organizer on slack or send us an email at [{{ site.data.constants.contact_email }}](mailto:{{ site.data.constants.contact_email }})
+Send us an email at [{{ site.data.constants.contact_email }}](mailto:{{ site.data.constants.contact_email }})
 
