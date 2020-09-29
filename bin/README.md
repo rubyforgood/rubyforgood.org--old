@@ -18,7 +18,7 @@
 ```sh
 $ git clone https://github.com/YOUR_GITHUB_USERNAME_HERE/rubyforgood.org
 ```
-* Otherwise, if you just want to get things running, clone from the OFN main repo:
+* Otherwise, if you just want to get things running, clone from the rubyforgood.org main repo:
 
 ```sh
 $ git clone https://github.com/rubyforgood/rubyforgood.org.git
