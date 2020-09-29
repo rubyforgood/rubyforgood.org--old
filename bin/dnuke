@@ -3,7 +3,7 @@
 # This script destroys all Docker containers and images.
 # SOURCE: https://gist.github.com/JeffBelback/5687bb02f3618965ca8f
 
-bin/nukec
+bin/dnukec
 
 echo '--------------------------------------'
 echo 'Killing and removing all Docker images'
