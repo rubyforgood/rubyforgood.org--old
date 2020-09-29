@@ -2,7 +2,11 @@
 
 This repository holds [rubyforgood.org](http://rubyforgood.org), a site built on [GitHub Pages](https://pages.github.com/).
 
-## Running Locally for Development
+## Running in Docker for Development (Easy Way)
+
+Go to the [bin/README.md](bin/README.md) page for more details.
+
+## Running Locally for Development (Hard Way)
 
 First, install dependencies with bundler:
 
