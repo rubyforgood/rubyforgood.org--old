@@ -11,13 +11,13 @@ Here’s a list of the organizations and projects we’ve been able to help over
 
 #### 2017
 
- In 2017, Ruby for Good was held in Front Royal, Virgina at [George Mason University’s Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/).
+ In 2017, the Ruby for Good event was held in Front Royal, Virgina at [George Mason University’s Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/).
 
 {% include projects-yearbook.html year="2017" %}
 
 #### 2016
 
- In 2016, Ruby for Good was held in Front Royal, Virgina at [George Mason University’s Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/).
+ In 2016, the Ruby for Good event was held in Front Royal, Virgina at [George Mason University’s Smithsonian-Mason School of Conservation](http://smconservation.gmu.edu/).
 
 ##### Portland Diaper Bank
 
