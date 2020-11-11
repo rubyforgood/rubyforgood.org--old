@@ -59,7 +59,7 @@ Unfortunately we're unable to accomodate remote teams this time around. We'd be 
 - Recommend a project: we are always looking for potential partnerships! <a href="https://airtable.com/shrC6VjWgka26a6eh">Suggest a project! <i class="fa fa-heart-o fa-1x"></i></a>
 - Lead a team: a great way to up your skills, especially if you’ve been programming for a while and are eager for the experience of leading a team.
 - Donations/Sponsors: we need a lot of support with fundraising! The Ruby for Good event has significant costs associated with it, and we’d like to offer economically priced tickets and low registration fees to those who attend. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. Here’s more [information on sponsorships](/sponsors)!
-- Attendees: we need developer and designer expertise, along with product and project managers!
+- Attendees: we need developer, designer, UX/UI expertise, along with product and project managers, and marketing gurus!
 
 ##### Is this a hackathon?
 
